@@ -1,0 +1,40 @@
+# mind-models Category Map
+
+How the 6 categories relate to each other and to the mind as a system.
+
+```
+                        ┌─────────────────────────────────────────┐
+                        │              MIND-MODELS                │
+                        └─────────────────────────────────────────┘
+                                           │
+          ┌────────────────────────────────┼───────────────────────────────┐
+          │                               │                               │
+    ┌─────▼──────┐                 ┌──────▼──────┐                ┌───────▼──────┐
+    │  COGNITIVE  │                 │  BEHAVIORAL │                │    SOCIAL    │
+    │             │                 │             │                │              │
+    │ How we      │◄────shapes─────►│ What we do  │◄───drives─────►│ How others   │
+    │ perceive &  │                 │ & how habits│                │ shape us &   │
+    │ think       │                 │ form        │                │ we shape them│
+    └──────┬──────┘                 └──────┬──────┘                └───────┬──────┘
+           │                              │                               │
+           │         ┌────────────────────┼────────────────────┐          │
+           │         │                   │                    │          │
+    ┌──────▼──────┐  │           ┌───────▼──────┐    ┌────────▼──────┐   │
+    │  EMOTIONAL  │◄─┘           │   DECISION   │    │ DEVELOPMENTAL │◄──┘
+    │             │              │              │    │               │
+    │ How feelings│◄──modulates──►│ How choices  │    │ How mind      │
+    │ arise & are │              │ are made     │    │ changes over  │
+    │ regulated   │              │              │    │ time          │
+    └─────────────┘              └──────────────┘    └───────────────┘
+```
+
+## Key Relationships
+
+| From | To | Relationship |
+|------|----|-------------|
+| Cognitive | Behavioral | Mental models drive automatic behavior |
+| Behavioral | Cognitive | Habits shape how we perceive and interpret |
+| Social | Cognitive | Others' behavior updates our beliefs |
+| Emotional | Decision | Affect modulates risk assessment and choice |
+| Cognitive | Decision | Heuristics and biases shape every choice |
+| Developmental | All | Changes in capacity affect all categories over time |
