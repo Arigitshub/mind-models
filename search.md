@@ -4,12 +4,24 @@ title: Search
 
 # Search
 
-Search the published model library using the generated JSON index.
+<section class="hero hero-compact">
+  <p class="eyebrow">Fast Lookup</p>
+  <h1>Search</h1>
+  <p class="hero-copy">Filter the generated search index by model title, tags, category, origin, or summary text.</p>
+</section>
 
-<input id="search-box" type="search" placeholder="Search by model, tag, category, or concept" style="width: 100%; max-width: 48rem; padding: 0.75rem 1rem; font-size: 1rem; border: 1px solid #c7d2da; border-radius: 0.5rem; margin: 1rem 0;" />
-
-<p id="search-status">Loading search index...</p>
-<div id="search-results"></div>
+<div class="search-layout">
+  <aside class="surface-card search-sidebar">
+    <h3>What to search</h3>
+    <p class="lede">Try terms like <code>groupthink</code>, <code>reward</code>, <code>developmental</code>, <code>Bandura</code>, or <code>identity</code>.</p>
+    <input id="search-box" type="search" placeholder="Search by model, tag, category, or concept" style="width: 100%; padding: 0.75rem 1rem; font-size: 1rem; border: 1px solid #c7d2da; border-radius: 0.75rem; margin: 1rem 0;" />
+    <p id="search-status">Loading search index...</p>
+    <p><a href="{{ '/models.json' | relative_url }}">Need structured data instead?</a></p>
+  </aside>
+  <section class="surface-card">
+    <div id="search-results" class="search-results"></div>
+  </section>
+</div>
 
 <script>
 const input = document.getElementById("search-box");

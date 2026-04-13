@@ -2,259 +2,353 @@
 title: Model Library
 ---
 
-# Model Library
+<section class="hero hero-compact">
+  <p class="eyebrow">Generated Library</p>
+  <h1>Model Library</h1>
+  <p class="hero-copy">A validated catalog of <strong>34 models</strong> spanning cognitive, behavioral, social, emotional, decision, and developmental frameworks.</p>
+  <div class="hero-actions">
+    <a class="button button-primary" href="{{ '/search' | relative_url }}">Search Models</a>
+    <a class="button button-secondary" href="{{ '/models.json' | relative_url }}">Download models.json</a>
+  </div>
+</section>
 
-This page is generated from the validated model files in `models/`. It currently indexes **28** models.
-
-## Quick Links
-
-- [Search]({{ '/search' | relative_url }})
-- [Machine-readable index]({{ '/search-index.json' | relative_url }})
+<section class="stats-grid">
+  <article class="stat-card">
+    <p class="stat-value">7</p>
+    <p class="stat-label">Cognitive</p>
+  </article>
+  <article class="stat-card">
+    <p class="stat-value">4</p>
+    <p class="stat-label">Behavioral</p>
+  </article>
+  <article class="stat-card">
+    <p class="stat-value">5</p>
+    <p class="stat-label">Social</p>
+  </article>
+  <article class="stat-card">
+    <p class="stat-value">5</p>
+    <p class="stat-label">Emotional</p>
+  </article>
+  <article class="stat-card">
+    <p class="stat-value">7</p>
+    <p class="stat-label">Decision</p>
+  </article>
+  <article class="stat-card">
+    <p class="stat-value">6</p>
+    <p class="stat-label">Developmental</p>
+  </article>
+</section>
 
 ## Cognitive (7)
 
 Biases, perception, memory, reasoning, and self-monitoring.
 
-### [Anchoring Effect](models/cognitive/anchoring-effect.md)
-
-The tendency to rely heavily on the first piece of information encountered (the "anchor") when making decisions or estimates — subsequent judgments adjust from the anchor but rarely far enough.
-
-- Origin: Amos Tversky & Daniel Kahneman, 1974
-- Tags: `judgment`, `numbers`, `negotiation`, `estimation`, `first-impression`
-- Related: [Availability Heuristic](models/cognitive/availability-heuristic.md), [Loss Aversion](models/decision/loss-aversion.md)
-
-### [Availability Heuristic](models/cognitive/availability-heuristic.md)
-
-Judging the likelihood of an event based on how easily an example comes to mind — rather than actual statistical frequency.
-
-- Origin: Amos Tversky & Daniel Kahneman, 1973
-- Tags: `memory`, `probability`, `risk`, `judgment`, `shortcut`
-- Related: [Confirmation Bias](models/cognitive/confirmation-bias.md), [Loss Aversion](models/decision/loss-aversion.md)
-
-### [Cognitive Dissonance](models/cognitive/cognitive-dissonance.md)
-
-The mental discomfort experienced when holding two contradictory beliefs, values, or behaviors simultaneously — driving the mind to resolve the tension by changing one of them.
-
-- Origin: Leon Festinger, 1957
-- Tags: `belief`, `conflict`, `rationalization`, `motivation`, `consistency`
-- Related: [Confirmation Bias](models/cognitive/confirmation-bias.md), [Metacognition](models/cognitive/metacognition.md)
-
-### [Confirmation Bias](models/cognitive/confirmation-bias.md)
-
-The tendency to search for, interpret, and recall information in a way that confirms one's pre-existing beliefs while ignoring contradicting evidence.
-
-- Origin: Peter Wason, 1960
-- Tags: `belief`, `perception`, `search`, `reasoning`, `information`
-- Related: [Cognitive Dissonance](models/cognitive/cognitive-dissonance.md), [Availability Heuristic](models/cognitive/availability-heuristic.md), [Dunning-Kruger Effect](models/cognitive/dunning-kruger.md)
-
-### [Dunning-Kruger Effect](models/cognitive/dunning-kruger.md)
-
-People with low competence in a domain overestimate their ability, while highly competent people underestimate theirs — because the skills needed to evaluate performance are the same skills required to perform.
-
-- Origin: David Dunning & Justin Kruger, 1999
-- Tags: `competence`, `confidence`, `metacognition`, `learning`, `self-assessment`
-- Related: [Confirmation Bias](models/cognitive/confirmation-bias.md), [Imposter Syndrome](models/emotional/imposter-syndrome.md), [Metacognition](models/cognitive/metacognition.md)
-
-### [Halo Effect](models/cognitive/halo-effect.md)
-
-The halo effect occurs when one positive trait or impression causes people to assume unrelated positive qualities, distorting overall judgment.
-
-- Origin: Edward Thorndike, 1920
-- Tags: `perception`, `judgment`, `bias`, `reputation`, `generalization`
-- Related: [Authority Bias](models/social/authority-bias.md), [Confirmation Bias](models/cognitive/confirmation-bias.md), [Anchoring Effect](models/cognitive/anchoring-effect.md)
-
-### [Metacognition](models/cognitive/metacognition.md)
-
-Thinking about one's own thinking — the ability to monitor, evaluate, and regulate cognitive processes, leading to more accurate self-assessment and better learning outcomes.
-
-- Origin: John Flavell, 1976
-- Tags: `self-awareness`, `learning`, `thinking`, `regulation`, `accuracy`
-- Related: [Dunning-Kruger Effect](models/cognitive/dunning-kruger.md), [Imposter Syndrome](models/emotional/imposter-syndrome.md), [Confirmation Bias](models/cognitive/confirmation-bias.md)
+<div class="card-grid">
+  <article class="model-card">
+    <p class="model-card-category">cognitive</p>
+    <h3><a href="{{ '/models/cognitive/anchoring-effect.md' | relative_url }}">Anchoring Effect</a></h3>
+    <p>The tendency to rely heavily on the first piece of information encountered (the "anchor") when making decisions or estimates — subsequent judgments adjust from the anchor but rarely far enough.</p>
+    <p class="meta-line"><strong>Origin:</strong> Amos Tversky & Daniel Kahneman, 1974</p>
+    <div class="tag-row"><span class="tag">judgment</span> <span class="tag">numbers</span> <span class="tag">negotiation</span> <span class="tag">estimation</span> <span class="tag">first-impression</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/cognitive/availability-heuristic.md' | relative_url }}">Availability Heuristic</a>, <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">cognitive</p>
+    <h3><a href="{{ '/models/cognitive/availability-heuristic.md' | relative_url }}">Availability Heuristic</a></h3>
+    <p>Judging the likelihood of an event based on how easily an example comes to mind — rather than actual statistical frequency.</p>
+    <p class="meta-line"><strong>Origin:</strong> Amos Tversky & Daniel Kahneman, 1973</p>
+    <div class="tag-row"><span class="tag">memory</span> <span class="tag">probability</span> <span class="tag">risk</span> <span class="tag">judgment</span> <span class="tag">shortcut</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/cognitive/confirmation-bias.md' | relative_url }}">Confirmation Bias</a>, <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">cognitive</p>
+    <h3><a href="{{ '/models/cognitive/cognitive-dissonance.md' | relative_url }}">Cognitive Dissonance</a></h3>
+    <p>The mental discomfort experienced when holding two contradictory beliefs, values, or behaviors simultaneously — driving the mind to resolve the tension by changing one of them.</p>
+    <p class="meta-line"><strong>Origin:</strong> Leon Festinger, 1957</p>
+    <div class="tag-row"><span class="tag">belief</span> <span class="tag">conflict</span> <span class="tag">rationalization</span> <span class="tag">motivation</span> <span class="tag">consistency</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/cognitive/confirmation-bias.md' | relative_url }}">Confirmation Bias</a>, <a href="{{ '/models/cognitive/metacognition.md' | relative_url }}">Metacognition</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">cognitive</p>
+    <h3><a href="{{ '/models/cognitive/confirmation-bias.md' | relative_url }}">Confirmation Bias</a></h3>
+    <p>The tendency to search for, interpret, and recall information in a way that confirms one's pre-existing beliefs while ignoring contradicting evidence.</p>
+    <p class="meta-line"><strong>Origin:</strong> Peter Wason, 1960</p>
+    <div class="tag-row"><span class="tag">belief</span> <span class="tag">perception</span> <span class="tag">search</span> <span class="tag">reasoning</span> <span class="tag">information</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/cognitive/cognitive-dissonance.md' | relative_url }}">Cognitive Dissonance</a>, <a href="{{ '/models/cognitive/availability-heuristic.md' | relative_url }}">Availability Heuristic</a>, <a href="{{ '/models/cognitive/dunning-kruger.md' | relative_url }}">Dunning-Kruger Effect</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">cognitive</p>
+    <h3><a href="{{ '/models/cognitive/dunning-kruger.md' | relative_url }}">Dunning-Kruger Effect</a></h3>
+    <p>People with low competence in a domain overestimate their ability, while highly competent people underestimate theirs — because the skills needed to evaluate performance are the same skills required to perform.</p>
+    <p class="meta-line"><strong>Origin:</strong> David Dunning & Justin Kruger, 1999</p>
+    <div class="tag-row"><span class="tag">competence</span> <span class="tag">confidence</span> <span class="tag">metacognition</span> <span class="tag">learning</span> <span class="tag">self-assessment</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/cognitive/confirmation-bias.md' | relative_url }}">Confirmation Bias</a>, <a href="{{ '/models/emotional/imposter-syndrome.md' | relative_url }}">Imposter Syndrome</a>, <a href="{{ '/models/cognitive/metacognition.md' | relative_url }}">Metacognition</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">cognitive</p>
+    <h3><a href="{{ '/models/cognitive/halo-effect.md' | relative_url }}">Halo Effect</a></h3>
+    <p>The halo effect occurs when one positive trait or impression causes people to assume unrelated positive qualities, distorting overall judgment.</p>
+    <p class="meta-line"><strong>Origin:</strong> Edward Thorndike, 1920</p>
+    <div class="tag-row"><span class="tag">perception</span> <span class="tag">judgment</span> <span class="tag">bias</span> <span class="tag">reputation</span> <span class="tag">generalization</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/social/authority-bias.md' | relative_url }}">Authority Bias</a>, <a href="{{ '/models/cognitive/confirmation-bias.md' | relative_url }}">Confirmation Bias</a>, <a href="{{ '/models/cognitive/anchoring-effect.md' | relative_url }}">Anchoring Effect</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">cognitive</p>
+    <h3><a href="{{ '/models/cognitive/metacognition.md' | relative_url }}">Metacognition</a></h3>
+    <p>Thinking about one's own thinking — the ability to monitor, evaluate, and regulate cognitive processes, leading to more accurate self-assessment and better learning outcomes.</p>
+    <p class="meta-line"><strong>Origin:</strong> John Flavell, 1976</p>
+    <div class="tag-row"><span class="tag">self-awareness</span> <span class="tag">learning</span> <span class="tag">thinking</span> <span class="tag">regulation</span> <span class="tag">accuracy</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/cognitive/dunning-kruger.md' | relative_url }}">Dunning-Kruger Effect</a>, <a href="{{ '/models/emotional/imposter-syndrome.md' | relative_url }}">Imposter Syndrome</a>, <a href="{{ '/models/cognitive/confirmation-bias.md' | relative_url }}">Confirmation Bias</a></p>
+  </article>
+</div>
 
 ## Behavioral (4)
 
 Habits, conditioning, reinforcement, motivation, and learned behavior.
 
-### [Habit Loop](models/behavioral/habit-loop.md)
+<div class="card-grid">
+  <article class="model-card">
+    <p class="model-card-category">behavioral</p>
+    <h3><a href="{{ '/models/behavioral/habit-loop.md' | relative_url }}">Habit Loop</a></h3>
+    <p>Habits are formed and maintained through a three-part neurological loop: cue → routine → reward — and can be changed by keeping the cue and reward while swapping the routine.</p>
+    <p class="meta-line"><strong>Origin:</strong> Charles Duhigg (popularized), based on MIT basal ganglia research, 1990s–2012</p>
+    <div class="tag-row"><span class="tag">habit</span> <span class="tag">routine</span> <span class="tag">reward</span> <span class="tag">cue</span> <span class="tag">behavior-change</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/behavioral/operant-conditioning.md' | relative_url }}">Operant Conditioning</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">behavioral</p>
+    <h3><a href="{{ '/models/behavioral/operant-conditioning.md' | relative_url }}">Operant Conditioning</a></h3>
+    <p>Behavior is shaped by its consequences — behaviors followed by rewards increase in frequency; behaviors followed by punishments decrease. The schedule of reinforcement determines how robust the behavior becomes.</p>
+    <p class="meta-line"><strong>Origin:</strong> B.F. Skinner, 1938</p>
+    <div class="tag-row"><span class="tag">reward</span> <span class="tag">punishment</span> <span class="tag">reinforcement</span> <span class="tag">learning</span> <span class="tag">behavior-change</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/behavioral/habit-loop.md' | relative_url }}">Habit Loop</a>, <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">behavioral</p>
+    <h3><a href="{{ '/models/behavioral/self-perception-theory.md' | relative_url }}">Self-Perception Theory</a></h3>
+    <p>People infer their own attitudes and preferences by observing their behavior, especially when their internal state is ambiguous or weakly formed.</p>
+    <p class="meta-line"><strong>Origin:</strong> Daryl Bem, 1972</p>
+    <div class="tag-row"><span class="tag">identity</span> <span class="tag">inference</span> <span class="tag">attitude</span> <span class="tag">behavior</span> <span class="tag">self-observation</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/behavioral/habit-loop.md' | relative_url }}">Habit Loop</a>, <a href="{{ '/models/cognitive/cognitive-dissonance.md' | relative_url }}">Cognitive Dissonance</a>, <a href="{{ '/models/cognitive/metacognition.md' | relative_url }}">Metacognition</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">behavioral</p>
+    <h3><a href="{{ '/models/behavioral/temptation-bundling.md' | relative_url }}">Temptation Bundling</a></h3>
+    <p>Temptation bundling pairs an immediately rewarding activity with a beneficial but effortful behavior so the reward helps pull the desired behavior into action.</p>
+    <p class="meta-line"><strong>Origin:</strong> Katherine Milkman, Julia Minson, & Kevin Volpp, 2014</p>
+    <div class="tag-row"><span class="tag">motivation</span> <span class="tag">habit</span> <span class="tag">reward</span> <span class="tag">self-control</span> <span class="tag">commitment</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/behavioral/habit-loop.md' | relative_url }}">Habit Loop</a>, <a href="{{ '/models/behavioral/operant-conditioning.md' | relative_url }}">Operant Conditioning</a>, <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a></p>
+  </article>
+</div>
 
-Habits are formed and maintained through a three-part neurological loop: cue → routine → reward — and can be changed by keeping the cue and reward while swapping the routine.
-
-- Origin: Charles Duhigg (popularized), based on MIT basal ganglia research, 1990s–2012
-- Tags: `habit`, `routine`, `reward`, `cue`, `behavior-change`
-- Related: [Operant Conditioning](models/behavioral/operant-conditioning.md)
-
-### [Operant Conditioning](models/behavioral/operant-conditioning.md)
-
-Behavior is shaped by its consequences — behaviors followed by rewards increase in frequency; behaviors followed by punishments decrease. The schedule of reinforcement determines how robust the behavior becomes.
-
-- Origin: B.F. Skinner, 1938
-- Tags: `reward`, `punishment`, `reinforcement`, `learning`, `behavior-change`
-- Related: [Habit Loop](models/behavioral/habit-loop.md), [Loss Aversion](models/decision/loss-aversion.md)
-
-### [Self-Perception Theory](models/behavioral/self-perception-theory.md)
-
-People infer their own attitudes and preferences by observing their behavior, especially when their internal state is ambiguous or weakly formed.
-
-- Origin: Daryl Bem, 1972
-- Tags: `identity`, `inference`, `attitude`, `behavior`, `self-observation`
-- Related: [Habit Loop](models/behavioral/habit-loop.md), [Cognitive Dissonance](models/cognitive/cognitive-dissonance.md), [Metacognition](models/cognitive/metacognition.md)
-
-### [Temptation Bundling](models/behavioral/temptation-bundling.md)
-
-Temptation bundling pairs an immediately rewarding activity with a beneficial but effortful behavior so the reward helps pull the desired behavior into action.
-
-- Origin: Katherine Milkman, Julia Minson, & Kevin Volpp, 2014
-- Tags: `motivation`, `habit`, `reward`, `self-control`, `commitment`
-- Related: [Habit Loop](models/behavioral/habit-loop.md), [Operant Conditioning](models/behavioral/operant-conditioning.md), [Loss Aversion](models/decision/loss-aversion.md)
-
-## Social (3)
+## Social (5)
 
 Influence, conformity, authority, and group-driven behavior.
 
-### [Authority Bias](models/social/authority-bias.md)
+<div class="card-grid">
+  <article class="model-card">
+    <p class="model-card-category">social</p>
+    <h3><a href="{{ '/models/social/authority-bias.md' | relative_url }}">Authority Bias</a></h3>
+    <p>People tend to comply with or believe the directives and opinions of perceived authority figures — even when those directives conflict with personal judgment or ethics.</p>
+    <p class="meta-line"><strong>Origin:</strong> Stanley Milgram, 1963; Robert Cialdini, 1984</p>
+    <div class="tag-row"><span class="tag">authority</span> <span class="tag">compliance</span> <span class="tag">trust</span> <span class="tag">deference</span> <span class="tag">influence</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/social/social-proof.md' | relative_url }}">Social Proof</a>, <a href="{{ '/models/cognitive/confirmation-bias.md' | relative_url }}">Confirmation Bias</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">social</p>
+    <h3><a href="{{ '/models/social/conformity.md' | relative_url }}">Conformity</a></h3>
+    <p>Conformity is the tendency to align beliefs or behavior with group norms, either to fit in socially or because the group is treated as a source of information.</p>
+    <p class="meta-line"><strong>Origin:</strong> Solomon Asch, 1951</p>
+    <div class="tag-row"><span class="tag">conformity</span> <span class="tag">pressure</span> <span class="tag">groups</span> <span class="tag">norms</span> <span class="tag">influence</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/social/social-proof.md' | relative_url }}">Social Proof</a>, <a href="{{ '/models/social/authority-bias.md' | relative_url }}">Authority Bias</a>, <a href="{{ '/models/decision/bandwagon-effect.md' | relative_url }}">Bandwagon Effect</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">social</p>
+    <h3><a href="{{ '/models/social/groupthink.md' | relative_url }}">Groupthink</a></h3>
+    <p>Groupthink is a failure mode where the desire for harmony and consensus suppresses dissent, critical evaluation, and realistic appraisal inside a decision-making group.</p>
+    <p class="meta-line"><strong>Origin:</strong> Irving Janis, 1972</p>
+    <div class="tag-row"><span class="tag">groups</span> <span class="tag">consensus</span> <span class="tag">conformity</span> <span class="tag">decisions</span> <span class="tag">pressure</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/social/conformity.md' | relative_url }}">Conformity</a>, <a href="{{ '/models/social/authority-bias.md' | relative_url }}">Authority Bias</a>, <a href="{{ '/models/cognitive/confirmation-bias.md' | relative_url }}">Confirmation Bias</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">social</p>
+    <h3><a href="{{ '/models/social/reciprocity.md' | relative_url }}">Reciprocity</a></h3>
+    <p>Reciprocity is the social rule that receiving value, help, or concession creates pressure to return something in kind, making exchange and influence more likely.</p>
+    <p class="meta-line"><strong>Origin:</strong> Alvin Gouldner, 1960; Robert Cialdini, 1984</p>
+    <div class="tag-row"><span class="tag">reciprocity</span> <span class="tag">obligation</span> <span class="tag">exchange</span> <span class="tag">influence</span> <span class="tag">cooperation</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/social/social-proof.md' | relative_url }}">Social Proof</a>, <a href="{{ '/models/social/authority-bias.md' | relative_url }}">Authority Bias</a>, <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">social</p>
+    <h3><a href="{{ '/models/social/social-proof.md' | relative_url }}">Social Proof</a></h3>
+    <p>People look to the behavior of others to determine the correct course of action — especially in ambiguous situations. The more people doing something, the more correct it appears.</p>
+    <p class="meta-line"><strong>Origin:</strong> Robert Cialdini, 1984</p>
+    <div class="tag-row"><span class="tag">influence</span> <span class="tag">conformity</span> <span class="tag">behavior</span> <span class="tag">uncertainty</span> <span class="tag">persuasion</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/social/authority-bias.md' | relative_url }}">Authority Bias</a>, <a href="{{ '/models/cognitive/confirmation-bias.md' | relative_url }}">Confirmation Bias</a></p>
+  </article>
+</div>
 
-People tend to comply with or believe the directives and opinions of perceived authority figures — even when those directives conflict with personal judgment or ethics.
-
-- Origin: Stanley Milgram, 1963; Robert Cialdini, 1984
-- Tags: `authority`, `compliance`, `trust`, `deference`, `influence`
-- Related: [Social Proof](models/social/social-proof.md), [Confirmation Bias](models/cognitive/confirmation-bias.md)
-
-### [Conformity](models/social/conformity.md)
-
-Conformity is the tendency to align beliefs or behavior with group norms, either to fit in socially or because the group is treated as a source of information.
-
-- Origin: Solomon Asch, 1951
-- Tags: `conformity`, `pressure`, `groups`, `norms`, `influence`
-- Related: [Social Proof](models/social/social-proof.md), [Authority Bias](models/social/authority-bias.md), [Bandwagon Effect](models/decision/bandwagon-effect.md)
-
-### [Social Proof](models/social/social-proof.md)
-
-People look to the behavior of others to determine the correct course of action — especially in ambiguous situations. The more people doing something, the more correct it appears.
-
-- Origin: Robert Cialdini, 1984
-- Tags: `influence`, `conformity`, `behavior`, `uncertainty`, `persuasion`
-- Related: [Authority Bias](models/social/authority-bias.md), [Confirmation Bias](models/cognitive/confirmation-bias.md)
-
-## Emotional (3)
+## Emotional (5)
 
 Emotion regulation, affective learning, and self-evaluative states.
 
-### [Attribution Theory](models/emotional/attribution-theory.md)
-
-Attribution theory explains how people interpret the causes of events, and how those explanations shape emotion, motivation, and future behavior.
-
-- Origin: Fritz Heider, 1958; Bernard Weiner, 1970s
-- Tags: `attribution`, `emotion`, `explanation`, `success`, `failure`
-- Related: [Imposter Syndrome](models/emotional/imposter-syndrome.md), [Metacognition](models/cognitive/metacognition.md), [Self-Perception Theory](models/behavioral/self-perception-theory.md)
-
-### [Dopamine Reward Prediction](models/emotional/dopamine-reward-prediction.md)
-
-Dopamine reward prediction describes how the brain updates motivation and learning based on the gap between expected reward and actual reward.
-
-- Origin: Wolfram Schultz, 1997
-- Tags: `dopamine`, `reward`, `prediction`, `learning`, `motivation`
-- Related: [Operant Conditioning](models/behavioral/operant-conditioning.md), [Habit Loop](models/behavioral/habit-loop.md), [Affect Heuristic](models/decision/affect-heuristic.md)
-
-### [Imposter Syndrome](models/emotional/imposter-syndrome.md)
-
-A persistent internal experience of feeling like a fraud — believing one's success is due to luck or deception rather than genuine ability, despite objective evidence of competence.
-
-- Origin: Pauline Clance & Suzanne Imes, 1978
-- Tags: `self-doubt`, `competence`, `achievement`, `anxiety`, `identity`
-- Related: [Dunning-Kruger Effect](models/cognitive/dunning-kruger.md), [Metacognition](models/cognitive/metacognition.md)
+<div class="card-grid">
+  <article class="model-card">
+    <p class="model-card-category">emotional</p>
+    <h3><a href="{{ '/models/emotional/attribution-theory.md' | relative_url }}">Attribution Theory</a></h3>
+    <p>Attribution theory explains how people interpret the causes of events, and how those explanations shape emotion, motivation, and future behavior.</p>
+    <p class="meta-line"><strong>Origin:</strong> Fritz Heider, 1958; Bernard Weiner, 1970s</p>
+    <div class="tag-row"><span class="tag">attribution</span> <span class="tag">emotion</span> <span class="tag">explanation</span> <span class="tag">success</span> <span class="tag">failure</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/emotional/imposter-syndrome.md' | relative_url }}">Imposter Syndrome</a>, <a href="{{ '/models/cognitive/metacognition.md' | relative_url }}">Metacognition</a>, <a href="{{ '/models/behavioral/self-perception-theory.md' | relative_url }}">Self-Perception Theory</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">emotional</p>
+    <h3><a href="{{ '/models/emotional/dopamine-reward-prediction.md' | relative_url }}">Dopamine Reward Prediction</a></h3>
+    <p>Dopamine reward prediction describes how the brain updates motivation and learning based on the gap between expected reward and actual reward.</p>
+    <p class="meta-line"><strong>Origin:</strong> Wolfram Schultz, 1997</p>
+    <div class="tag-row"><span class="tag">dopamine</span> <span class="tag">reward</span> <span class="tag">prediction</span> <span class="tag">learning</span> <span class="tag">motivation</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/behavioral/operant-conditioning.md' | relative_url }}">Operant Conditioning</a>, <a href="{{ '/models/behavioral/habit-loop.md' | relative_url }}">Habit Loop</a>, <a href="{{ '/models/decision/affect-heuristic.md' | relative_url }}">Affect Heuristic</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">emotional</p>
+    <h3><a href="{{ '/models/emotional/emotional-contagion.md' | relative_url }}">Emotional Contagion</a></h3>
+    <p>Emotional contagion is the spread of affect from one person or group to another through automatic mimicry, synchronization, and shared interpretation.</p>
+    <p class="meta-line"><strong>Origin:</strong> Elaine Hatfield, John Cacioppo, & Richard Rapson, 1993</p>
+    <div class="tag-row"><span class="tag">emotion</span> <span class="tag">contagion</span> <span class="tag">empathy</span> <span class="tag">groups</span> <span class="tag">affect</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/social/social-proof.md' | relative_url }}">Social Proof</a>, <a href="{{ '/models/decision/affect-heuristic.md' | relative_url }}">Affect Heuristic</a>, <a href="{{ '/models/social/groupthink.md' | relative_url }}">Groupthink</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">emotional</p>
+    <h3><a href="{{ '/models/emotional/imposter-syndrome.md' | relative_url }}">Imposter Syndrome</a></h3>
+    <p>A persistent internal experience of feeling like a fraud — believing one's success is due to luck or deception rather than genuine ability, despite objective evidence of competence.</p>
+    <p class="meta-line"><strong>Origin:</strong> Pauline Clance & Suzanne Imes, 1978</p>
+    <div class="tag-row"><span class="tag">self-doubt</span> <span class="tag">competence</span> <span class="tag">achievement</span> <span class="tag">anxiety</span> <span class="tag">identity</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/cognitive/dunning-kruger.md' | relative_url }}">Dunning-Kruger Effect</a>, <a href="{{ '/models/cognitive/metacognition.md' | relative_url }}">Metacognition</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">emotional</p>
+    <h3><a href="{{ '/models/emotional/negativity-bias.md' | relative_url }}">Negativity Bias</a></h3>
+    <p>Negativity bias is the tendency for negative events, cues, and emotions to command more attention, carry more weight, and persist longer than positive ones.</p>
+    <p class="meta-line"><strong>Origin:</strong> Paul Rozin & Edward Royzman, 2001</p>
+    <div class="tag-row"><span class="tag">emotion</span> <span class="tag">bias</span> <span class="tag">threat</span> <span class="tag">attention</span> <span class="tag">memory</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a>, <a href="{{ '/models/cognitive/availability-heuristic.md' | relative_url }}">Availability Heuristic</a>, <a href="{{ '/models/emotional/emotional-contagion.md' | relative_url }}">Emotional Contagion</a></p>
+  </article>
+</div>
 
 ## Decision (7)
 
 Choice under uncertainty, framing, loss, and forecasting.
 
-### [Affect Heuristic](models/decision/affect-heuristic.md)
+<div class="card-grid">
+  <article class="model-card">
+    <p class="model-card-category">decision</p>
+    <h3><a href="{{ '/models/decision/affect-heuristic.md' | relative_url }}">Affect Heuristic</a></h3>
+    <p>The affect heuristic is the tendency to let immediate positive or negative feelings stand in for slower analysis when judging risks, benefits, and choices.</p>
+    <p class="meta-line"><strong>Origin:</strong> Paul Slovic, Melissa Finucane, Ellen Peters, & Donald MacGregor, 2002</p>
+    <div class="tag-row"><span class="tag">emotion</span> <span class="tag">risk</span> <span class="tag">judgment</span> <span class="tag">intuition</span> <span class="tag">valuation</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/cognitive/availability-heuristic.md' | relative_url }}">Availability Heuristic</a>, <a href="{{ '/models/decision/framing-effect.md' | relative_url }}">Framing Effect</a>, <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">decision</p>
+    <h3><a href="{{ '/models/decision/bandwagon-effect.md' | relative_url }}">Bandwagon Effect</a></h3>
+    <p>The bandwagon effect is the tendency to adopt beliefs, products, or behaviors because many other people appear to be adopting them.</p>
+    <p class="meta-line"><strong>Origin:</strong> Harvey Leibenstein, 1950</p>
+    <div class="tag-row"><span class="tag">popularity</span> <span class="tag">conformity</span> <span class="tag">adoption</span> <span class="tag">trend</span> <span class="tag">social-influence</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/social/social-proof.md' | relative_url }}">Social Proof</a>, <a href="{{ '/models/social/authority-bias.md' | relative_url }}">Authority Bias</a>, <a href="{{ '/models/cognitive/availability-heuristic.md' | relative_url }}">Availability Heuristic</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">decision</p>
+    <h3><a href="{{ '/models/decision/framing-effect.md' | relative_url }}">Framing Effect</a></h3>
+    <p>The framing effect is the tendency for logically equivalent choices to produce different decisions depending on whether they are presented as gains, losses, or other contextual narratives.</p>
+    <p class="meta-line"><strong>Origin:</strong> Amos Tversky & Daniel Kahneman, 1981</p>
+    <div class="tag-row"><span class="tag">framing</span> <span class="tag">choice</span> <span class="tag">risk</span> <span class="tag">language</span> <span class="tag">decision-making</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a>, <a href="{{ '/models/cognitive/anchoring-effect.md' | relative_url }}">Anchoring Effect</a>, <a href="{{ '/models/cognitive/availability-heuristic.md' | relative_url }}">Availability Heuristic</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">decision</p>
+    <h3><a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a></h3>
+    <p>Losses feel approximately twice as painful as equivalent gains feel good — causing people to make irrational decisions to avoid loss, even when the expected value favors accepting it.</p>
+    <p class="meta-line"><strong>Origin:</strong> Daniel Kahneman & Amos Tversky, 1979</p>
+    <div class="tag-row"><span class="tag">risk</span> <span class="tag">loss</span> <span class="tag">gain</span> <span class="tag">prospect-theory</span> <span class="tag">decision-making</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/cognitive/anchoring-effect.md' | relative_url }}">Anchoring Effect</a>, <a href="{{ '/models/cognitive/cognitive-dissonance.md' | relative_url }}">Cognitive Dissonance</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">decision</p>
+    <h3><a href="{{ '/models/decision/recency-bias.md' | relative_url }}">Recency Bias</a></h3>
+    <p>Recency bias is the tendency to overweight the most recent information or experiences when judging patterns, making forecasts, or choosing what to do next.</p>
+    <p class="meta-line"><strong>Origin:</strong> Hermann Ebbinghaus, 1885; later decision and finance literature</p>
+    <div class="tag-row"><span class="tag">memory</span> <span class="tag">timing</span> <span class="tag">judgment</span> <span class="tag">trend</span> <span class="tag">forecasting</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/cognitive/availability-heuristic.md' | relative_url }}">Availability Heuristic</a>, <a href="{{ '/models/cognitive/anchoring-effect.md' | relative_url }}">Anchoring Effect</a>, <a href="{{ '/models/decision/framing-effect.md' | relative_url }}">Framing Effect</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">decision</p>
+    <h3><a href="{{ '/models/decision/status-quo-bias.md' | relative_url }}">Status Quo Bias</a></h3>
+    <p>Status quo bias is the tendency to prefer the current state of affairs, defaults, or existing arrangements even when alternatives may be objectively better.</p>
+    <p class="meta-line"><strong>Origin:</strong> William Samuelson & Richard Zeckhauser, 1988</p>
+    <div class="tag-row"><span class="tag">inertia</span> <span class="tag">default</span> <span class="tag">change</span> <span class="tag">preference</span> <span class="tag">risk</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a>, <a href="{{ '/models/decision/sunk-cost-fallacy.md' | relative_url }}">Sunk Cost Fallacy</a>, <a href="{{ '/models/cognitive/anchoring-effect.md' | relative_url }}">Anchoring Effect</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">decision</p>
+    <h3><a href="{{ '/models/decision/sunk-cost-fallacy.md' | relative_url }}">Sunk Cost Fallacy</a></h3>
+    <p>The sunk cost fallacy is the tendency to continue a failing course of action because past time, money, or effort has already been invested and abandoning it would make the loss feel real.</p>
+    <p class="meta-line"><strong>Origin:</strong> Richard Thaler, 1980; Arkes & Blumer, 1985</p>
+    <div class="tag-row"><span class="tag">escalation</span> <span class="tag">commitment</span> <span class="tag">loss</span> <span class="tag">investment</span> <span class="tag">persistence</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a>, <a href="{{ '/models/cognitive/cognitive-dissonance.md' | relative_url }}">Cognitive Dissonance</a>, <a href="{{ '/models/decision/status-quo-bias.md' | relative_url }}">Status Quo Bias</a></p>
+  </article>
+</div>
 
-The affect heuristic is the tendency to let immediate positive or negative feelings stand in for slower analysis when judging risks, benefits, and choices.
-
-- Origin: Paul Slovic, Melissa Finucane, Ellen Peters, & Donald MacGregor, 2002
-- Tags: `emotion`, `risk`, `judgment`, `intuition`, `valuation`
-- Related: [Availability Heuristic](models/cognitive/availability-heuristic.md), [Framing Effect](models/decision/framing-effect.md), [Loss Aversion](models/decision/loss-aversion.md)
-
-### [Bandwagon Effect](models/decision/bandwagon-effect.md)
-
-The bandwagon effect is the tendency to adopt beliefs, products, or behaviors because many other people appear to be adopting them.
-
-- Origin: Harvey Leibenstein, 1950
-- Tags: `popularity`, `conformity`, `adoption`, `trend`, `social-influence`
-- Related: [Social Proof](models/social/social-proof.md), [Authority Bias](models/social/authority-bias.md), [Availability Heuristic](models/cognitive/availability-heuristic.md)
-
-### [Framing Effect](models/decision/framing-effect.md)
-
-The framing effect is the tendency for logically equivalent choices to produce different decisions depending on whether they are presented as gains, losses, or other contextual narratives.
-
-- Origin: Amos Tversky & Daniel Kahneman, 1981
-- Tags: `framing`, `choice`, `risk`, `language`, `decision-making`
-- Related: [Loss Aversion](models/decision/loss-aversion.md), [Anchoring Effect](models/cognitive/anchoring-effect.md), [Availability Heuristic](models/cognitive/availability-heuristic.md)
-
-### [Loss Aversion](models/decision/loss-aversion.md)
-
-Losses feel approximately twice as painful as equivalent gains feel good — causing people to make irrational decisions to avoid loss, even when the expected value favors accepting it.
-
-- Origin: Daniel Kahneman & Amos Tversky, 1979
-- Tags: `risk`, `loss`, `gain`, `prospect-theory`, `decision-making`
-- Related: [Anchoring Effect](models/cognitive/anchoring-effect.md), [Cognitive Dissonance](models/cognitive/cognitive-dissonance.md)
-
-### [Recency Bias](models/decision/recency-bias.md)
-
-Recency bias is the tendency to overweight the most recent information or experiences when judging patterns, making forecasts, or choosing what to do next.
-
-- Origin: Hermann Ebbinghaus, 1885; later decision and finance literature
-- Tags: `memory`, `timing`, `judgment`, `trend`, `forecasting`
-- Related: [Availability Heuristic](models/cognitive/availability-heuristic.md), [Anchoring Effect](models/cognitive/anchoring-effect.md), [Framing Effect](models/decision/framing-effect.md)
-
-### [Status Quo Bias](models/decision/status-quo-bias.md)
-
-Status quo bias is the tendency to prefer the current state of affairs, defaults, or existing arrangements even when alternatives may be objectively better.
-
-- Origin: William Samuelson & Richard Zeckhauser, 1988
-- Tags: `inertia`, `default`, `change`, `preference`, `risk`
-- Related: [Loss Aversion](models/decision/loss-aversion.md), [Sunk Cost Fallacy](models/decision/sunk-cost-fallacy.md), [Anchoring Effect](models/cognitive/anchoring-effect.md)
-
-### [Sunk Cost Fallacy](models/decision/sunk-cost-fallacy.md)
-
-The sunk cost fallacy is the tendency to continue a failing course of action because past time, money, or effort has already been invested and abandoning it would make the loss feel real.
-
-- Origin: Richard Thaler, 1980; Arkes & Blumer, 1985
-- Tags: `escalation`, `commitment`, `loss`, `investment`, `persistence`
-- Related: [Loss Aversion](models/decision/loss-aversion.md), [Cognitive Dissonance](models/cognitive/cognitive-dissonance.md), [Status Quo Bias](models/decision/status-quo-bias.md)
-
-## Developmental (4)
+## Developmental (6)
 
 How the mind changes over time through stages, learning, and identity development.
 
-### [Erikson's Psychosocial Development](models/developmental/erikson-psychosocial-development.md)
-
-Erikson's psychosocial development model describes human development as a series of life stages, each centered on a core psychological conflict whose resolution shapes later identity and relationships.
-
-- Origin: Erik Erikson, 1950
-- Tags: `identity`, `lifespan`, `stages`, `development`, `socialization`
-- Related: [Imposter Syndrome](models/emotional/imposter-syndrome.md), [Piaget's Cognitive Development](models/developmental/piaget-cognitive-development.md), [Growth Mindset](models/developmental/growth-mindset.md)
-
-### [Growth Mindset](models/developmental/growth-mindset.md)
-
-A growth mindset is the belief that ability can be developed through effort, strategy, and feedback, which changes how people respond to challenge, failure, and learning.
-
-- Origin: Carol Dweck, 2006
-- Tags: `mindset`, `learning`, `ability`, `effort`, `development`
-- Related: [Zone of Proximal Development](models/developmental/zone-of-proximal-development.md), [Dunning-Kruger Effect](models/cognitive/dunning-kruger.md), [Imposter Syndrome](models/emotional/imposter-syndrome.md)
-
-### [Piaget's Cognitive Development](models/developmental/piaget-cognitive-development.md)
-
-Piaget's cognitive development model describes how children's thinking changes through qualitatively different stages as they mature and interact with the world.
-
-- Origin: Jean Piaget, 1936
-- Tags: `development`, `learning`, `stages`, `cognition`, `childhood`
-- Related: [Zone of Proximal Development](models/developmental/zone-of-proximal-development.md), [Metacognition](models/cognitive/metacognition.md), [Growth Mindset](models/developmental/growth-mindset.md)
-
-### [Zone of Proximal Development](models/developmental/zone-of-proximal-development.md)
-
-The zone of proximal development describes the gap between what a learner can do alone and what they can do with guidance, making it a model for how support accelerates development.
-
-- Origin: Lev Vygotsky, 1934
-- Tags: `learning`, `scaffolding`, `teaching`, `development`, `capability`
-- Related: [Piaget's Cognitive Development](models/developmental/piaget-cognitive-development.md), [Metacognition](models/cognitive/metacognition.md), [Habit Loop](models/behavioral/habit-loop.md)
+<div class="card-grid">
+  <article class="model-card">
+    <p class="model-card-category">developmental</p>
+    <h3><a href="{{ '/models/developmental/attachment-theory.md' | relative_url }}">Attachment Theory</a></h3>
+    <p>Attachment theory explains how early caregiver relationships shape internal expectations about safety, closeness, and regulation, influencing later relationships across development.</p>
+    <p class="meta-line"><strong>Origin:</strong> John Bowlby, 1969; Mary Ainsworth, 1978</p>
+    <div class="tag-row"><span class="tag">attachment</span> <span class="tag">relationships</span> <span class="tag">development</span> <span class="tag">security</span> <span class="tag">caregiving</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/developmental/erikson-psychosocial-development.md' | relative_url }}">Erikson's Psychosocial Development</a>, <a href="{{ '/models/emotional/emotional-contagion.md' | relative_url }}">Emotional Contagion</a>, <a href="{{ '/models/emotional/imposter-syndrome.md' | relative_url }}">Imposter Syndrome</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">developmental</p>
+    <h3><a href="{{ '/models/developmental/erikson-psychosocial-development.md' | relative_url }}">Erikson's Psychosocial Development</a></h3>
+    <p>Erikson's psychosocial development model describes human development as a series of life stages, each centered on a core psychological conflict whose resolution shapes later identity and relationships.</p>
+    <p class="meta-line"><strong>Origin:</strong> Erik Erikson, 1950</p>
+    <div class="tag-row"><span class="tag">identity</span> <span class="tag">lifespan</span> <span class="tag">stages</span> <span class="tag">development</span> <span class="tag">socialization</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/emotional/imposter-syndrome.md' | relative_url }}">Imposter Syndrome</a>, <a href="{{ '/models/developmental/piaget-cognitive-development.md' | relative_url }}">Piaget's Cognitive Development</a>, <a href="{{ '/models/developmental/growth-mindset.md' | relative_url }}">Growth Mindset</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">developmental</p>
+    <h3><a href="{{ '/models/developmental/growth-mindset.md' | relative_url }}">Growth Mindset</a></h3>
+    <p>A growth mindset is the belief that ability can be developed through effort, strategy, and feedback, which changes how people respond to challenge, failure, and learning.</p>
+    <p class="meta-line"><strong>Origin:</strong> Carol Dweck, 2006</p>
+    <div class="tag-row"><span class="tag">mindset</span> <span class="tag">learning</span> <span class="tag">ability</span> <span class="tag">effort</span> <span class="tag">development</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/developmental/zone-of-proximal-development.md' | relative_url }}">Zone of Proximal Development</a>, <a href="{{ '/models/cognitive/dunning-kruger.md' | relative_url }}">Dunning-Kruger Effect</a>, <a href="{{ '/models/emotional/imposter-syndrome.md' | relative_url }}">Imposter Syndrome</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">developmental</p>
+    <h3><a href="{{ '/models/developmental/piaget-cognitive-development.md' | relative_url }}">Piaget's Cognitive Development</a></h3>
+    <p>Piaget's cognitive development model describes how children's thinking changes through qualitatively different stages as they mature and interact with the world.</p>
+    <p class="meta-line"><strong>Origin:</strong> Jean Piaget, 1936</p>
+    <div class="tag-row"><span class="tag">development</span> <span class="tag">learning</span> <span class="tag">stages</span> <span class="tag">cognition</span> <span class="tag">childhood</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/developmental/zone-of-proximal-development.md' | relative_url }}">Zone of Proximal Development</a>, <a href="{{ '/models/cognitive/metacognition.md' | relative_url }}">Metacognition</a>, <a href="{{ '/models/developmental/growth-mindset.md' | relative_url }}">Growth Mindset</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">developmental</p>
+    <h3><a href="{{ '/models/developmental/social-learning-theory.md' | relative_url }}">Social Learning Theory</a></h3>
+    <p>Social learning theory explains how people develop behavior and expectations by observing others, modeling what is seen, and updating based on consequences without needing direct trial-and-error for every lesson.</p>
+    <p class="meta-line"><strong>Origin:</strong> Albert Bandura, 1977</p>
+    <div class="tag-row"><span class="tag">learning</span> <span class="tag">imitation</span> <span class="tag">modeling</span> <span class="tag">development</span> <span class="tag">observation</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/developmental/zone-of-proximal-development.md' | relative_url }}">Zone of Proximal Development</a>, <a href="{{ '/models/social/conformity.md' | relative_url }}">Conformity</a>, <a href="{{ '/models/behavioral/operant-conditioning.md' | relative_url }}">Operant Conditioning</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">developmental</p>
+    <h3><a href="{{ '/models/developmental/zone-of-proximal-development.md' | relative_url }}">Zone of Proximal Development</a></h3>
+    <p>The zone of proximal development describes the gap between what a learner can do alone and what they can do with guidance, making it a model for how support accelerates development.</p>
+    <p class="meta-line"><strong>Origin:</strong> Lev Vygotsky, 1934</p>
+    <div class="tag-row"><span class="tag">learning</span> <span class="tag">scaffolding</span> <span class="tag">teaching</span> <span class="tag">development</span> <span class="tag">capability</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/developmental/piaget-cognitive-development.md' | relative_url }}">Piaget's Cognitive Development</a>, <a href="{{ '/models/cognitive/metacognition.md' | relative_url }}">Metacognition</a>, <a href="{{ '/models/behavioral/habit-loop.md' | relative_url }}">Habit Loop</a></p>
+  </article>
+</div>

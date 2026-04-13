@@ -1,0 +1,1594 @@
+[
+  {
+    "id": "anchoring-effect",
+    "name": "Anchoring Effect",
+    "category": "cognitive",
+    "origin": "Amos Tversky & Daniel Kahneman, 1974",
+    "tags": [
+      "judgment",
+      "numbers",
+      "negotiation",
+      "estimation",
+      "first-impression"
+    ],
+    "summary": "The tendency to rely heavily on the first piece of information encountered (the \"anchor\") when making decisions or estimates — subsequent judgments adjust from the anchor but rarely far enough.",
+    "path": "models/cognitive/anchoring-effect.md",
+    "related": [
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "sections": {
+      "Summary": "The tendency to rely heavily on the first piece of information encountered (the \"anchor\") when making decisions or estimates — subsequent judgments adjust from the anchor but rarely far enough.",
+      "Mechanism": "1. A number, value, or piece of information is presented first\n2. The mind uses this as a reference point\n3. All subsequent estimates adjust from the anchor\n4. Adjustments are systematically insufficient — the anchor pulls the final estimate toward it\n5. The effect persists even when the anchor is arbitrary or irrelevant",
+      "Triggers": "- First number seen in a negotiation or pricing context\n- Initial estimates made before full information is available\n- Leading questions that embed an assumed value\n- Time pressure reducing deliberate adjustment\n- Unfamiliar domains where no internal reference exists",
+      "Effects": "- Inflated or deflated estimates depending on anchor direction\n- Negotiation outcomes skewed toward the first offer\n- Salary anchoring from first offer or stated expectation\n- Overweighting initial product prices in perceived value\n- Biased legal sentencing when arbitrary numbers are mentioned",
+      "Examples": "**Example 1 — Negotiation:**\nA seller lists a house at $600k. Even if buyers think it's worth less, final offers cluster far closer to $600k than they would if the listing had been $400k.\n\n**Example 2 — Arbitrary numbers:**\nParticipants asked \"Is the population of Turkey greater or less than 35 million?\" then asked to estimate it — estimates cluster near 35 million, regardless of accuracy.\n\n**Example 3 — Salary:**\nAn employer asks \"What is your current salary?\" — the answer anchors the negotiation even if the candidate is worth far more.",
+      "Counters": "- Generate your own estimate before seeing any external number\n- Make the first offer in negotiations to set the anchor\n- Use multiple independent reference points to triangulate\n- Ask: \"what would I think if I hadn't seen that number first?\"",
+      "References": "- Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "availability-heuristic",
+    "name": "Availability Heuristic",
+    "category": "cognitive",
+    "origin": "Amos Tversky & Daniel Kahneman, 1973",
+    "tags": [
+      "memory",
+      "probability",
+      "risk",
+      "judgment",
+      "shortcut"
+    ],
+    "summary": "Judging the likelihood of an event based on how easily an example comes to mind — rather than actual statistical frequency.",
+    "path": "models/cognitive/availability-heuristic.md",
+    "related": [
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Judging the likelihood of an event based on how easily an example comes to mind — rather than actual statistical frequency.",
+      "Mechanism": "1. Person must estimate the probability or frequency of something\n2. Instead of calculating, the mind asks: \"how easily can I recall an example?\"\n3. Easily recalled = feels common or likely\n4. Hard to recall = feels rare or unlikely\n5. Judgment is based on retrieval ease, not actual data",
+      "Triggers": "- Recent exposure to dramatic or emotional events\n- Media coverage of rare but vivid events\n- Personal experience with an outcome\n- High emotional salience of a category\n- Time pressure in decision-making",
+      "Effects": "- Overestimation of dramatic but rare risks (plane crashes, shark attacks)\n- Underestimation of common but mundane risks (car accidents, heart disease)\n- Distorted risk assessments in policy, medicine, and investing\n- Fear-driven decisions after visible disasters\n- Recency bias in performance evaluation",
+      "Examples": "**Example 1 — Flying vs driving:**\nAfter a plane crash in the news, people cancel flights — despite cars being statistically far more dangerous per mile.\n\n**Example 2 — Workplace safety:**\nA manager rates an employee's full-year performance based mostly on their most recent mistake because it's easiest to recall.\n\n**Example 3 — Crime perception:**\nPeople in low-crime areas who watch heavy crime news perceive their neighborhood as dangerous because violent crime is cognitively available.",
+      "Counters": "- Use base rates and statistics rather than recalled examples\n- Ask: \"is this easy to recall because it's common, or because it's dramatic?\"\n- Deliberately seek out less memorable data\n- Slow down — the heuristic operates under cognitive load and time pressure",
+      "References": "- Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. *Cognitive Psychology*, 5(2), 207–232."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "cognitive-dissonance",
+    "name": "Cognitive Dissonance",
+    "category": "cognitive",
+    "origin": "Leon Festinger, 1957",
+    "tags": [
+      "belief",
+      "conflict",
+      "rationalization",
+      "motivation",
+      "consistency"
+    ],
+    "summary": "The mental discomfort experienced when holding two contradictory beliefs, values, or behaviors simultaneously — driving the mind to resolve the tension by changing one of them.",
+    "path": "models/cognitive/cognitive-dissonance.md",
+    "related": [
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      }
+    ],
+    "sections": {
+      "Summary": "The mental discomfort experienced when holding two contradictory beliefs, values, or behaviors simultaneously — driving the mind to resolve the tension by changing one of them.",
+      "Mechanism": "1. Person holds Belief A\n2. Person encounters information or acts in a way that contradicts Belief A (Belief B)\n3. Tension (dissonance) arises — the mind cannot comfortably hold both\n4. Person resolves tension via one of three paths:\n   - Change Belief A to align with B\n   - Reject or discredit B\n   - Add a new belief C that reconciles A and B (rationalization)",
+      "Triggers": "- Acting against one's own stated values\n- Receiving information that challenges a deeply held belief\n- Making an irreversible decision then finding negative evidence\n- Social pressure to behave inconsistently with private beliefs",
+      "Effects": "- Rationalization of past behavior\n- Selective exposure to confirming information\n- Attitude change toward previously held beliefs\n- Increased commitment to a chosen path (post-decision dissonance)\n- Denial or dismissal of contradicting evidence",
+      "Examples": "**Example 1 — Smoking:**\nA smoker knows smoking causes cancer but continues. To resolve dissonance they rationalize: \"I'll quit soon\" or \"my grandfather smoked and lived to 90.\"\n\n**Example 2 — Sunk Cost:**\nAn investor who has lost money in a failing stock continues investing to avoid admitting the original decision was wrong.\n\n**Example 3 — Hazing:**\nPeople who endure a difficult initiation rate the group more positively afterward — justifying the effort by inflating the group's value.",
+      "Counters": "- Actively seek disconfirming evidence before making decisions\n- Separate your identity from your beliefs — beliefs can be wrong, you are not wrong\n- Pre-commit to updating beliefs when evidence changes\n- Use a devil's advocate or structured dissent process",
+      "References": "- Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.\n- Aronson, E. (1969). The theory of cognitive dissonance: A current perspective. *Advances in Experimental Social Psychology*, 4, 1–34."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "confirmation-bias",
+    "name": "Confirmation Bias",
+    "category": "cognitive",
+    "origin": "Peter Wason, 1960",
+    "tags": [
+      "belief",
+      "perception",
+      "search",
+      "reasoning",
+      "information"
+    ],
+    "summary": "The tendency to search for, interpret, and recall information in a way that confirms one's pre-existing beliefs while ignoring contradicting evidence.",
+    "path": "models/cognitive/confirmation-bias.md",
+    "related": [
+      {
+        "name": "Cognitive Dissonance",
+        "path": "models/cognitive/cognitive-dissonance.md"
+      },
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      },
+      {
+        "name": "Dunning-Kruger Effect",
+        "path": "models/cognitive/dunning-kruger.md"
+      }
+    ],
+    "sections": {
+      "Summary": "The tendency to search for, interpret, and recall information in a way that confirms one's pre-existing beliefs while ignoring contradicting evidence.",
+      "Mechanism": "1. Person holds a belief or hypothesis\n2. When seeking information, they preferentially notice and remember confirming data\n3. Contradicting data is dismissed, reinterpreted, or not sought at all\n4. Belief strengthens regardless of actual evidence quality\n5. Loop reinforces over time — belief becomes harder to challenge",
+      "Triggers": "- Strong emotional investment in a belief\n- Group identity tied to a belief\n- High uncertainty — mind anchors on first available explanation\n- Prior decisions that are hard to reverse\n- Social environments with homogeneous views",
+      "Effects": "- Overconfidence in beliefs\n- Poor decision-making due to incomplete evidence\n- Echo chambers and polarization\n- Resistance to correction even with hard evidence\n- Distorted memory of past events to fit current beliefs",
+      "Examples": "**Example 1 — Politics:**\nA person who supports a political party reads news that confirms their party's positions and dismisses or avoids outlets that challenge them.\n\n**Example 2 — Hiring:**\nA manager forms a quick positive impression of a candidate and asks questions designed to confirm that impression rather than probe weaknesses.\n\n**Example 3 — Medical self-diagnosis:**\nSomeone convinced they have a specific illness googles symptoms that match and ignores symptoms that don't.",
+      "Counters": "- Actively seek disconfirming evidence — ask \"what would prove me wrong?\"\n- Use pre-mortems: imagine your belief is wrong and explain why\n- Expose yourself to structured opposing viewpoints\n- Separate belief evaluation from identity\n- Use checklists and base rates instead of intuition alone",
+      "References": "- Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. *Quarterly Journal of Experimental Psychology*, 12(3), 129–140.\n- Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "dunning-kruger-effect",
+    "name": "Dunning-Kruger Effect",
+    "category": "cognitive",
+    "origin": "David Dunning & Justin Kruger, 1999",
+    "tags": [
+      "competence",
+      "confidence",
+      "metacognition",
+      "learning",
+      "self-assessment"
+    ],
+    "summary": "People with low competence in a domain overestimate their ability, while highly competent people underestimate theirs — because the skills needed to evaluate performance are the same skills required to perform.",
+    "path": "models/cognitive/dunning-kruger.md",
+    "related": [
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      },
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      }
+    ],
+    "sections": {
+      "Summary": "People with low competence in a domain overestimate their ability, while highly competent people underestimate theirs — because the skills needed to evaluate performance are the same skills required to perform.",
+      "Mechanism": "1. Novice acquires surface-level knowledge in a domain\n2. Lacks the metacognitive ability to recognize what they don't know\n3. Confidence peaks (the \"peak of Mount Stupid\")\n4. With more learning, gaps become visible — confidence drops (\"valley of despair\")\n5. Continued mastery builds accurate, calibrated confidence\n6. Experts, aware of complexity, often underestimate relative to peers",
+      "Triggers": "- First exposure to a new domain\n- Environments with no feedback or correction\n- Social validation of surface-level knowledge\n- Low stakes — no real-world testing of competence\n- Isolated information consumption without practice",
+      "Effects": "- Overconfident novices making poor high-stakes decisions\n- Experts deferring to louder but less competent voices\n- Imposter syndrome in genuinely skilled people\n- Resistance to instruction (\"I already know this\")\n- Poor team decisions when confidence is mistaken for competence",
+      "Examples": "**Example 1 — New employee:**\nSomeone one week into a job confidently suggests restructuring entire workflows, unaware of the history and constraints that shaped them.\n\n**Example 2 — Social media experts:**\nPeople who read several articles on a topic confidently debate specialists with decades of domain experience.\n\n**Example 3 — Imposter syndrome:**\nA senior engineer with 15 years of experience feels unqualified, while a junior engineer with 3 months feels they could run the team.",
+      "Counters": "- Seek feedback from domain experts, not peers at the same level\n- Test knowledge with real-world application, not self-assessment\n- Track predictions vs outcomes to calibrate confidence\n- Adopt a \"beginner's mind\" even as expertise grows",
+      "References": "- Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. *Journal of Personality and Social Psychology*, 77(6), 1121–1134."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "halo-effect",
+    "name": "Halo Effect",
+    "category": "cognitive",
+    "origin": "Edward Thorndike, 1920",
+    "tags": [
+      "perception",
+      "judgment",
+      "bias",
+      "reputation",
+      "generalization"
+    ],
+    "summary": "The halo effect occurs when one positive trait or impression causes people to assume unrelated positive qualities, distorting overall judgment.",
+    "path": "models/cognitive/halo-effect.md",
+    "related": [
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      },
+      {
+        "name": "Anchoring Effect",
+        "path": "models/cognitive/anchoring-effect.md"
+      }
+    ],
+    "sections": {
+      "Summary": "The halo effect occurs when one positive trait or impression causes people to assume unrelated positive qualities, distorting overall judgment.",
+      "Mechanism": "1. A salient positive feature is noticed first\n2. That feature creates a strong global impression\n3. The mind generalizes from the known trait to unknown traits\n4. Ambiguous evidence is interpreted to fit the favorable impression\n5. Overall evaluation becomes more positive than the evidence justifies",
+      "Triggers": "- First impressions formed quickly\n- Status markers like prestige, beauty, confidence, or eloquence\n- Limited information about the target\n- Time pressure that prevents attribute-by-attribute evaluation",
+      "Effects": "- Inflated judgments of competence or trustworthiness\n- Overly favorable hiring, promotion, or partner choices\n- Reduced scrutiny of mistakes from well-regarded people\n- Spillover from one domain into unrelated domains",
+      "Examples": "**Example 1 - Attractive expert:**\nA polished speaker is assumed to be more competent than their evidence warrants simply because they present well.\n\n**Example 2 - Brand prestige:**\nA company known for one excellent product is assumed to make better products in unrelated categories.\n\n**Example 3 - Classroom bias:**\nA student perceived as likable is graded more generously on subjective work than a peer with similar output.",
+      "Counters": "- Evaluate separate traits independently before forming an overall judgment\n- Use explicit criteria and scoring rubrics in decisions\n- Seek disconfirming evidence about the favored target",
+      "References": "- Thorndike, E. L. (1920). A constant error in psychological ratings. *Journal of Applied Psychology*, 4(1), 25-29.\n- Nisbett, R. E., & Wilson, T. D. (1977). The halo effect: Evidence for unconscious alteration of judgments. *Journal of Personality and Social Psychology*, 35(4), 250-256."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "metacognition",
+    "name": "Metacognition",
+    "category": "cognitive",
+    "origin": "John Flavell, 1976",
+    "tags": [
+      "self-awareness",
+      "learning",
+      "thinking",
+      "regulation",
+      "accuracy"
+    ],
+    "summary": "Thinking about one's own thinking — the ability to monitor, evaluate, and regulate cognitive processes, leading to more accurate self-assessment and better learning outcomes.",
+    "path": "models/cognitive/metacognition.md",
+    "related": [
+      {
+        "name": "Dunning-Kruger Effect",
+        "path": "models/cognitive/dunning-kruger.md"
+      },
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      },
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Thinking about one's own thinking — the ability to monitor, evaluate, and regulate cognitive processes, leading to more accurate self-assessment and better learning outcomes.",
+      "Mechanism": "1. Person engages in a cognitive task\n2. Metacognitive monitoring observes the process: \"Do I understand this? Am I making errors?\"\n3. Metacognitive evaluation compares performance to a standard\n4. Metacognitive regulation adjusts strategy based on evaluation\n5. Higher metacognitive ability → more accurate self-assessment → better outcomes",
+      "Triggers": "- Tasks requiring sustained reasoning or learning\n- Novel problems without clear solutions\n- Feedback indicating a mismatch between confidence and accuracy\n- Deliberate reflection practices (journaling, review, post-mortems)",
+      "Effects": "- More accurate calibration of confidence\n- Faster skill acquisition through targeted practice\n- Better error detection and self-correction\n- Reduced susceptibility to overconfidence biases\n- More effective study and problem-solving strategies",
+      "Examples": "**Example 1 — Studying:**\nA student reads a chapter, then asks themselves \"could I explain this without the book?\" — identifying gaps instead of assuming re-reading equals understanding.\n\n**Example 2 — Debugging:**\nAn engineer who pauses to ask \"why did I think this would work?\" instead of just fixing the bug — identifying a flawed mental model, not just the symptom.\n\n**Example 3 — Decision review:**\nA manager who tracks their decisions and outcomes over time to identify where their judgment is systematically off.",
+      "Counters": "*(Metacognition is a corrective model — the \"counters\" here are barriers to it)*\n\n- Overload reduces metacognitive capacity — slow down under cognitive pressure\n- Emotional investment in being right blocks honest self-evaluation\n- Environments without feedback prevent calibration",
+      "References": "- Flavell, J. H. (1976). Metacognitive aspects of problem solving. *The Nature of Intelligence*, 12, 231–235.\n- Dunlosky, J., & Metcalfe, J. (2009). *Metacognition*. SAGE Publications."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "habit-loop",
+    "name": "Habit Loop",
+    "category": "behavioral",
+    "origin": "Charles Duhigg (popularized), based on MIT basal ganglia research, 1990s–2012",
+    "tags": [
+      "habit",
+      "routine",
+      "reward",
+      "cue",
+      "behavior-change"
+    ],
+    "summary": "Habits are formed and maintained through a three-part neurological loop: cue → routine → reward — and can be changed by keeping the cue and reward while swapping the routine.",
+    "path": "models/behavioral/habit-loop.md",
+    "related": [
+      {
+        "name": "Operant Conditioning",
+        "path": "models/behavioral/operant-conditioning.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Habits are formed and maintained through a three-part neurological loop: cue → routine → reward — and can be changed by keeping the cue and reward while swapping the routine.",
+      "Mechanism": "1. **Cue** — a trigger that tells the brain to enter automatic mode (time, location, emotion, people, preceding action)\n2. **Routine** — the behavior itself (physical, mental, or emotional)\n3. **Reward** — what the brain gets from completing the routine (dopamine signal that reinforces the loop)\n4. Over repetition, the loop becomes automatic — the brain stops actively deciding\n5. To change a habit: identify the cue and reward, then insert a new routine between them",
+      "Triggers": "- Consistent environmental cues (same time, place, context)\n- Stress or emotional states that activate old routines\n- Social cues from others performing the same behavior\n- Boredom or idleness activating low-effort routines",
+      "Effects": "- Behaviors become automatic and effortless over time\n- Willpower is freed for non-habitual decisions\n- Bad habits persist even when consciously unwanted\n- Habits cluster — changing one can cascade to others (keystone habits)",
+      "Examples": "**Example 1 — Morning coffee:**\nAlarm sounds (cue) → brew and drink coffee (routine) → alertness + comfort (reward). The loop fires without conscious thought.\n\n**Example 2 — Phone checking:**\nBoredom or pause in activity (cue) → check phone (routine) → novelty hit (reward). Loop strengthens with every repetition.\n\n**Example 3 — Exercise:**\nPutting gym shoes by the door (cue engineering) → workout (routine) → endorphin release (reward). Deliberately designed habit.",
+      "Counters / Application": "- **Break a habit:** disrupt the cue (change environment) or block the reward\n- **Build a habit:** make the cue obvious, the routine easy, and the reward immediate\n- **Keystone habits:** identify high-leverage routines whose change cascades into others (sleep, exercise, journaling)",
+      "References": "- Duhigg, C. (2012). *The Power of Habit*. Random House.\n- Graybiel, A. M. (2008). Habits, rituals, and the evaluative brain. *Annual Review of Neuroscience*, 31, 359–387."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters / Application",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "operant-conditioning",
+    "name": "Operant Conditioning",
+    "category": "behavioral",
+    "origin": "B.F. Skinner, 1938",
+    "tags": [
+      "reward",
+      "punishment",
+      "reinforcement",
+      "learning",
+      "behavior-change"
+    ],
+    "summary": "Behavior is shaped by its consequences — behaviors followed by rewards increase in frequency; behaviors followed by punishments decrease. The schedule of reinforcement determines how robust the behavior becomes.",
+    "path": "models/behavioral/operant-conditioning.md",
+    "related": [
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Behavior is shaped by its consequences — behaviors followed by rewards increase in frequency; behaviors followed by punishments decrease. The schedule of reinforcement determines how robust the behavior becomes.",
+      "Mechanism": "1. Organism produces a behavior (operant)\n2. Behavior is followed by a consequence:\n   - **Positive reinforcement** — add a reward → behavior increases\n   - **Negative reinforcement** — remove an aversive stimulus → behavior increases\n   - **Positive punishment** — add an aversive stimulus → behavior decreases\n   - **Negative punishment** — remove a reward → behavior decreases\n3. The organism learns the association between behavior and consequence\n4. Reinforcement schedules determine resistance to extinction:\n   - Fixed ratio / interval — predictable, weaker\n   - Variable ratio / interval — unpredictable, highly resistant to extinction",
+      "Triggers": "- Any environment where behavior produces consistent consequences\n- Variable reward systems (most powerful trigger for compulsion)\n- Social feedback as reward or punishment\n- Immediate vs delayed consequences (immediate dominates)",
+      "Effects": "- Robust behavior shaping in humans and animals\n- Variable ratio schedules produce compulsive behavior (gambling, social media)\n- Punishment produces avoidance but not learning\n- Continuous reinforcement builds habits fast but extinguishes fast\n- Variable reinforcement builds habits slowly but extinguishes very slowly",
+      "Examples": "**Example 1 — Social media likes:**\nPosting (behavior) → variable likes (variable ratio reinforcement) → compulsive posting. The unpredictability makes it highly resistant to stopping.\n\n**Example 2 — Salary:**\nWork (behavior) → paycheck on fixed schedule (fixed interval reinforcement) → effort often spikes just before payday.\n\n**Example 3 — Parenting:**\nChild cleans room (behavior) → praise (positive reinforcement) → room-cleaning increases. Or: child screams in store → parent buys toy (negative reinforcement for parent) → screaming increases.",
+      "Counters / Application": "- Use variable ratio reinforcement to build robust habits\n- Apply consequences immediately — delay breaks the association\n- Reward the behavior, not the person (outcome attribution matters)\n- Remove reinforcement to extinguish unwanted behavior (extinction burst first)",
+      "References": "- Skinner, B. F. (1938). *The Behavior of Organisms*. Appleton-Century-Crofts.\n- Ferster, C. S., & Skinner, B. F. (1957). *Schedules of Reinforcement*. Appleton-Century-Crofts."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters / Application",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "self-perception-theory",
+    "name": "Self-Perception Theory",
+    "category": "behavioral",
+    "origin": "Daryl Bem, 1972",
+    "tags": [
+      "identity",
+      "inference",
+      "attitude",
+      "behavior",
+      "self-observation"
+    ],
+    "summary": "People infer their own attitudes and preferences by observing their behavior, especially when their internal state is ambiguous or weakly formed.",
+    "path": "models/behavioral/self-perception-theory.md",
+    "related": [
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      },
+      {
+        "name": "Cognitive Dissonance",
+        "path": "models/cognitive/cognitive-dissonance.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      }
+    ],
+    "sections": {
+      "Summary": "People infer their own attitudes and preferences by observing their behavior, especially when their internal state is ambiguous or weakly formed.",
+      "Mechanism": "1. Person notices their own behavior in a situation\n2. Internal attitude is unclear, weak, or not yet fully formed\n3. The mind asks what kind of person would behave this way\n4. An attitude or identity inference is constructed from the behavior\n5. That inferred self-concept then influences future behavior",
+      "Triggers": "- New situations where preferences are not yet well-defined\n- Repeated actions that imply a stable pattern\n- Low external pressure, making behavior feel self-chosen\n- Reflection on one's own routines, choices, or habits",
+      "Effects": "- Behavior shapes identity over time\n- Small repeated actions can change later attitudes\n- People become more consistent with inferred self-image\n- Weak attitudes are often updated from observed behavior",
+      "Examples": "**Example 1 - Volunteering:**\nSomeone who starts helping at a local event may conclude, \"I guess I care about this cause,\" which increases future involvement.\n\n**Example 2 - Exercise identity:**\nA person who keeps going for short runs begins to infer that they are \"someone who works out,\" making the habit easier to sustain.\n\n**Example 3 - Public writing:**\nPosting thoughtful notes online can lead someone to see themselves as a serious learner, which then changes how they allocate time.",
+      "Counters": "- Distinguish between behavior caused by context and behavior caused by genuine preference\n- Audit whether a repeated action reflects your values or just convenience\n- Deliberately choose small actions that reinforce the identity you want",
+      "References": "- Bem, D. J. (1972). Self-perception theory. *Advances in Experimental Social Psychology*, 6, 1-62.\n- Laird, J. D. (1974). Self-attribution of emotion: The effects of expressive behavior on the quality of emotional experience. *Journal of Personality and Social Psychology*, 29(4), 475-486."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "temptation-bundling",
+    "name": "Temptation Bundling",
+    "category": "behavioral",
+    "origin": "Katherine Milkman, Julia Minson, & Kevin Volpp, 2014",
+    "tags": [
+      "motivation",
+      "habit",
+      "reward",
+      "self-control",
+      "commitment"
+    ],
+    "summary": "Temptation bundling pairs an immediately rewarding activity with a beneficial but effortful behavior so the reward helps pull the desired behavior into action.",
+    "path": "models/behavioral/temptation-bundling.md",
+    "related": [
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      },
+      {
+        "name": "Operant Conditioning",
+        "path": "models/behavioral/operant-conditioning.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Temptation bundling pairs an immediately rewarding activity with a beneficial but effortful behavior so the reward helps pull the desired behavior into action.",
+      "Mechanism": "1. Identify a behavior that is good long term but hard to start\n2. Identify a separate activity that is immediately pleasurable\n3. Restrict access to the pleasurable activity so it occurs only during the desired behavior\n4. The immediate reward reduces resistance to starting\n5. Over time, the desired behavior becomes easier to repeat",
+      "Triggers": "- Goals that fail because benefits are delayed\n- Repetitive tasks with high friction and low immediate payoff\n- Situations where self-control is depleted\n- Opportunities to control when a reward is available",
+      "Effects": "- Increases adherence to difficult routines\n- Makes delayed-benefit behaviors feel more attractive\n- Reduces the activation energy for good habits\n- Helps convert motivation into repeatable structure",
+      "Examples": "**Example 1 - Gym-only podcast:**\nA person allows themselves to listen to a favorite thriller podcast only while exercising, making workouts easier to begin.\n\n**Example 2 - Cleaning with entertainment:**\nSomeone watches a favorite show only while folding laundry, which turns a chore into a predictable combined ritual.\n\n**Example 3 - Admin sprint:**\nA founder saves a premium coffee for bookkeeping sessions, using the immediate reward to reduce avoidance.",
+      "Counters": "- Avoid bundling with rewards that overwhelm the main task and become the sole focus\n- Use rewards that are appealing but sustainable rather than extreme treats\n- Remove the bundle when the behavior is already automatic and no longer needs extra pull",
+      "References": "- Milkman, K. L., Minson, J. A., & Volpp, K. G. (2014). Holding the Hunger Games hostage at the gym: An evaluation of temptation bundling. *Management Science*, 60(2), 283-299."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "authority-bias",
+    "name": "Authority Bias",
+    "category": "social",
+    "origin": "Stanley Milgram, 1963; Robert Cialdini, 1984",
+    "tags": [
+      "authority",
+      "compliance",
+      "trust",
+      "deference",
+      "influence"
+    ],
+    "summary": "People tend to comply with or believe the directives and opinions of perceived authority figures — even when those directives conflict with personal judgment or ethics.",
+    "path": "models/social/authority-bias.md",
+    "related": [
+      {
+        "name": "Social Proof",
+        "path": "models/social/social-proof.md"
+      },
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      }
+    ],
+    "sections": {
+      "Summary": "People tend to comply with or believe the directives and opinions of perceived authority figures — even when those directives conflict with personal judgment or ethics.",
+      "Mechanism": "1. A person or symbol of authority is present (title, uniform, credentials, confidence)\n2. Observer perceives the authority as having superior knowledge or legitimate power\n3. Observer defers judgment — own reasoning is suppressed\n4. Compliance or belief adoption follows\n5. The authority need not be genuine — symbols of authority (titles, jargon, appearance) produce the same effect",
+      "Triggers": "- Visible symbols of authority (uniforms, titles, degrees, institutional affiliation)\n- High uncertainty — deference increases when the observer lacks domain knowledge\n- Time pressure — no time to evaluate independently\n- Social hierarchies that reinforce obedience\n- Confident delivery (tone signals authority independent of content)",
+      "Effects": "- Compliance with harmful or irrational instructions\n- Uncritical acceptance of expert claims outside their domain\n- Diffusion of moral responsibility (\"I was following orders\")\n- Exploitation by false authorities (scammers, cult leaders, fraudulent experts)\n- Reduced innovation in hierarchical organizations",
+      "Examples": "**Example 1 — Milgram experiment:**\nParticipants administered what they believed were dangerous electric shocks to strangers when instructed by a scientist in a lab coat. 65% obeyed to the maximum level.\n\n**Example 2 — Doctor's orders:**\nNurses in studies followed written medication orders that contained obvious errors — because a doctor wrote it, the authority suppressed their own clinical judgment.\n\n**Example 3 — Investment fraud:**\nPonzi schemes often succeed because the operator displays credentials, uses complex jargon, and projects confidence — triggering authority bias before due diligence occurs.",
+      "Counters": "- Evaluate claims on their merits, not the source's title\n- Ask: \"is this person an authority in *this specific* domain?\"\n- In organizations: create explicit psychological safety to challenge authority\n- Pre-commit to a decision process before exposure to authority figures\n- Check credentials independently — don't accept self-reported authority",
+      "References": "- Milgram, S. (1963). Behavioral study of obedience. *Journal of Abnormal and Social Psychology*, 67(4), 371–378.\n- Cialdini, R. B. (1984). *Influence: The Psychology of Persuasion*. Harper Business."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "conformity",
+    "name": "Conformity",
+    "category": "social",
+    "origin": "Solomon Asch, 1951",
+    "tags": [
+      "conformity",
+      "pressure",
+      "groups",
+      "norms",
+      "influence"
+    ],
+    "summary": "Conformity is the tendency to align beliefs or behavior with group norms, either to fit in socially or because the group is treated as a source of information.",
+    "path": "models/social/conformity.md",
+    "related": [
+      {
+        "name": "Social Proof",
+        "path": "models/social/social-proof.md"
+      },
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Bandwagon Effect",
+        "path": "models/decision/bandwagon-effect.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Conformity is the tendency to align beliefs or behavior with group norms, either to fit in socially or because the group is treated as a source of information.",
+      "Mechanism": "1. A person observes a group's expressed belief or behavior\n2. The group signal creates social and informational pressure\n3. The person weighs personal judgment against the cost of deviating\n4. Public or private alignment with the group occurs\n5. Repeated conformity reinforces the visible norm for everyone else",
+      "Triggers": "- Clear majority consensus\n- Ambiguous situations where the correct answer is uncertain\n- Desire for belonging or fear of social friction\n- Public responses where deviation is visible",
+      "Effects": "- Group norms become self-reinforcing\n- Individual judgment is suppressed\n- Errors can spread collectively when dissent collapses\n- Coordination improves when the norm is actually useful",
+      "Examples": "**Example 1 - Meeting silence:**\nTeam members stay quiet about a risky proposal because everyone else seems supportive.\n\n**Example 2 - Fashion and slang:**\nPeople adopt styles or language to signal membership in a group.\n\n**Example 3 - Classroom answer:**\nA student changes a correct answer after hearing the rest of the class confidently choose a different one.",
+      "Counters": "- Create visible permission for dissent\n- Collect independent judgments before group discussion\n- Separate public agreement from private belief in analysis",
+      "References": "- Asch, S. E. (1951). Effects of group pressure upon the modification and distortion of judgments. In H. Guetzkow (Ed.), *Groups, Leadership and Men* (pp. 177-190). Carnegie Press.\n- Cialdini, R. B., & Goldstein, N. J. (2004). Social influence: Compliance and conformity. *Annual Review of Psychology*, 55, 591-621."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "groupthink",
+    "name": "Groupthink",
+    "category": "social",
+    "origin": "Irving Janis, 1972",
+    "tags": [
+      "groups",
+      "consensus",
+      "conformity",
+      "decisions",
+      "pressure"
+    ],
+    "summary": "Groupthink is a failure mode where the desire for harmony and consensus suppresses dissent, critical evaluation, and realistic appraisal inside a decision-making group.",
+    "path": "models/social/groupthink.md",
+    "related": [
+      {
+        "name": "Conformity",
+        "path": "models/social/conformity.md"
+      },
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Groupthink is a failure mode where the desire for harmony and consensus suppresses dissent, critical evaluation, and realistic appraisal inside a decision-making group.",
+      "Mechanism": "1. A cohesive group faces a high-stakes decision\n2. Pressure for agreement grows stronger than pressure for accuracy\n3. Dissent feels socially costly or disloyal\n4. Alternative views are filtered out or self-censored\n5. The group mistakes internal agreement for correctness\n6. Poor decisions survive because critique never fully enters the room",
+      "Triggers": "- Strong group cohesion or identity\n- Directive leadership that signals a preferred answer\n- High stress and urgency\n- Isolation from outside critique\n- Norms that treat dissent as disloyalty",
+      "Effects": "- Weak evaluation of alternatives\n- Overconfidence in flawed plans\n- Illusions of unanimity\n- Suppressed warnings and red flags",
+      "Examples": "**Example 1 - Executive meeting:**\nA leadership team converges too quickly on an acquisition because no one wants to be the lone skeptic in front of the CEO.\n\n**Example 2 - Product launch:**\nA team ignores repeated QA concerns because momentum and optimism have become part of the group's identity.\n\n**Example 3 - Policy failure:**\nOfficials filter out contrary intelligence because agreement inside the inner circle feels more reassuring than uncertainty.",
+      "Counters": "- Assign explicit dissent roles in major decisions\n- Gather independent judgments before discussion\n- Bring in outside reviewers with no stake in group cohesion",
+      "References": "- Janis, I. L. (1972). *Victims of Groupthink*. Houghton Mifflin.\n- Whyte, G. (1998). Recasting Janis's groupthink model: The key role of collective efficacy in decision fiascoes. *Organizational Behavior and Human Decision Processes*, 73(2-3), 185-209."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "reciprocity",
+    "name": "Reciprocity",
+    "category": "social",
+    "origin": "Alvin Gouldner, 1960; Robert Cialdini, 1984",
+    "tags": [
+      "reciprocity",
+      "obligation",
+      "exchange",
+      "influence",
+      "cooperation"
+    ],
+    "summary": "Reciprocity is the social rule that receiving value, help, or concession creates pressure to return something in kind, making exchange and influence more likely.",
+    "path": "models/social/reciprocity.md",
+    "related": [
+      {
+        "name": "Social Proof",
+        "path": "models/social/social-proof.md"
+      },
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Reciprocity is the social rule that receiving value, help, or concession creates pressure to return something in kind, making exchange and influence more likely.",
+      "Mechanism": "1. One person provides a gift, favor, concession, or benefit\n2. The receiver experiences social obligation to respond in kind\n3. Failing to reciprocate feels unfair or reputationally costly\n4. The obligation shapes later behavior, compliance, or cooperation\n5. Strategic actors can use the norm to create leverage",
+      "Triggers": "- Receiving an unexpected favor or gift\n- Small concessions in negotiation\n- Help offered publicly where norms are visible\n- Cultures or teams with strong fairness expectations",
+      "Effects": "- Increased cooperation and exchange\n- Higher compliance after small gifts or favors\n- Pressure to maintain balanced relationships\n- Vulnerability to manipulation through engineered obligation",
+      "Examples": "**Example 1 - Sales sample:**\nA free sample makes people more likely to buy because it creates a subtle sense of obligation.\n\n**Example 2 - Negotiation concession:**\nOne side makes a visible concession, increasing pressure for the other side to give ground in return.\n\n**Example 3 - Workplace help:**\nA coworker who repeatedly covers urgent tasks often receives informal loyalty and support later.",
+      "Counters": "- Notice when a favor is being used to create artificial leverage\n- Separate gratitude from compliance in decisions\n- Decline or neutralize unsolicited gifts when impartiality matters",
+      "References": "- Gouldner, A. W. (1960). The norm of reciprocity: A preliminary statement. *American Sociological Review*, 25(2), 161-178.\n- Cialdini, R. B. (2009). *Influence: Science and Practice*. Pearson."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "social-proof",
+    "name": "Social Proof",
+    "category": "social",
+    "origin": "Robert Cialdini, 1984",
+    "tags": [
+      "influence",
+      "conformity",
+      "behavior",
+      "uncertainty",
+      "persuasion"
+    ],
+    "summary": "People look to the behavior of others to determine the correct course of action — especially in ambiguous situations. The more people doing something, the more correct it appears.",
+    "path": "models/social/social-proof.md",
+    "related": [
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      }
+    ],
+    "sections": {
+      "Summary": "People look to the behavior of others to determine the correct course of action — especially in ambiguous situations. The more people doing something, the more correct it appears.",
+      "Mechanism": "1. Person faces an uncertain situation or decision\n2. Looks to others for behavioral cues (\"what are they doing?\")\n3. Interprets widespread behavior as evidence of correctness\n4. Adopts the behavior to reduce uncertainty and fit in\n5. Their adoption adds to the signal for others — feedback loop",
+      "Triggers": "- Uncertainty or ambiguity about the correct behavior\n- Novel situations with no prior experience\n- High stakes where being wrong has social consequences\n- Visible displays of others' choices (counts, reviews, crowds)\n- Similarity to the observed group (we follow people like us)",
+      "Effects": "- Conformity cascades (one person joins → more join → everyone joins)\n- Preference falsification — people publicly adopt behaviors they privately reject\n- Viral spread of products, ideas, and behaviors\n- Bystander effect — diffusion of responsibility in groups\n- Pluralistic ignorance — everyone conforms to a norm no one privately holds",
+      "Examples": "**Example 1 — Reviews:**\nA restaurant with 2,000 reviews at 4.5 stars attracts more diners than one with 10 reviews at 4.8 — the crowd signals safety.\n\n**Example 2 — Applause:**\nLaugh tracks on sitcoms increase perceived funniness. Canned applause tells the audience when to respond.\n\n**Example 3 — Emergency:**\nIn a medical emergency in a crowd, bystanders look at each other — everyone assumes someone else has called for help. Nobody acts. (Diffusion of responsibility.)",
+      "Counters": "- In emergencies: designate one specific person (\"you, in the red jacket — call 911\")\n- For product decisions: weight reviews by verified purchasers, not raw count\n- Recognize when you're in a conformity cascade — ask \"what do I actually think?\"\n- Structural interventions: make individual choices visible before group discussion",
+      "References": "- Cialdini, R. B. (1984). *Influence: The Psychology of Persuasion*. Harper Business.\n- Latané, B., & Darley, J. M. (1968). Group inhibition of bystander intervention in emergencies. *Journal of Personality and Social Psychology*, 10(3), 215."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "attribution-theory",
+    "name": "Attribution Theory",
+    "category": "emotional",
+    "origin": "Fritz Heider, 1958; Bernard Weiner, 1970s",
+    "tags": [
+      "attribution",
+      "emotion",
+      "explanation",
+      "success",
+      "failure"
+    ],
+    "summary": "Attribution theory explains how people interpret the causes of events, and how those explanations shape emotion, motivation, and future behavior.",
+    "path": "models/emotional/attribution-theory.md",
+    "related": [
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      },
+      {
+        "name": "Self-Perception Theory",
+        "path": "models/behavioral/self-perception-theory.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Attribution theory explains how people interpret the causes of events, and how those explanations shape emotion, motivation, and future behavior.",
+      "Mechanism": "1. An outcome occurs, such as success or failure\n2. The person asks what caused it\n3. Causes are assigned along dimensions like internal versus external, stable versus unstable, controllable versus uncontrollable\n4. The chosen explanation changes emotion and expectation\n5. Those emotions then influence motivation and later behavior",
+      "Triggers": "- Unexpected outcomes that demand explanation\n- Repeated success or failure in the same domain\n- Social comparison and feedback from others\n- Ambiguous situations where multiple causes are plausible",
+      "Effects": "- Shame, pride, guilt, relief, or helplessness depending on the attribution\n- Changes in confidence and persistence\n- Stable stories about the self that can reinforce identity\n- Divergent reactions to identical outcomes based on interpretation",
+      "Examples": "**Example 1 - Exam result:**\nA student who fails a test and attributes it to low effort reacts differently from one who attributes it to being inherently bad at the subject.\n\n**Example 2 - Promotion:**\nSomeone who credits their promotion to luck may feel less secure than someone who credits preparation and skill.\n\n**Example 3 - Team conflict:**\nA manager who sees a missed deadline as laziness responds differently than one who sees it as a systems failure.",
+      "Counters": "- Check whether your explanation is evidence-based or habitual\n- Favor specific and adjustable causes over totalizing identity judgments\n- Reframe outcomes into factors you can influence when appropriate",
+      "References": "- Heider, F. (1958). *The Psychology of Interpersonal Relations*. Wiley.\n- Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548-573."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "dopamine-reward-prediction",
+    "name": "Dopamine Reward Prediction",
+    "category": "emotional",
+    "origin": "Wolfram Schultz, 1997",
+    "tags": [
+      "dopamine",
+      "reward",
+      "prediction",
+      "learning",
+      "motivation"
+    ],
+    "summary": "Dopamine reward prediction describes how the brain updates motivation and learning based on the gap between expected reward and actual reward.",
+    "path": "models/emotional/dopamine-reward-prediction.md",
+    "related": [
+      {
+        "name": "Operant Conditioning",
+        "path": "models/behavioral/operant-conditioning.md"
+      },
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      },
+      {
+        "name": "Affect Heuristic",
+        "path": "models/decision/affect-heuristic.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Dopamine reward prediction describes how the brain updates motivation and learning based on the gap between expected reward and actual reward.",
+      "Mechanism": "1. The brain forms an expectation about a future reward\n2. An outcome occurs\n3. If the reward is better than expected, dopamine response increases\n4. If the reward matches expectation, the spike diminishes\n5. If the reward is worse than expected or absent, dopamine response drops\n6. The system updates what cues and actions are worth repeating",
+      "Triggers": "- Uncertain rewards with variable timing or magnitude\n- Novel stimuli that could signal opportunity\n- Cues previously associated with positive outcomes\n- Environments with rapid feedback loops",
+      "Effects": "- Strong learning from surprise\n- Increased motivation for variable reward systems\n- Cue sensitivity that can drive craving and compulsive behavior\n- Shifting attention from reward itself to the predictors of reward",
+      "Examples": "**Example 1 - Slot machine behavior:**\nIrregular payouts produce stronger motivation than predictable ones because the reward prediction error stays active.\n\n**Example 2 - Social notifications:**\nIntermittent likes or messages keep people checking their phones because each check might produce an unexpected reward.\n\n**Example 3 - Training feedback:**\nImmediate positive feedback after a difficult task increases the chance the same strategy is repeated.",
+      "Counters": "- Reduce exposure to variable reward environments when trying to break compulsive loops\n- Make healthy rewards more immediate and visible\n- Separate short-term dopamine pull from long-term value in decisions",
+      "References": "- Schultz, W., Dayan, P., & Montague, P. R. (1997). A neural substrate of prediction and reward. *Science*, 275(5306), 1593-1599.\n- Berridge, K. C., & Robinson, T. E. (1998). What is the role of dopamine in reward? *Brain Research Reviews*, 28(3), 309-369."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "emotional-contagion",
+    "name": "Emotional Contagion",
+    "category": "emotional",
+    "origin": "Elaine Hatfield, John Cacioppo, & Richard Rapson, 1993",
+    "tags": [
+      "emotion",
+      "contagion",
+      "empathy",
+      "groups",
+      "affect"
+    ],
+    "summary": "Emotional contagion is the spread of affect from one person or group to another through automatic mimicry, synchronization, and shared interpretation.",
+    "path": "models/emotional/emotional-contagion.md",
+    "related": [
+      {
+        "name": "Social Proof",
+        "path": "models/social/social-proof.md"
+      },
+      {
+        "name": "Affect Heuristic",
+        "path": "models/decision/affect-heuristic.md"
+      },
+      {
+        "name": "Groupthink",
+        "path": "models/social/groupthink.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Emotional contagion is the spread of affect from one person or group to another through automatic mimicry, synchronization, and shared interpretation.",
+      "Mechanism": "1. A person observes another's emotional expression, tone, posture, or pace\n2. Subtle mimicry and attentional alignment occur automatically\n3. The mirrored signals feed back into the observer's own affective state\n4. Shared interpretation amplifies the spread across a group\n5. The emotional climate becomes self-reinforcing",
+      "Triggers": "- Close social proximity or high attentional focus\n- Highly expressive leaders or peers\n- Stressful or uncertain situations\n- Digital environments with strong emotional cues and repetition",
+      "Effects": "- Mood spreads across teams, crowds, or audiences\n- Anxiety and outrage can escalate quickly\n- Calm and confidence can stabilize a group\n- Individual judgment becomes colored by collective emotion",
+      "Examples": "**Example 1 - Team standup:**\nOne visibly stressed manager can make the whole room more tense before any facts are discussed.\n\n**Example 2 - Viral outrage:**\nRepeated exposure to angry posts increases a user's own anger even before they engage analytically with the issue.\n\n**Example 3 - Customer service floor:**\nOne upbeat agent can lift the energy of nearby coworkers and improve overall tone.",
+      "Counters": "- Slow emotional spread with deliberate pauses and lower-intensity signaling\n- Avoid treating a contagious group mood as objective evidence\n- Use calm procedural structure during tense group decisions",
+      "References": "- Hatfield, E., Cacioppo, J. T., & Rapson, R. L. (1993). Emotional contagion. *Current Directions in Psychological Science*, 2(3), 96-100.\n- Barsade, S. G. (2002). The ripple effect: Emotional contagion and its influence on group behavior. *Administrative Science Quarterly*, 47(4), 644-675."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "imposter-syndrome",
+    "name": "Imposter Syndrome",
+    "category": "emotional",
+    "origin": "Pauline Clance & Suzanne Imes, 1978",
+    "tags": [
+      "self-doubt",
+      "competence",
+      "achievement",
+      "anxiety",
+      "identity"
+    ],
+    "summary": "A persistent internal experience of feeling like a fraud — believing one's success is due to luck or deception rather than genuine ability, despite objective evidence of competence.",
+    "path": "models/emotional/imposter-syndrome.md",
+    "related": [
+      {
+        "name": "Dunning-Kruger Effect",
+        "path": "models/cognitive/dunning-kruger.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      }
+    ],
+    "sections": {
+      "Summary": "A persistent internal experience of feeling like a fraud — believing one's success is due to luck or deception rather than genuine ability, despite objective evidence of competence.",
+      "Mechanism": "1. Person achieves success in a domain\n2. Instead of attributing success to ability, attributes it to luck, timing, or deceiving others\n3. Fears being \"found out\" as incompetent\n4. Works harder to compensate (overpreparation) or procrastinates to protect self-esteem\n5. New successes don't update the belief — they're also attributed to luck\n6. Cycle self-reinforces: effort → success → \"lucky again\" → more anxiety",
+      "Triggers": "- Entering a new role, team, or institution with high perceived standards\n- Belonging to a demographic underrepresented in a field\n- Perfectionist tendencies — any gap from ideal = proof of inadequacy\n- Praise from others that feels undeserved\n- Comparing internal experience (doubt, effort) to others' external presentation (confidence)",
+      "Effects": "- Chronic anxiety and self-doubt despite strong performance\n- Overwork and burnout from compensating\n- Reluctance to take on new challenges or speak up\n- Discounting genuine achievements\n- Paradoxically, often affects high performers most",
+      "Examples": "**Example 1 — New job:**\nA skilled engineer joins a senior team and spends nights re-reading documentation they already know — convinced everyone else understands it more deeply.\n\n**Example 2 — Publication:**\nAn author whose book receives critical acclaim believes the reviewers are being polite and the readers haven't figured out yet that the writing is shallow.\n\n**Example 3 — Promotion:**\nA manager promoted after years of strong results believes the promotion was a mistake and they'll soon be exposed as less capable than their peers.",
+      "Counters": "- Track and review your own objective achievements — make the evidence concrete\n- Recognize that others also doubt themselves — compare internal to internal, not internal to external\n- Reframe: effort and preparation *are* competence, not evidence of its absence\n- Talk to trusted peers — imposter syndrome thrives in isolation\n- Distinguish \"I don't know everything\" from \"I don't know anything\"",
+      "References": "- Clance, P. R., & Imes, S. A. (1978). The imposter phenomenon in high achieving women. *Psychotherapy: Theory, Research & Practice*, 15(3), 241–247."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "negativity-bias",
+    "name": "Negativity Bias",
+    "category": "emotional",
+    "origin": "Paul Rozin & Edward Royzman, 2001",
+    "tags": [
+      "emotion",
+      "bias",
+      "threat",
+      "attention",
+      "memory"
+    ],
+    "summary": "Negativity bias is the tendency for negative events, cues, and emotions to command more attention, carry more weight, and persist longer than positive ones.",
+    "path": "models/emotional/negativity-bias.md",
+    "related": [
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      },
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      },
+      {
+        "name": "Emotional Contagion",
+        "path": "models/emotional/emotional-contagion.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Negativity bias is the tendency for negative events, cues, and emotions to command more attention, carry more weight, and persist longer than positive ones.",
+      "Mechanism": "1. The mind encounters both positive and negative information\n2. Negative information is prioritized as more urgent or survival-relevant\n3. Attention, memory, and emotional impact skew toward the negative cue\n4. Judgments and forecasts become shaped by the heavier negative weight\n5. The person behaves as if bad outcomes are more informative than equally strong good outcomes",
+      "Triggers": "- Uncertain situations where threat scanning is active\n- Feedback environments containing criticism\n- High-stakes decisions or social evaluation\n- Media streams optimized for dramatic or alarming content",
+      "Effects": "- Criticism outweighs praise\n- Negative news dominates memory and conversation\n- Risk perception rises\n- Relationships and work climate can tilt toward defensive behavior",
+      "Examples": "**Example 1 - Performance review:**\nA person receives nine positive comments and one negative comment, then fixates on the negative one for days.\n\n**Example 2 - Product launch:**\nOne angry customer message dominates a team's emotional reaction despite broadly positive usage data.\n\n**Example 3 - News consumption:**\nAn audience overestimates danger because negative stories are more vivid and more frequently shared.",
+      "Counters": "- Deliberately quantify positive and negative evidence instead of relying on recall\n- Build review processes that prevent isolated negative cues from dominating\n- Treat emotional intensity as a signal to slow down, not as proof of importance",
+      "References": "- Rozin, P., & Royzman, E. B. (2001). Negativity bias, negativity dominance, and contagion. *Personality and Social Psychology Review*, 5(4), 296-320.\n- Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). Bad is stronger than good. *Review of General Psychology*, 5(4), 323-370."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "affect-heuristic",
+    "name": "Affect Heuristic",
+    "category": "decision",
+    "origin": "Paul Slovic, Melissa Finucane, Ellen Peters, & Donald MacGregor, 2002",
+    "tags": [
+      "emotion",
+      "risk",
+      "judgment",
+      "intuition",
+      "valuation"
+    ],
+    "summary": "The affect heuristic is the tendency to let immediate positive or negative feelings stand in for slower analysis when judging risks, benefits, and choices.",
+    "path": "models/decision/affect-heuristic.md",
+    "related": [
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      },
+      {
+        "name": "Framing Effect",
+        "path": "models/decision/framing-effect.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "sections": {
+      "Summary": "The affect heuristic is the tendency to let immediate positive or negative feelings stand in for slower analysis when judging risks, benefits, and choices.",
+      "Mechanism": "1. A person encounters an option, event, or category\n2. An immediate emotional impression is generated\n3. That feeling is used as a shortcut for evaluating the option\n4. Perceived benefits rise when affect is positive and perceived risks fall\n5. The reverse happens when affect is negative",
+      "Triggers": "- Complex choices with uncertain outcomes\n- Time pressure or cognitive overload\n- Highly vivid, emotional, or symbolic stimuli\n- Familiar domains where people trust intuition over analysis",
+      "Effects": "- Risk and benefit judgments move together rather than independently\n- Emotional tone strongly shapes public opinion and policy preferences\n- Fast intuitive choices feel obvious even when poorly grounded\n- Vivid stories outweigh statistical evidence",
+      "Examples": "**Example 1 - Brand reaction:**\nSomeone feels warmly toward a company and therefore underrates the risks of its new product.\n\n**Example 2 - Public fear:**\nA dramatic accident creates fear that makes a rare technology seem broadly unsafe despite low statistical risk.\n\n**Example 3 - Hiring intuition:**\nA recruiter gets a positive vibe from a candidate and then inflates both their competence and cultural fit.",
+      "Counters": "- Separate risk and benefit evaluation into distinct questions\n- Delay important decisions until the immediate emotional reaction cools\n- Compare intuition with explicit data before committing",
+      "References": "- Slovic, P., Finucane, M. L., Peters, E., & MacGregor, D. G. (2002). The affect heuristic. In T. Gilovich, D. Griffin, & D. Kahneman (Eds.), *Heuristics and Biases* (pp. 397-420). Cambridge University Press."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "bandwagon-effect",
+    "name": "Bandwagon Effect",
+    "category": "decision",
+    "origin": "Harvey Leibenstein, 1950",
+    "tags": [
+      "popularity",
+      "conformity",
+      "adoption",
+      "trend",
+      "social-influence"
+    ],
+    "summary": "The bandwagon effect is the tendency to adopt beliefs, products, or behaviors because many other people appear to be adopting them.",
+    "path": "models/decision/bandwagon-effect.md",
+    "related": [
+      {
+        "name": "Social Proof",
+        "path": "models/social/social-proof.md"
+      },
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      }
+    ],
+    "sections": {
+      "Summary": "The bandwagon effect is the tendency to adopt beliefs, products, or behaviors because many other people appear to be adopting them.",
+      "Mechanism": "1. A person sees that an option is growing in popularity\n2. Popularity is interpreted as evidence of quality, correctness, or safety\n3. Social and reputational benefits of joining increase\n4. Adoption becomes more attractive because others are already in\n5. Each new adopter strengthens the signal for the next person",
+      "Triggers": "- Public counts such as votes, followers, rankings, or reviews\n- Uncertain choices where popularity looks like information\n- Social environments where belonging matters\n- Markets where network effects increase the value of joining the majority",
+      "Effects": "- Rapid trend adoption\n- Cascades where weak evidence produces large collective shifts\n- Herd behavior and crowding around dominant options\n- Reduced independent evaluation of alternatives",
+      "Examples": "**Example 1 - Social platform migration:**\nPeople join a new app primarily because their friends and influencers are all moving there.\n\n**Example 2 - Investing mania:**\nBuyers rush into an asset because everyone else seems to be making money on it.\n\n**Example 3 - Electoral polling:**\nVoters become more likely to support a candidate who appears to be winning.",
+      "Counters": "- Separate popularity from evidence of underlying quality\n- Ask whether you would choose the same option if no one else's choice were visible\n- Intentionally evaluate at least one less-popular alternative",
+      "References": "- Leibenstein, H. (1950). Bandwagon, snob, and Veblen effects in the theory of consumers' demand. *Quarterly Journal of Economics*, 64(2), 183-207."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "framing-effect",
+    "name": "Framing Effect",
+    "category": "decision",
+    "origin": "Amos Tversky & Daniel Kahneman, 1981",
+    "tags": [
+      "framing",
+      "choice",
+      "risk",
+      "language",
+      "decision-making"
+    ],
+    "summary": "The framing effect is the tendency for logically equivalent choices to produce different decisions depending on whether they are presented as gains, losses, or other contextual narratives.",
+    "path": "models/decision/framing-effect.md",
+    "related": [
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      },
+      {
+        "name": "Anchoring Effect",
+        "path": "models/cognitive/anchoring-effect.md"
+      },
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      }
+    ],
+    "sections": {
+      "Summary": "The framing effect is the tendency for logically equivalent choices to produce different decisions depending on whether they are presented as gains, losses, or other contextual narratives.",
+      "Mechanism": "1. A choice is presented using a particular frame\n2. The frame changes which reference point feels salient\n3. Gains and losses are felt differently even when outcomes are equivalent\n4. Emotional response shifts before deliberate analysis catches up\n5. Choice follows the framing more than the underlying value",
+      "Triggers": "- Decisions described in gain versus loss language\n- Headlines, pitches, or negotiations emphasizing selective aspects\n- Complex options that people simplify using surface wording\n- High-pressure choices where there is little time to reframe",
+      "Effects": "- Risk preferences change without the facts changing\n- Messaging shapes adoption, compliance, and negotiations\n- Equivalent options feel unequal\n- People become easier to persuade through presentation rather than substance",
+      "Examples": "**Example 1 - Medical survival rate:**\nA treatment described as \"90% survival\" feels more attractive than one described as \"10% mortality,\" even though the statistics are equivalent.\n\n**Example 2 - Product pricing:**\n\"Save $20\" feels different from \"avoid losing $20,\" producing different buying behavior despite the same amount.\n\n**Example 3 - Layoff communication:**\nA manager framing a plan as \"preserving 80% of roles\" may receive a different reaction than saying \"20% of roles will be cut.\"",
+      "Counters": "- Restate the choice in at least one alternative frame before deciding\n- Convert wording into explicit numbers and expected outcomes\n- Ask what would change if the exact same facts were described differently",
+      "References": "- Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. *Science*, 211(4481), 453-458.\n- Levin, I. P., Schneider, S. L., & Gaeth, G. J. (1998). All frames are not created equal: A typology and critical analysis of framing effects. *Organizational Behavior and Human Decision Processes*, 76(2), 149-188."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "loss-aversion",
+    "name": "Loss Aversion",
+    "category": "decision",
+    "origin": "Daniel Kahneman & Amos Tversky, 1979",
+    "tags": [
+      "risk",
+      "loss",
+      "gain",
+      "prospect-theory",
+      "decision-making"
+    ],
+    "summary": "Losses feel approximately twice as painful as equivalent gains feel good — causing people to make irrational decisions to avoid loss, even when the expected value favors accepting it.",
+    "path": "models/decision/loss-aversion.md",
+    "related": [
+      {
+        "name": "Anchoring Effect",
+        "path": "models/cognitive/anchoring-effect.md"
+      },
+      {
+        "name": "Cognitive Dissonance",
+        "path": "models/cognitive/cognitive-dissonance.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Losses feel approximately twice as painful as equivalent gains feel good — causing people to make irrational decisions to avoid loss, even when the expected value favors accepting it.",
+      "Mechanism": "1. Person faces a choice involving potential gain and potential loss\n2. The psychological weight of losing X is roughly 2x the weight of gaining X\n3. Decision-making skews toward avoiding loss over acquiring gain\n4. This produces risk-aversion when a sure gain is available\n5. And risk-seeking when a sure loss is on the table (to avoid locking in the loss)",
+      "Triggers": "- Decisions framed in terms of what can be lost vs gained\n- Ownership of an asset (endowment effect — we value what we have more once we have it)\n- Reference point shifts — losses are measured relative to a baseline\n- Irreversible decisions where loss feels permanent\n- Negotiation and pricing contexts",
+      "Effects": "- Holding losing investments too long (refusing to realize the loss)\n- Selling winning investments too early (locking in the gain)\n- Over-insurance against unlikely losses\n- Status quo bias — changing anything risks loss, staying is safe\n- Negotiation anchoring — parties fight harder to avoid conceding than to gain equivalent value",
+      "Examples": "**Example 1 — Investing:**\nAn investor holds a stock that has dropped 40% because selling \"makes the loss real.\" They wait, hoping to break even, while missing better opportunities.\n\n**Example 2 — Subscription cancel:**\nA user who barely uses a service won't cancel because they focus on what they'd \"lose\" — access — rather than what they'd gain — money and mental space.\n\n**Example 3 — Negotiation:**\nFraming a proposal as \"you'll lose $10k by not acting\" is more persuasive than \"you'll gain $10k by acting\" — same value, opposite direction, different psychological weight.",
+      "Counters": "- Reframe decisions in terms of total outcomes, not gains/losses from current position\n- Pre-commit to sell/exit rules before entering a position\n- Ask: \"if I didn't already have this, would I pay to acquire it?\" (counters endowment effect)\n- Evaluate decisions by expected value, not emotional weight of outcome direction",
+      "References": "- Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica*, 47(2), 263–292.\n- Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "recency-bias",
+    "name": "Recency Bias",
+    "category": "decision",
+    "origin": "Hermann Ebbinghaus, 1885; later decision and finance literature",
+    "tags": [
+      "memory",
+      "timing",
+      "judgment",
+      "trend",
+      "forecasting"
+    ],
+    "summary": "Recency bias is the tendency to overweight the most recent information or experiences when judging patterns, making forecasts, or choosing what to do next.",
+    "path": "models/decision/recency-bias.md",
+    "related": [
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      },
+      {
+        "name": "Anchoring Effect",
+        "path": "models/cognitive/anchoring-effect.md"
+      },
+      {
+        "name": "Framing Effect",
+        "path": "models/decision/framing-effect.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Recency bias is the tendency to overweight the most recent information or experiences when judging patterns, making forecasts, or choosing what to do next.",
+      "Mechanism": "1. A sequence of events or data points is encountered\n2. The newest items are easiest to recall and feel most relevant\n3. Older but important information fades in influence\n4. The mind treats the recent pattern as more representative than it is\n5. Decisions become skewed toward the latest signal",
+      "Triggers": "- Fast-moving environments like markets, news, or social media\n- Long sequences where early information is forgotten\n- Stress or time pressure that favors what is top-of-mind\n- Situations with incomplete records or weak historical memory",
+      "Effects": "- Trend-chasing and short-term overreaction\n- Poor forecasting based on narrow windows of data\n- Inconsistent evaluation of people after recent successes or failures\n- Underweighting stable long-term patterns",
+      "Examples": "**Example 1 - Investing:**\nAn investor buys into an asset after a short winning streak, treating recent gains as proof of a durable trend.\n\n**Example 2 - Performance review:**\nA manager overweights an employee's last two weeks rather than the full year's performance.\n\n**Example 3 - Product planning:**\nA team pivots strategy after a single recent customer complaint even though longer-term evidence points elsewhere.",
+      "Counters": "- Use fixed evaluation windows instead of relying on memory\n- Compare recent signals against longer-term baselines\n- Weight data intentionally rather than by recall ease",
+      "References": "- Hogarth, R. M., & Einhorn, H. J. (1992). Order effects in belief updating: The belief-adjustment model. *Cognitive Psychology*, 24(1), 1-55.\n- De Bondt, W. F. M., & Thaler, R. (1985). Does the stock market overreact? *The Journal of Finance*, 40(3), 793-805."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "status-quo-bias",
+    "name": "Status Quo Bias",
+    "category": "decision",
+    "origin": "William Samuelson & Richard Zeckhauser, 1988",
+    "tags": [
+      "inertia",
+      "default",
+      "change",
+      "preference",
+      "risk"
+    ],
+    "summary": "Status quo bias is the tendency to prefer the current state of affairs, defaults, or existing arrangements even when alternatives may be objectively better.",
+    "path": "models/decision/status-quo-bias.md",
+    "related": [
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      },
+      {
+        "name": "Sunk Cost Fallacy",
+        "path": "models/decision/sunk-cost-fallacy.md"
+      },
+      {
+        "name": "Anchoring Effect",
+        "path": "models/cognitive/anchoring-effect.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Status quo bias is the tendency to prefer the current state of affairs, defaults, or existing arrangements even when alternatives may be objectively better.",
+      "Mechanism": "1. A current state or default option exists\n2. Changing it requires effort, uncertainty, or responsibility\n3. The current state feels safer and more legitimate than alternatives\n4. Potential losses from change are weighted more heavily than potential gains\n5. The person sticks with the default or existing arrangement",
+      "Triggers": "- Default options in forms, platforms, or policies\n- Complex choices with many alternatives\n- Fear of regret if change goes badly\n- Situations where ownership makes the current state feel normal",
+      "Effects": "- Inertia in decisions and institutions\n- Sticky defaults that shape long-term behavior\n- Under-adoption of beneficial change\n- Overprotection of familiar systems and routines",
+      "Examples": "**Example 1 - Insurance plan:**\nA person stays on a suboptimal plan for years because switching feels complicated and risky.\n\n**Example 2 - Product settings:**\nUsers rarely change default privacy settings even when they would prefer different options if forced to choose.\n\n**Example 3 - Legacy process:**\nA company keeps an inefficient workflow because nobody wants to own the disruption of replacing it.",
+      "Counters": "- Compare the current option and alternatives using the same explicit criteria\n- Force periodic re-evaluation of defaults\n- Treat inaction as a decision with its own costs and risks",
+      "References": "- Samuelson, W., & Zeckhauser, R. (1988). Status quo bias in decision making. *Journal of Risk and Uncertainty*, 1(1), 7-59.\n- Johnson, E. J., & Goldstein, D. (2003). Do defaults save lives? *Science*, 302(5649), 1338-1339."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "sunk-cost-fallacy",
+    "name": "Sunk Cost Fallacy",
+    "category": "decision",
+    "origin": "Richard Thaler, 1980; Arkes & Blumer, 1985",
+    "tags": [
+      "escalation",
+      "commitment",
+      "loss",
+      "investment",
+      "persistence"
+    ],
+    "summary": "The sunk cost fallacy is the tendency to continue a failing course of action because past time, money, or effort has already been invested and abandoning it would make the loss feel real.",
+    "path": "models/decision/sunk-cost-fallacy.md",
+    "related": [
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      },
+      {
+        "name": "Cognitive Dissonance",
+        "path": "models/cognitive/cognitive-dissonance.md"
+      },
+      {
+        "name": "Status Quo Bias",
+        "path": "models/decision/status-quo-bias.md"
+      }
+    ],
+    "sections": {
+      "Summary": "The sunk cost fallacy is the tendency to continue a failing course of action because past time, money, or effort has already been invested and abandoning it would make the loss feel real.",
+      "Mechanism": "1. Resources are invested in a project, decision, or relationship\n2. Evidence appears that the current path is poor\n3. Instead of evaluating only future costs and benefits, the mind includes past investment\n4. Abandoning the path feels like accepting loss and failure\n5. Commitment escalates even when expected future value is negative",
+      "Triggers": "- Large visible investments of money, time, or identity\n- Public commitment that would be embarrassing to reverse\n- Ambiguous feedback that allows hope to persist\n- Decision contexts where quitting feels like waste",
+      "Effects": "- Escalation of commitment to bad options\n- Delayed course correction\n- Extra losses layered on top of original losses\n- Rationalization of poor decisions after the fact",
+      "Examples": "**Example 1 - Failing project:**\nA team keeps funding a weak product because they already spent a year building it.\n\n**Example 2 - Bad movie:**\nSomeone sits through a terrible film because they paid for the ticket, even though leaving would maximize the rest of the evening.\n\n**Example 3 - Recruiting mistake:**\nA manager keeps defending a poor hire because admitting the mistake would feel costly and embarrassing.",
+      "Counters": "- Evaluate options based on future value only, not past investment\n- Ask what you would do if the investment had not already been made\n- Build explicit decision checkpoints where stopping is treated as a valid outcome",
+      "References": "- Thaler, R. (1980). Toward a positive theory of consumer choice. *Journal of Economic Behavior & Organization*, 1(1), 39-60.\n- Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. *Organizational Behavior and Human Decision Processes*, 35(1), 124-140."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "attachment-theory",
+    "name": "Attachment Theory",
+    "category": "developmental",
+    "origin": "John Bowlby, 1969; Mary Ainsworth, 1978",
+    "tags": [
+      "attachment",
+      "relationships",
+      "development",
+      "security",
+      "caregiving"
+    ],
+    "summary": "Attachment theory explains how early caregiver relationships shape internal expectations about safety, closeness, and regulation, influencing later relationships across development.",
+    "path": "models/developmental/attachment-theory.md",
+    "related": [
+      {
+        "name": "Erikson's Psychosocial Development",
+        "path": "models/developmental/erikson-psychosocial-development.md"
+      },
+      {
+        "name": "Emotional Contagion",
+        "path": "models/emotional/emotional-contagion.md"
+      },
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Attachment theory explains how early caregiver relationships shape internal expectations about safety, closeness, and regulation, influencing later relationships across development.",
+      "Mechanism": "1. An infant relies on caregivers for protection and regulation\n2. Repeated caregiving patterns create expectations about availability and safety\n3. These expectations become internal working models of self and others\n4. Later relationships are interpreted through those models\n5. Attachment patterns influence emotion regulation, trust, and closeness over time",
+      "Triggers": "- Early caregiving consistency or inconsistency\n- Separation, reunion, and distress situations\n- Later intimate relationships that activate security or abandonment concerns\n- High-stress conditions that reactivate attachment expectations",
+      "Effects": "- Secure or insecure patterns in closeness and regulation\n- Different reactions to conflict, distance, and reassurance\n- Long-term influence on trust and relational stability\n- Developmental carryover from early care into adult bonds",
+      "Examples": "**Example 1 - Childcare pickup:**\nA securely attached child is upset at separation but settles after reunion because the caregiver is expected to return.\n\n**Example 2 - Adult relationships:**\nSomeone with anxious attachment may interpret delayed replies as signs of abandonment.\n\n**Example 3 - Workplace trust:**\nAn employee may either seek healthy support or defensively avoid it depending on deeper expectations about reliability.",
+      "Counters": "- Avoid treating attachment style as fixed destiny\n- Use stable, predictable responsiveness in caregiving and leadership\n- Build corrective relational experiences that update insecure expectations",
+      "References": "- Bowlby, J. (1969). *Attachment and Loss: Volume I. Attachment*. Basic Books.\n- Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978). *Patterns of Attachment*. Erlbaum."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "erikson-s-psychosocial-development",
+    "name": "Erikson's Psychosocial Development",
+    "category": "developmental",
+    "origin": "Erik Erikson, 1950",
+    "tags": [
+      "identity",
+      "lifespan",
+      "stages",
+      "development",
+      "socialization"
+    ],
+    "summary": "Erikson's psychosocial development model describes human development as a series of life stages, each centered on a core psychological conflict whose resolution shapes later identity and relationships.",
+    "path": "models/developmental/erikson-psychosocial-development.md",
+    "related": [
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      },
+      {
+        "name": "Piaget's Cognitive Development",
+        "path": "models/developmental/piaget-cognitive-development.md"
+      },
+      {
+        "name": "Growth Mindset",
+        "path": "models/developmental/growth-mindset.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Erikson's psychosocial development model describes human development as a series of life stages, each centered on a core psychological conflict whose resolution shapes later identity and relationships.",
+      "Mechanism": "1. Development unfolds across the lifespan rather than only in childhood\n2. Each stage presents a central psychosocial conflict\n3. How the person and environment handle that conflict shapes a core strength or vulnerability\n4. Unresolved conflicts carry forward into later stages\n5. Later development builds on earlier patterns of trust, autonomy, identity, and generativity",
+      "Triggers": "- Major life transitions such as schooling, adolescence, work, parenting, or aging\n- Social expectations tied to age and role\n- Crises that force questions of trust, competence, identity, or purpose\n- Relational environments that support or frustrate developmental needs",
+      "Effects": "- Identity formation depends on successful navigation of earlier stages\n- Early relational experiences influence later trust and intimacy\n- Developmental struggles can reappear at later life transitions\n- Personal meaning is shaped by stage-specific tasks",
+      "Examples": "**Example 1 - Adolescence:**\nA teenager experiments with roles, values, and affiliations while trying to form a coherent sense of identity.\n\n**Example 2 - Early adulthood:**\nA young adult who fears vulnerability may struggle with intimacy despite wanting close relationships.\n\n**Example 3 - Midlife:**\nA professional may feel either generative and invested in mentoring or stagnant and disconnected from purpose.",
+      "Counters": "- Interpret recurring life struggles in terms of developmental task mismatch\n- Build environments that support autonomy, competence, and belonging at the relevant stage\n- Revisit unresolved conflicts through reflection, therapy, or corrective relationships",
+      "References": "- Erikson, E. H. (1950). *Childhood and Society*. W. W. Norton.\n- Erikson, E. H. (1968). *Identity: Youth and Crisis*. W. W. Norton."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "growth-mindset",
+    "name": "Growth Mindset",
+    "category": "developmental",
+    "origin": "Carol Dweck, 2006",
+    "tags": [
+      "mindset",
+      "learning",
+      "ability",
+      "effort",
+      "development"
+    ],
+    "summary": "A growth mindset is the belief that ability can be developed through effort, strategy, and feedback, which changes how people respond to challenge, failure, and learning.",
+    "path": "models/developmental/growth-mindset.md",
+    "related": [
+      {
+        "name": "Zone of Proximal Development",
+        "path": "models/developmental/zone-of-proximal-development.md"
+      },
+      {
+        "name": "Dunning-Kruger Effect",
+        "path": "models/cognitive/dunning-kruger.md"
+      },
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      }
+    ],
+    "sections": {
+      "Summary": "A growth mindset is the belief that ability can be developed through effort, strategy, and feedback, which changes how people respond to challenge, failure, and learning.",
+      "Mechanism": "1. A person forms beliefs about whether ability is fixed or developable\n2. Those beliefs shape the interpretation of difficulty and failure\n3. With a growth mindset, setbacks signal the need for strategy, effort, or practice rather than permanent limitation\n4. Persistence and learning behaviors increase\n5. Over time, the response pattern compounds into different developmental outcomes",
+      "Triggers": "- Feedback about intelligence, talent, or performance\n- Challenging tasks where immediate success is unlikely\n- Educational or work cultures that reward learning versus image protection\n- Comparisons that make current limitations highly visible",
+      "Effects": "- Greater persistence under challenge\n- More willingness to seek feedback and practice\n- Reduced avoidance of difficult tasks\n- Identity becomes more compatible with long-term learning",
+      "Examples": "**Example 1 - Math class:**\nA student who treats mistakes as information keeps practicing, while a student with a fixed mindset reads mistakes as proof they are \"bad at math.\"\n\n**Example 2 - Creative work:**\nAn artist who believes skill develops through iteration is more likely to keep shipping and refining work after criticism.\n\n**Example 3 - Team culture:**\nA manager who praises process and improvement creates a team that experiments more than one praised only for natural talent.",
+      "Counters": "- Avoid praising static traits when you want learning behavior\n- Pair encouragement with strategy, feedback, and standards\n- Do not turn \"growth mindset\" into denial of real constraints or differences in starting point",
+      "References": "- Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.\n- Yeager, D. S., & Dweck, C. S. (2012). Mindsets that promote resilience. *Educational Psychologist*, 47(4), 302-314."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "piaget-s-cognitive-development",
+    "name": "Piaget's Cognitive Development",
+    "category": "developmental",
+    "origin": "Jean Piaget, 1936",
+    "tags": [
+      "development",
+      "learning",
+      "stages",
+      "cognition",
+      "childhood"
+    ],
+    "summary": "Piaget's cognitive development model describes how children's thinking changes through qualitatively different stages as they mature and interact with the world.",
+    "path": "models/developmental/piaget-cognitive-development.md",
+    "related": [
+      {
+        "name": "Zone of Proximal Development",
+        "path": "models/developmental/zone-of-proximal-development.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      },
+      {
+        "name": "Growth Mindset",
+        "path": "models/developmental/growth-mindset.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Piaget's cognitive development model describes how children's thinking changes through qualitatively different stages as they mature and interact with the world.",
+      "Mechanism": "1. Children build mental models through interaction with their environment\n2. New experiences are either assimilated into existing schemas or require accommodation of those schemas\n3. Repeated mismatch between reality and current understanding drives stage transitions\n4. Each stage enables new forms of reasoning while constraining others\n5. Later stages support increasingly abstract and systematic thought",
+      "Triggers": "- Repeated exposure to new information that existing schemas cannot explain\n- Tasks that demand reasoning beyond current developmental capacity\n- Social and physical exploration that creates cognitive conflict\n- Educational environments that scaffold increasingly complex concepts",
+      "Effects": "- Children's reasoning changes in structured, stage-like ways\n- Abstract logic becomes possible only later in development\n- Misjudging developmental stage leads to unrealistic expectations\n- Learning improves when explanations fit current cognitive capacity",
+      "Examples": "**Example 1 - Object permanence:**\nAn infant initially behaves as if a hidden toy no longer exists, then later begins searching for it once object permanence emerges.\n\n**Example 2 - Conservation task:**\nA child may think taller liquid in a narrow glass means \"more\" until concrete operational reasoning develops.\n\n**Example 3 - Abstract algebra:**\nFormal symbolic reasoning becomes much easier once adolescents can manipulate hypothetical relationships rather than only concrete examples.",
+      "Counters": "- Match teaching methods to the learner's developmental level\n- Use concrete examples before introducing abstract rules\n- Treat developmental limits as capacity constraints rather than defiance",
+      "References": "- Piaget, J. (1936). *Origins of Intelligence in the Child*. Routledge & Kegan Paul.\n- Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "social-learning-theory",
+    "name": "Social Learning Theory",
+    "category": "developmental",
+    "origin": "Albert Bandura, 1977",
+    "tags": [
+      "learning",
+      "imitation",
+      "modeling",
+      "development",
+      "observation"
+    ],
+    "summary": "Social learning theory explains how people develop behavior and expectations by observing others, modeling what is seen, and updating based on consequences without needing direct trial-and-error for every lesson.",
+    "path": "models/developmental/social-learning-theory.md",
+    "related": [
+      {
+        "name": "Zone of Proximal Development",
+        "path": "models/developmental/zone-of-proximal-development.md"
+      },
+      {
+        "name": "Conformity",
+        "path": "models/social/conformity.md"
+      },
+      {
+        "name": "Operant Conditioning",
+        "path": "models/behavioral/operant-conditioning.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Social learning theory explains how people develop behavior and expectations by observing others, modeling what is seen, and updating based on consequences without needing direct trial-and-error for every lesson.",
+      "Mechanism": "1. A learner observes another person performing a behavior\n2. Attention, retention, and motivation determine whether the observed behavior is encoded\n3. The learner forms a model of the behavior and its likely consequences\n4. The behavior is imitated when context and motivation support it\n5. Observed rewards or punishments update whether the behavior is repeated",
+      "Triggers": "- Visible role models or peers\n- Environments with clear behavioral consequences\n- Media or digital exposure to repeated behavioral examples\n- Developmental stages where imitation is a primary learning channel",
+      "Effects": "- Rapid acquisition of norms and skills\n- Behavior spreads without direct instruction\n- Vicarious reinforcement shapes future choices\n- Development becomes tightly linked to observed social environment",
+      "Examples": "**Example 1 - Classroom norms:**\nStudents copy how respected classmates respond to teachers, not just what rules say.\n\n**Example 2 - Aggression modeling:**\nChildren exposed to rewarded aggressive behavior become more likely to reproduce it.\n\n**Example 3 - Junior onboarding:**\nA new employee learns team behavior mainly by watching what senior staff actually do, not by reading the handbook.",
+      "Counters": "- Audit the models and incentives learners are exposed to\n- Pair instruction with visible examples of the desired behavior\n- Do not assume stated values matter if modeled behavior contradicts them",
+      "References": "- Bandura, A. (1977). *Social Learning Theory*. Prentice Hall.\n- Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. *Journal of Abnormal and Social Psychology*, 63(3), 575-582."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "zone-of-proximal-development",
+    "name": "Zone of Proximal Development",
+    "category": "developmental",
+    "origin": "Lev Vygotsky, 1934",
+    "tags": [
+      "learning",
+      "scaffolding",
+      "teaching",
+      "development",
+      "capability"
+    ],
+    "summary": "The zone of proximal development describes the gap between what a learner can do alone and what they can do with guidance, making it a model for how support accelerates development.",
+    "path": "models/developmental/zone-of-proximal-development.md",
+    "related": [
+      {
+        "name": "Piaget's Cognitive Development",
+        "path": "models/developmental/piaget-cognitive-development.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      },
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      }
+    ],
+    "sections": {
+      "Summary": "The zone of proximal development describes the gap between what a learner can do alone and what they can do with guidance, making it a model for how support accelerates development.",
+      "Mechanism": "1. A learner has a current independent level of performance\n2. Some tasks are too easy and produce little growth\n3. Some tasks are too difficult even with help\n4. The zone of proximal development sits between those extremes\n5. Guidance, prompts, or collaboration enable success in that zone\n6. Skills practiced with support become internalized over time",
+      "Triggers": "- Learning situations with structured support from a teacher, peer, or tool\n- Tasks that are challenging but not impossible\n- Feedback loops that help the learner correct errors in real time\n- Environments where coaching fades as competence grows",
+      "Effects": "- Learning accelerates when support is calibrated to current capability\n- Scaffolding can turn temporary assisted performance into independent skill\n- Poorly calibrated difficulty causes boredom or overwhelm\n- Social context becomes a central driver of development",
+      "Examples": "**Example 1 - Reading instruction:**\nA child cannot yet read a paragraph independently but can do so with prompts that guide sounding out and comprehension.\n\n**Example 2 - Coding mentorship:**\nA junior developer cannot architect a system alone but can complete the design with guided questions from a senior engineer.\n\n**Example 3 - Sports coaching:**\nAn athlete learns a new movement pattern by using drills and corrections until the pattern becomes automatic.",
+      "Counters": "- Do not confuse unsupported failure with lack of potential\n- Adjust challenge continuously as the learner improves\n- Remove scaffolding gradually so support does not become dependency",
+      "References": "- Vygotsky, L. S. (1978). *Mind in Society*. Harvard University Press.\n- Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry*, 17(2), 89-100."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  }
+]

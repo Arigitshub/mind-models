@@ -1,5 +1,6 @@
 [
   {
+    "id": "anchoring-effect",
     "name": "Anchoring Effect",
     "category": "cognitive",
     "origin": "Amos Tversky & Daniel Kahneman, 1974",
@@ -22,18 +23,19 @@
         "path": "models/decision/loss-aversion.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "anchoring",
+      "cognitive",
+      "effect",
+      "estimation",
+      "first-impression",
+      "judgment",
+      "negotiation",
+      "numbers"
     ]
   },
   {
+    "id": "availability-heuristic",
     "name": "Availability Heuristic",
     "category": "cognitive",
     "origin": "Amos Tversky & Daniel Kahneman, 1973",
@@ -56,18 +58,19 @@
         "path": "models/decision/loss-aversion.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "availability",
+      "cognitive",
+      "heuristic",
+      "judgment",
+      "memory",
+      "probability",
+      "risk",
+      "shortcut"
     ]
   },
   {
+    "id": "cognitive-dissonance",
     "name": "Cognitive Dissonance",
     "category": "cognitive",
     "origin": "Leon Festinger, 1957",
@@ -90,18 +93,18 @@
         "path": "models/cognitive/metacognition.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "belief",
+      "cognitive",
+      "conflict",
+      "consistency",
+      "dissonance",
+      "motivation",
+      "rationalization"
     ]
   },
   {
+    "id": "confirmation-bias",
     "name": "Confirmation Bias",
     "category": "cognitive",
     "origin": "Peter Wason, 1960",
@@ -128,18 +131,19 @@
         "path": "models/cognitive/dunning-kruger.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "belief",
+      "bias",
+      "cognitive",
+      "confirmation",
+      "information",
+      "perception",
+      "reasoning",
+      "search"
     ]
   },
   {
+    "id": "dunning-kruger-effect",
     "name": "Dunning-Kruger Effect",
     "category": "cognitive",
     "origin": "David Dunning & Justin Kruger, 1999",
@@ -166,18 +170,19 @@
         "path": "models/cognitive/metacognition.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "cognitive",
+      "competence",
+      "confidence",
+      "dunning-kruger",
+      "effect",
+      "learning",
+      "metacognition",
+      "self-assessment"
     ]
   },
   {
+    "id": "halo-effect",
     "name": "Halo Effect",
     "category": "cognitive",
     "origin": "Edward Thorndike, 1920",
@@ -204,18 +209,19 @@
         "path": "models/cognitive/anchoring-effect.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "bias",
+      "cognitive",
+      "effect",
+      "generalization",
+      "halo",
+      "judgment",
+      "perception",
+      "reputation"
     ]
   },
   {
+    "id": "metacognition",
     "name": "Metacognition",
     "category": "cognitive",
     "origin": "John Flavell, 1976",
@@ -242,18 +248,18 @@
         "path": "models/cognitive/confirmation-bias.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "accuracy",
+      "cognitive",
+      "learning",
+      "metacognition",
+      "regulation",
+      "self-awareness",
+      "thinking"
     ]
   },
   {
+    "id": "habit-loop",
     "name": "Habit Loop",
     "category": "behavioral",
     "origin": "Charles Duhigg (popularized), based on MIT basal ganglia research, 1990s–2012",
@@ -272,18 +278,18 @@
         "path": "models/behavioral/operant-conditioning.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters / Application",
-      "Related Models",
-      "References"
+    "keywords": [
+      "behavior-change",
+      "behavioral",
+      "cue",
+      "habit",
+      "loop",
+      "reward",
+      "routine"
     ]
   },
   {
+    "id": "operant-conditioning",
     "name": "Operant Conditioning",
     "category": "behavioral",
     "origin": "B.F. Skinner, 1938",
@@ -306,18 +312,19 @@
         "path": "models/decision/loss-aversion.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters / Application",
-      "Related Models",
-      "References"
+    "keywords": [
+      "behavior-change",
+      "behavioral",
+      "conditioning",
+      "learning",
+      "operant",
+      "punishment",
+      "reinforcement",
+      "reward"
     ]
   },
   {
+    "id": "self-perception-theory",
     "name": "Self-Perception Theory",
     "category": "behavioral",
     "origin": "Daryl Bem, 1972",
@@ -344,18 +351,19 @@
         "path": "models/cognitive/metacognition.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "attitude",
+      "behavior",
+      "behavioral",
+      "identity",
+      "inference",
+      "self-observation",
+      "self-perception",
+      "theory"
     ]
   },
   {
+    "id": "temptation-bundling",
     "name": "Temptation Bundling",
     "category": "behavioral",
     "origin": "Katherine Milkman, Julia Minson, & Kevin Volpp, 2014",
@@ -382,18 +390,19 @@
         "path": "models/decision/loss-aversion.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "behavioral",
+      "bundling",
+      "commitment",
+      "habit",
+      "motivation",
+      "reward",
+      "self-control",
+      "temptation"
     ]
   },
   {
+    "id": "authority-bias",
     "name": "Authority Bias",
     "category": "social",
     "origin": "Stanley Milgram, 1963; Robert Cialdini, 1984",
@@ -416,18 +425,18 @@
         "path": "models/cognitive/confirmation-bias.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "authority",
+      "bias",
+      "compliance",
+      "deference",
+      "influence",
+      "social",
+      "trust"
     ]
   },
   {
+    "id": "conformity",
     "name": "Conformity",
     "category": "social",
     "origin": "Solomon Asch, 1951",
@@ -454,18 +463,92 @@
         "path": "models/decision/bandwagon-effect.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "conformity",
+      "groups",
+      "influence",
+      "norms",
+      "pressure",
+      "social"
     ]
   },
   {
+    "id": "groupthink",
+    "name": "Groupthink",
+    "category": "social",
+    "origin": "Irving Janis, 1972",
+    "tags": [
+      "groups",
+      "consensus",
+      "conformity",
+      "decisions",
+      "pressure"
+    ],
+    "summary": "Groupthink is a failure mode where the desire for harmony and consensus suppresses dissent, critical evaluation, and realistic appraisal inside a decision-making group.",
+    "path": "models/social/groupthink.md",
+    "related": [
+      {
+        "name": "Conformity",
+        "path": "models/social/conformity.md"
+      },
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      }
+    ],
+    "keywords": [
+      "conformity",
+      "consensus",
+      "decisions",
+      "groups",
+      "groupthink",
+      "pressure",
+      "social"
+    ]
+  },
+  {
+    "id": "reciprocity",
+    "name": "Reciprocity",
+    "category": "social",
+    "origin": "Alvin Gouldner, 1960; Robert Cialdini, 1984",
+    "tags": [
+      "reciprocity",
+      "obligation",
+      "exchange",
+      "influence",
+      "cooperation"
+    ],
+    "summary": "Reciprocity is the social rule that receiving value, help, or concession creates pressure to return something in kind, making exchange and influence more likely.",
+    "path": "models/social/reciprocity.md",
+    "related": [
+      {
+        "name": "Social Proof",
+        "path": "models/social/social-proof.md"
+      },
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "keywords": [
+      "cooperation",
+      "exchange",
+      "influence",
+      "obligation",
+      "reciprocity",
+      "social"
+    ]
+  },
+  {
+    "id": "social-proof",
     "name": "Social Proof",
     "category": "social",
     "origin": "Robert Cialdini, 1984",
@@ -488,18 +571,18 @@
         "path": "models/cognitive/confirmation-bias.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "behavior",
+      "conformity",
+      "influence",
+      "persuasion",
+      "proof",
+      "social",
+      "uncertainty"
     ]
   },
   {
+    "id": "attribution-theory",
     "name": "Attribution Theory",
     "category": "emotional",
     "origin": "Fritz Heider, 1958; Bernard Weiner, 1970s",
@@ -526,18 +609,18 @@
         "path": "models/behavioral/self-perception-theory.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "attribution",
+      "emotion",
+      "emotional",
+      "explanation",
+      "failure",
+      "success",
+      "theory"
     ]
   },
   {
+    "id": "dopamine-reward-prediction",
     "name": "Dopamine Reward Prediction",
     "category": "emotional",
     "origin": "Wolfram Schultz, 1997",
@@ -564,18 +647,54 @@
         "path": "models/decision/affect-heuristic.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "dopamine",
+      "emotional",
+      "learning",
+      "motivation",
+      "prediction",
+      "reward"
     ]
   },
   {
+    "id": "emotional-contagion",
+    "name": "Emotional Contagion",
+    "category": "emotional",
+    "origin": "Elaine Hatfield, John Cacioppo, & Richard Rapson, 1993",
+    "tags": [
+      "emotion",
+      "contagion",
+      "empathy",
+      "groups",
+      "affect"
+    ],
+    "summary": "Emotional contagion is the spread of affect from one person or group to another through automatic mimicry, synchronization, and shared interpretation.",
+    "path": "models/emotional/emotional-contagion.md",
+    "related": [
+      {
+        "name": "Social Proof",
+        "path": "models/social/social-proof.md"
+      },
+      {
+        "name": "Affect Heuristic",
+        "path": "models/decision/affect-heuristic.md"
+      },
+      {
+        "name": "Groupthink",
+        "path": "models/social/groupthink.md"
+      }
+    ],
+    "keywords": [
+      "affect",
+      "contagion",
+      "emotion",
+      "emotional",
+      "empathy",
+      "groups"
+    ]
+  },
+  {
+    "id": "imposter-syndrome",
     "name": "Imposter Syndrome",
     "category": "emotional",
     "origin": "Pauline Clance & Suzanne Imes, 1978",
@@ -598,18 +717,57 @@
         "path": "models/cognitive/metacognition.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "achievement",
+      "anxiety",
+      "competence",
+      "emotional",
+      "identity",
+      "imposter",
+      "self-doubt",
+      "syndrome"
     ]
   },
   {
+    "id": "negativity-bias",
+    "name": "Negativity Bias",
+    "category": "emotional",
+    "origin": "Paul Rozin & Edward Royzman, 2001",
+    "tags": [
+      "emotion",
+      "bias",
+      "threat",
+      "attention",
+      "memory"
+    ],
+    "summary": "Negativity bias is the tendency for negative events, cues, and emotions to command more attention, carry more weight, and persist longer than positive ones.",
+    "path": "models/emotional/negativity-bias.md",
+    "related": [
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      },
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      },
+      {
+        "name": "Emotional Contagion",
+        "path": "models/emotional/emotional-contagion.md"
+      }
+    ],
+    "keywords": [
+      "attention",
+      "bias",
+      "emotion",
+      "emotional",
+      "memory",
+      "negativity",
+      "threat"
+    ]
+  },
+  {
+    "id": "affect-heuristic",
     "name": "Affect Heuristic",
     "category": "decision",
     "origin": "Paul Slovic, Melissa Finucane, Ellen Peters, & Donald MacGregor, 2002",
@@ -636,18 +794,19 @@
         "path": "models/decision/loss-aversion.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "affect",
+      "decision",
+      "emotion",
+      "heuristic",
+      "intuition",
+      "judgment",
+      "risk",
+      "valuation"
     ]
   },
   {
+    "id": "bandwagon-effect",
     "name": "Bandwagon Effect",
     "category": "decision",
     "origin": "Harvey Leibenstein, 1950",
@@ -674,18 +833,19 @@
         "path": "models/cognitive/availability-heuristic.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "adoption",
+      "bandwagon",
+      "conformity",
+      "decision",
+      "effect",
+      "popularity",
+      "social-influence",
+      "trend"
     ]
   },
   {
+    "id": "framing-effect",
     "name": "Framing Effect",
     "category": "decision",
     "origin": "Amos Tversky & Daniel Kahneman, 1981",
@@ -712,18 +872,18 @@
         "path": "models/cognitive/availability-heuristic.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "choice",
+      "decision",
+      "decision-making",
+      "effect",
+      "framing",
+      "language",
+      "risk"
     ]
   },
   {
+    "id": "loss-aversion",
     "name": "Loss Aversion",
     "category": "decision",
     "origin": "Daniel Kahneman & Amos Tversky, 1979",
@@ -746,18 +906,18 @@
         "path": "models/cognitive/cognitive-dissonance.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "aversion",
+      "decision",
+      "decision-making",
+      "gain",
+      "loss",
+      "prospect-theory",
+      "risk"
     ]
   },
   {
+    "id": "recency-bias",
     "name": "Recency Bias",
     "category": "decision",
     "origin": "Hermann Ebbinghaus, 1885; later decision and finance literature",
@@ -784,18 +944,19 @@
         "path": "models/decision/framing-effect.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "bias",
+      "decision",
+      "forecasting",
+      "judgment",
+      "memory",
+      "recency",
+      "timing",
+      "trend"
     ]
   },
   {
+    "id": "status-quo-bias",
     "name": "Status Quo Bias",
     "category": "decision",
     "origin": "William Samuelson & Richard Zeckhauser, 1988",
@@ -822,18 +983,20 @@
         "path": "models/cognitive/anchoring-effect.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "bias",
+      "change",
+      "decision",
+      "default",
+      "inertia",
+      "preference",
+      "quo",
+      "risk",
+      "status"
     ]
   },
   {
+    "id": "sunk-cost-fallacy",
     "name": "Sunk Cost Fallacy",
     "category": "decision",
     "origin": "Richard Thaler, 1980; Arkes & Blumer, 1985",
@@ -860,18 +1023,58 @@
         "path": "models/decision/status-quo-bias.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "commitment",
+      "cost",
+      "decision",
+      "escalation",
+      "fallacy",
+      "investment",
+      "loss",
+      "persistence",
+      "sunk"
     ]
   },
   {
+    "id": "attachment-theory",
+    "name": "Attachment Theory",
+    "category": "developmental",
+    "origin": "John Bowlby, 1969; Mary Ainsworth, 1978",
+    "tags": [
+      "attachment",
+      "relationships",
+      "development",
+      "security",
+      "caregiving"
+    ],
+    "summary": "Attachment theory explains how early caregiver relationships shape internal expectations about safety, closeness, and regulation, influencing later relationships across development.",
+    "path": "models/developmental/attachment-theory.md",
+    "related": [
+      {
+        "name": "Erikson's Psychosocial Development",
+        "path": "models/developmental/erikson-psychosocial-development.md"
+      },
+      {
+        "name": "Emotional Contagion",
+        "path": "models/emotional/emotional-contagion.md"
+      },
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      }
+    ],
+    "keywords": [
+      "attachment",
+      "caregiving",
+      "development",
+      "developmental",
+      "relationships",
+      "security",
+      "theory"
+    ]
+  },
+  {
+    "id": "erikson-s-psychosocial-development",
     "name": "Erikson's Psychosocial Development",
     "category": "developmental",
     "origin": "Erik Erikson, 1950",
@@ -898,18 +1101,19 @@
         "path": "models/developmental/growth-mindset.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "development",
+      "developmental",
+      "erikson's",
+      "identity",
+      "lifespan",
+      "psychosocial",
+      "socialization",
+      "stages"
     ]
   },
   {
+    "id": "growth-mindset",
     "name": "Growth Mindset",
     "category": "developmental",
     "origin": "Carol Dweck, 2006",
@@ -936,18 +1140,18 @@
         "path": "models/emotional/imposter-syndrome.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "ability",
+      "development",
+      "developmental",
+      "effort",
+      "growth",
+      "learning",
+      "mindset"
     ]
   },
   {
+    "id": "piaget-s-cognitive-development",
     "name": "Piaget's Cognitive Development",
     "category": "developmental",
     "origin": "Jean Piaget, 1936",
@@ -974,18 +1178,58 @@
         "path": "models/developmental/growth-mindset.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "childhood",
+      "cognition",
+      "cognitive",
+      "development",
+      "developmental",
+      "learning",
+      "piaget's",
+      "stages"
     ]
   },
   {
+    "id": "social-learning-theory",
+    "name": "Social Learning Theory",
+    "category": "developmental",
+    "origin": "Albert Bandura, 1977",
+    "tags": [
+      "learning",
+      "imitation",
+      "modeling",
+      "development",
+      "observation"
+    ],
+    "summary": "Social learning theory explains how people develop behavior and expectations by observing others, modeling what is seen, and updating based on consequences without needing direct trial-and-error for every lesson.",
+    "path": "models/developmental/social-learning-theory.md",
+    "related": [
+      {
+        "name": "Zone of Proximal Development",
+        "path": "models/developmental/zone-of-proximal-development.md"
+      },
+      {
+        "name": "Conformity",
+        "path": "models/social/conformity.md"
+      },
+      {
+        "name": "Operant Conditioning",
+        "path": "models/behavioral/operant-conditioning.md"
+      }
+    ],
+    "keywords": [
+      "development",
+      "developmental",
+      "imitation",
+      "learning",
+      "modeling",
+      "observation",
+      "social",
+      "theory"
+    ]
+  },
+  {
+    "id": "zone-of-proximal-development",
     "name": "Zone of Proximal Development",
     "category": "developmental",
     "origin": "Lev Vygotsky, 1934",
@@ -1012,15 +1256,16 @@
         "path": "models/behavioral/habit-loop.md"
       }
     ],
-    "sections": [
-      "Summary",
-      "Mechanism",
-      "Triggers",
-      "Effects",
-      "Examples",
-      "Counters",
-      "Related Models",
-      "References"
+    "keywords": [
+      "capability",
+      "development",
+      "developmental",
+      "learning",
+      "of",
+      "proximal",
+      "scaffolding",
+      "teaching",
+      "zone"
     ]
   }
 ]
