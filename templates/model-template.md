@@ -14,7 +14,7 @@ One sentence: what this model describes and why it matters.
 
 ## Mechanism
 
-How the model works — steps, stages, or loop.
+How the model works - steps, stages, or loop.
 
 1. Step one
 2. Step two
@@ -43,13 +43,13 @@ What this model produces:
 
 ## Examples
 
-**Example 1 — [Context]:**
+**Example 1 - [Context]:**
 Description of example.
 
-**Example 2 — [Context]:**
+**Example 2 - [Context]:**
 Description of example.
 
-**Example 3 — [Context]:**
+**Example 3 - [Context]:**
 Description of example.
 
 ---
@@ -65,8 +65,8 @@ How to reduce, override, or work with this model:
 
 ## Related Models
 
-- [Model Name](../category/model-name.md) — why related
-- [Model Name](../category/model-name.md) — why related
+- [Model Name](../category/model-name.md) - why related
+- [Model Name](../category/model-name.md) - why related
 
 ---
 

@@ -66,9 +66,8 @@ In a medical emergency in a crowd, bystanders look at each other — everyone as
 
 ## Related Models
 
-- [Conformity](conformity.md) — social proof is the informational mechanism of conformity
-- [Authority Bias](authority-bias.md) — we also defer to status, not just numbers
-- [Bandwagon Effect](../decision/bandwagon-effect.md) — social proof applied to trends and popularity
+- [Authority Bias](authority-bias.md) - social proof relies on the crowd while authority bias relies on status, but both outsource judgment
+- [Confirmation Bias](../cognitive/confirmation-bias.md) - group behavior can reinforce what people already want to believe
 
 ---
 

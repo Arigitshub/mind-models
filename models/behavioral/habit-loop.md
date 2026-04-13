@@ -63,9 +63,7 @@ Putting gym shoes by the door (cue engineering) → workout (routine) → endorp
 
 ## Related Models
 
-- [Operant Conditioning](operant-conditioning.md) — reward/punishment as behavior shaper
-- [Self-Perception Theory](self-perception-theory.md) — "I am someone who does X" reinforces habit
-- [Temptation Bundling](temptation-bundling.md) — pairing reward with routine to build habits
+- [Operant Conditioning](operant-conditioning.md) - reward and punishment shape the routines that become habits
 
 ---
 

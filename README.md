@@ -1,10 +1,11 @@
 # mind-models
 
-> An open standard for documenting psychological models, cognitive frameworks, and behavioral patterns — in a structured, machine-readable, human-friendly format.
+> An open standard for documenting psychological models, cognitive frameworks, and behavioral patterns in a structured, machine-readable, human-friendly format.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Models](https://img.shields.io/badge/models-30%2B-blue)](models/)
+[![Models](https://img.shields.io/badge/models-24-blue)](models/)
 [![GitHub Pages](https://img.shields.io/badge/docs-live-green)](https://arigitshub.github.io/mind-models/)
+[![Validation](https://img.shields.io/github/actions/workflow/status/Arigitshub/mind-models/validate-models.yml?branch=master&label=validation)](https://github.com/Arigitshub/mind-models/actions/workflows/validate-models.yml)
 
 ---
 
@@ -18,7 +19,7 @@ A growing library of psychological models written in structured Markdown. Each m
 - How it connects to other models
 - How to apply or counter it
 
-Think of it as an **RFC for the human mind** — a reference spec anyone can use, extend, or implement.
+Think of it as an RFC for the human mind: a reference spec anyone can use, extend, or implement.
 
 ---
 
@@ -26,12 +27,12 @@ Think of it as an **RFC for the human mind** — a reference spec anyone can use
 
 | Category | Description | Models |
 |----------|-------------|--------|
-| [cognitive](models/cognitive/) | Mental shortcuts, perception, memory, reasoning | 8 |
-| [behavioral](models/behavioral/) | Habits, conditioning, reward systems, motivation | 6 |
-| [social](models/social/) | Influence, conformity, group dynamics, trust | 6 |
-| [emotional](models/emotional/) | Emotion regulation, affect, mood patterns | 4 |
-| [decision](models/decision/) | Decision-making frameworks, heuristics, biases | 6 |
-| [developmental](models/developmental/) | Growth stages, learning models, identity | 4 |
+| [cognitive](models/cognitive/) | Mental shortcuts, perception, memory, reasoning | 7 |
+| [behavioral](models/behavioral/) | Habits, conditioning, reward systems, motivation | 4 |
+| [social](models/social/) | Influence, conformity, group dynamics, trust | 3 |
+| [emotional](models/emotional/) | Emotion regulation, affect, mood patterns | 3 |
+| [decision](models/decision/) | Decision-making frameworks, heuristics, biases | 7 |
+| [developmental](models/developmental/) | Growth stages, learning models, identity | 0 |
 
 ---
 
@@ -45,13 +46,35 @@ Think of it as an **RFC for the human mind** — a reference spec anyone can use
 **Tags:** belief, conflict, rationalization
 ```
 
-→ See [full model](models/cognitive/cognitive-dissonance.md)
+See [full model](models/cognitive/cognitive-dissonance.md).
 
 ---
 
 ## Schema
 
 Every model follows the [model schema](spec/schema.md). This makes models consistent, parseable, and interoperable.
+
+## Validation
+
+Run the local validator before opening a pull request:
+
+```bash
+python scripts/validate_models.py
+```
+
+The same command runs in GitHub Actions on every push and pull request.
+
+To refresh the generated library page and JSON search index after adding or editing models:
+
+```bash
+python scripts/build_index.py
+```
+
+Published docs:
+
+- [Library](library.md)
+- [Search](search.md)
+- [Search Index](search-index.json)
 
 ---
 
@@ -79,4 +102,4 @@ See [ROADMAP.md](ROADMAP.md).
 
 ## License
 
-MIT — free to use, extend, and build on.
+MIT - free to use, extend, and build on.

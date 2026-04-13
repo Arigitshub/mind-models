@@ -66,9 +66,8 @@ Framing a proposal as "you'll lose $10k by not acting" is more persuasive than "
 
 ## Related Models
 
-- [Sunk Cost Fallacy](sunk-cost-fallacy.md) — loss aversion drives sunk cost behavior
-- [Status Quo Bias](status-quo-bias.md) — loss aversion makes change feel risky
-- [Framing Effect](framing-effect.md) — how loss vs gain framing changes choice
+- [Anchoring Effect](../cognitive/anchoring-effect.md) - early reference points can intensify perceived losses or gains
+- [Cognitive Dissonance](../cognitive/cognitive-dissonance.md) - people often rationalize risky choices to avoid admitting a loss
 
 ---
 

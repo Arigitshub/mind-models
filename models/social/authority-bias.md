@@ -67,9 +67,8 @@ Ponzi schemes often succeed because the operator displays credentials, uses comp
 
 ## Related Models
 
-- [Social Proof](social-proof.md) — deference to numbers vs deference to status
-- [Halo Effect](../cognitive/halo-effect.md) — authority extends to unrelated domains
-- [Milgram Obedience](conformity.md) — authority bias at its extreme
+- [Social Proof](social-proof.md) - both shift judgment away from independent evaluation and toward external cues
+- [Confirmation Bias](../cognitive/confirmation-bias.md) - people often accept authority-aligned evidence more readily than conflicting evidence
 
 ---
 

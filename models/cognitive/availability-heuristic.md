@@ -66,9 +66,8 @@ People in low-crime areas who watch heavy crime news perceive their neighborhood
 
 ## Related Models
 
-- [Confirmation Bias](confirmation-bias.md) — memorable confirming events become more available
-- [Affect Heuristic](../decision/affect-heuristic.md) — emotional charge increases availability
-- [Recency Bias](../decision/recency-bias.md) — recent events are most available
+- [Confirmation Bias](confirmation-bias.md) - memorable confirming events become easier to recall
+- [Loss Aversion](../decision/loss-aversion.md) - vivid negative outcomes become especially available and overweighted
 
 ---
 

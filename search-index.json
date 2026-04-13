@@ -1,0 +1,874 @@
+[
+  {
+    "name": "Anchoring Effect",
+    "category": "cognitive",
+    "origin": "Amos Tversky & Daniel Kahneman, 1974",
+    "tags": [
+      "judgment",
+      "numbers",
+      "negotiation",
+      "estimation",
+      "first-impression"
+    ],
+    "summary": "The tendency to rely heavily on the first piece of information encountered (the \"anchor\") when making decisions or estimates — subsequent judgments adjust from the anchor but rarely far enough.",
+    "path": "models/cognitive/anchoring-effect.md",
+    "related": [
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Availability Heuristic",
+    "category": "cognitive",
+    "origin": "Amos Tversky & Daniel Kahneman, 1973",
+    "tags": [
+      "memory",
+      "probability",
+      "risk",
+      "judgment",
+      "shortcut"
+    ],
+    "summary": "Judging the likelihood of an event based on how easily an example comes to mind — rather than actual statistical frequency.",
+    "path": "models/cognitive/availability-heuristic.md",
+    "related": [
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Cognitive Dissonance",
+    "category": "cognitive",
+    "origin": "Leon Festinger, 1957",
+    "tags": [
+      "belief",
+      "conflict",
+      "rationalization",
+      "motivation",
+      "consistency"
+    ],
+    "summary": "The mental discomfort experienced when holding two contradictory beliefs, values, or behaviors simultaneously — driving the mind to resolve the tension by changing one of them.",
+    "path": "models/cognitive/cognitive-dissonance.md",
+    "related": [
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Confirmation Bias",
+    "category": "cognitive",
+    "origin": "Peter Wason, 1960",
+    "tags": [
+      "belief",
+      "perception",
+      "search",
+      "reasoning",
+      "information"
+    ],
+    "summary": "The tendency to search for, interpret, and recall information in a way that confirms one's pre-existing beliefs while ignoring contradicting evidence.",
+    "path": "models/cognitive/confirmation-bias.md",
+    "related": [
+      {
+        "name": "Cognitive Dissonance",
+        "path": "models/cognitive/cognitive-dissonance.md"
+      },
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      },
+      {
+        "name": "Dunning-Kruger Effect",
+        "path": "models/cognitive/dunning-kruger.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Dunning-Kruger Effect",
+    "category": "cognitive",
+    "origin": "David Dunning & Justin Kruger, 1999",
+    "tags": [
+      "competence",
+      "confidence",
+      "metacognition",
+      "learning",
+      "self-assessment"
+    ],
+    "summary": "People with low competence in a domain overestimate their ability, while highly competent people underestimate theirs — because the skills needed to evaluate performance are the same skills required to perform.",
+    "path": "models/cognitive/dunning-kruger.md",
+    "related": [
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      },
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Halo Effect",
+    "category": "cognitive",
+    "origin": "Edward Thorndike, 1920",
+    "tags": [
+      "perception",
+      "judgment",
+      "bias",
+      "reputation",
+      "generalization"
+    ],
+    "summary": "The halo effect occurs when one positive trait or impression causes people to assume unrelated positive qualities, distorting overall judgment.",
+    "path": "models/cognitive/halo-effect.md",
+    "related": [
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      },
+      {
+        "name": "Anchoring Effect",
+        "path": "models/cognitive/anchoring-effect.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Metacognition",
+    "category": "cognitive",
+    "origin": "John Flavell, 1976",
+    "tags": [
+      "self-awareness",
+      "learning",
+      "thinking",
+      "regulation",
+      "accuracy"
+    ],
+    "summary": "Thinking about one's own thinking — the ability to monitor, evaluate, and regulate cognitive processes, leading to more accurate self-assessment and better learning outcomes.",
+    "path": "models/cognitive/metacognition.md",
+    "related": [
+      {
+        "name": "Dunning-Kruger Effect",
+        "path": "models/cognitive/dunning-kruger.md"
+      },
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      },
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Habit Loop",
+    "category": "behavioral",
+    "origin": "Charles Duhigg (popularized), based on MIT basal ganglia research, 1990s–2012",
+    "tags": [
+      "habit",
+      "routine",
+      "reward",
+      "cue",
+      "behavior-change"
+    ],
+    "summary": "Habits are formed and maintained through a three-part neurological loop: cue → routine → reward — and can be changed by keeping the cue and reward while swapping the routine.",
+    "path": "models/behavioral/habit-loop.md",
+    "related": [
+      {
+        "name": "Operant Conditioning",
+        "path": "models/behavioral/operant-conditioning.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters / Application",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Operant Conditioning",
+    "category": "behavioral",
+    "origin": "B.F. Skinner, 1938",
+    "tags": [
+      "reward",
+      "punishment",
+      "reinforcement",
+      "learning",
+      "behavior-change"
+    ],
+    "summary": "Behavior is shaped by its consequences — behaviors followed by rewards increase in frequency; behaviors followed by punishments decrease. The schedule of reinforcement determines how robust the behavior becomes.",
+    "path": "models/behavioral/operant-conditioning.md",
+    "related": [
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters / Application",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Self-Perception Theory",
+    "category": "behavioral",
+    "origin": "Daryl Bem, 1972",
+    "tags": [
+      "identity",
+      "inference",
+      "attitude",
+      "behavior",
+      "self-observation"
+    ],
+    "summary": "People infer their own attitudes and preferences by observing their behavior, especially when their internal state is ambiguous or weakly formed.",
+    "path": "models/behavioral/self-perception-theory.md",
+    "related": [
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      },
+      {
+        "name": "Cognitive Dissonance",
+        "path": "models/cognitive/cognitive-dissonance.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Temptation Bundling",
+    "category": "behavioral",
+    "origin": "Katherine Milkman, Julia Minson, & Kevin Volpp, 2014",
+    "tags": [
+      "motivation",
+      "habit",
+      "reward",
+      "self-control",
+      "commitment"
+    ],
+    "summary": "Temptation bundling pairs an immediately rewarding activity with a beneficial but effortful behavior so the reward helps pull the desired behavior into action.",
+    "path": "models/behavioral/temptation-bundling.md",
+    "related": [
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      },
+      {
+        "name": "Operant Conditioning",
+        "path": "models/behavioral/operant-conditioning.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Authority Bias",
+    "category": "social",
+    "origin": "Stanley Milgram, 1963; Robert Cialdini, 1984",
+    "tags": [
+      "authority",
+      "compliance",
+      "trust",
+      "deference",
+      "influence"
+    ],
+    "summary": "People tend to comply with or believe the directives and opinions of perceived authority figures — even when those directives conflict with personal judgment or ethics.",
+    "path": "models/social/authority-bias.md",
+    "related": [
+      {
+        "name": "Social Proof",
+        "path": "models/social/social-proof.md"
+      },
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Conformity",
+    "category": "social",
+    "origin": "Solomon Asch, 1951",
+    "tags": [
+      "conformity",
+      "pressure",
+      "groups",
+      "norms",
+      "influence"
+    ],
+    "summary": "Conformity is the tendency to align beliefs or behavior with group norms, either to fit in socially or because the group is treated as a source of information.",
+    "path": "models/social/conformity.md",
+    "related": [
+      {
+        "name": "Social Proof",
+        "path": "models/social/social-proof.md"
+      },
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Bandwagon Effect",
+        "path": "models/decision/bandwagon-effect.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Social Proof",
+    "category": "social",
+    "origin": "Robert Cialdini, 1984",
+    "tags": [
+      "influence",
+      "conformity",
+      "behavior",
+      "uncertainty",
+      "persuasion"
+    ],
+    "summary": "People look to the behavior of others to determine the correct course of action — especially in ambiguous situations. The more people doing something, the more correct it appears.",
+    "path": "models/social/social-proof.md",
+    "related": [
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Attribution Theory",
+    "category": "emotional",
+    "origin": "Fritz Heider, 1958; Bernard Weiner, 1970s",
+    "tags": [
+      "attribution",
+      "emotion",
+      "explanation",
+      "success",
+      "failure"
+    ],
+    "summary": "Attribution theory explains how people interpret the causes of events, and how those explanations shape emotion, motivation, and future behavior.",
+    "path": "models/emotional/attribution-theory.md",
+    "related": [
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      },
+      {
+        "name": "Self-Perception Theory",
+        "path": "models/behavioral/self-perception-theory.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Dopamine Reward Prediction",
+    "category": "emotional",
+    "origin": "Wolfram Schultz, 1997",
+    "tags": [
+      "dopamine",
+      "reward",
+      "prediction",
+      "learning",
+      "motivation"
+    ],
+    "summary": "Dopamine reward prediction describes how the brain updates motivation and learning based on the gap between expected reward and actual reward.",
+    "path": "models/emotional/dopamine-reward-prediction.md",
+    "related": [
+      {
+        "name": "Operant Conditioning",
+        "path": "models/behavioral/operant-conditioning.md"
+      },
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      },
+      {
+        "name": "Affect Heuristic",
+        "path": "models/decision/affect-heuristic.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Imposter Syndrome",
+    "category": "emotional",
+    "origin": "Pauline Clance & Suzanne Imes, 1978",
+    "tags": [
+      "self-doubt",
+      "competence",
+      "achievement",
+      "anxiety",
+      "identity"
+    ],
+    "summary": "A persistent internal experience of feeling like a fraud — believing one's success is due to luck or deception rather than genuine ability, despite objective evidence of competence.",
+    "path": "models/emotional/imposter-syndrome.md",
+    "related": [
+      {
+        "name": "Dunning-Kruger Effect",
+        "path": "models/cognitive/dunning-kruger.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Affect Heuristic",
+    "category": "decision",
+    "origin": "Paul Slovic, Melissa Finucane, Ellen Peters, & Donald MacGregor, 2002",
+    "tags": [
+      "emotion",
+      "risk",
+      "judgment",
+      "intuition",
+      "valuation"
+    ],
+    "summary": "The affect heuristic is the tendency to let immediate positive or negative feelings stand in for slower analysis when judging risks, benefits, and choices.",
+    "path": "models/decision/affect-heuristic.md",
+    "related": [
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      },
+      {
+        "name": "Framing Effect",
+        "path": "models/decision/framing-effect.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Bandwagon Effect",
+    "category": "decision",
+    "origin": "Harvey Leibenstein, 1950",
+    "tags": [
+      "popularity",
+      "conformity",
+      "adoption",
+      "trend",
+      "social-influence"
+    ],
+    "summary": "The bandwagon effect is the tendency to adopt beliefs, products, or behaviors because many other people appear to be adopting them.",
+    "path": "models/decision/bandwagon-effect.md",
+    "related": [
+      {
+        "name": "Social Proof",
+        "path": "models/social/social-proof.md"
+      },
+      {
+        "name": "Authority Bias",
+        "path": "models/social/authority-bias.md"
+      },
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Framing Effect",
+    "category": "decision",
+    "origin": "Amos Tversky & Daniel Kahneman, 1981",
+    "tags": [
+      "framing",
+      "choice",
+      "risk",
+      "language",
+      "decision-making"
+    ],
+    "summary": "The framing effect is the tendency for logically equivalent choices to produce different decisions depending on whether they are presented as gains, losses, or other contextual narratives.",
+    "path": "models/decision/framing-effect.md",
+    "related": [
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      },
+      {
+        "name": "Anchoring Effect",
+        "path": "models/cognitive/anchoring-effect.md"
+      },
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Loss Aversion",
+    "category": "decision",
+    "origin": "Daniel Kahneman & Amos Tversky, 1979",
+    "tags": [
+      "risk",
+      "loss",
+      "gain",
+      "prospect-theory",
+      "decision-making"
+    ],
+    "summary": "Losses feel approximately twice as painful as equivalent gains feel good — causing people to make irrational decisions to avoid loss, even when the expected value favors accepting it.",
+    "path": "models/decision/loss-aversion.md",
+    "related": [
+      {
+        "name": "Anchoring Effect",
+        "path": "models/cognitive/anchoring-effect.md"
+      },
+      {
+        "name": "Cognitive Dissonance",
+        "path": "models/cognitive/cognitive-dissonance.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Recency Bias",
+    "category": "decision",
+    "origin": "Hermann Ebbinghaus, 1885; later decision and finance literature",
+    "tags": [
+      "memory",
+      "timing",
+      "judgment",
+      "trend",
+      "forecasting"
+    ],
+    "summary": "Recency bias is the tendency to overweight the most recent information or experiences when judging patterns, making forecasts, or choosing what to do next.",
+    "path": "models/decision/recency-bias.md",
+    "related": [
+      {
+        "name": "Availability Heuristic",
+        "path": "models/cognitive/availability-heuristic.md"
+      },
+      {
+        "name": "Anchoring Effect",
+        "path": "models/cognitive/anchoring-effect.md"
+      },
+      {
+        "name": "Framing Effect",
+        "path": "models/decision/framing-effect.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Status Quo Bias",
+    "category": "decision",
+    "origin": "William Samuelson & Richard Zeckhauser, 1988",
+    "tags": [
+      "inertia",
+      "default",
+      "change",
+      "preference",
+      "risk"
+    ],
+    "summary": "Status quo bias is the tendency to prefer the current state of affairs, defaults, or existing arrangements even when alternatives may be objectively better.",
+    "path": "models/decision/status-quo-bias.md",
+    "related": [
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      },
+      {
+        "name": "Sunk Cost Fallacy",
+        "path": "models/decision/sunk-cost-fallacy.md"
+      },
+      {
+        "name": "Anchoring Effect",
+        "path": "models/cognitive/anchoring-effect.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Sunk Cost Fallacy",
+    "category": "decision",
+    "origin": "Richard Thaler, 1980; Arkes & Blumer, 1985",
+    "tags": [
+      "escalation",
+      "commitment",
+      "loss",
+      "investment",
+      "persistence"
+    ],
+    "summary": "The sunk cost fallacy is the tendency to continue a failing course of action because past time, money, or effort has already been invested and abandoning it would make the loss feel real.",
+    "path": "models/decision/sunk-cost-fallacy.md",
+    "related": [
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      },
+      {
+        "name": "Cognitive Dissonance",
+        "path": "models/cognitive/cognitive-dissonance.md"
+      },
+      {
+        "name": "Status Quo Bias",
+        "path": "models/decision/status-quo-bias.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  }
+]

@@ -67,9 +67,8 @@ People who endure a difficult initiation rate the group more positively afterwar
 
 ## Related Models
 
-- [Confirmation Bias](confirmation-bias.md) — dissonance drives confirmation bias to avoid further conflict
-- [Sunk Cost Fallacy](../decision/sunk-cost-fallacy.md) — a specific expression of post-decision dissonance
-- [Self-Perception Theory](../behavioral/self-perception-theory.md) — alternative explanation for attitude change
+- [Confirmation Bias](confirmation-bias.md) - dissonance drives selective attention toward confirming evidence
+- [Metacognition](metacognition.md) - reflective self-monitoring helps surface and correct dissonance-driven rationalization
 
 ---
 

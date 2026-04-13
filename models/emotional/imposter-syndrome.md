@@ -68,9 +68,8 @@ A manager promoted after years of strong results believes the promotion was a mi
 
 ## Related Models
 
-- [Dunning-Kruger Effect](../cognitive/dunning-kruger.md) — the opposite end of the competence-confidence curve
-- [Metacognition](../cognitive/metacognition.md) — accurate self-assessment corrects both extremes
-- [Attribution Theory](attribution-theory.md) — internal vs external attribution of success
+- [Dunning-Kruger Effect](../cognitive/dunning-kruger.md) - imposter syndrome sits on the opposite end of the competence-confidence mismatch
+- [Metacognition](../cognitive/metacognition.md) - better self-assessment helps correct distorted competence judgments
 
 ---
 

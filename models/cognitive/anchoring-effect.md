@@ -66,9 +66,8 @@ An employer asks "What is your current salary?" — the answer anchors the negot
 
 ## Related Models
 
-- [Availability Heuristic](availability-heuristic.md) — both are fast, effortful-avoiding shortcuts
-- [Framing Effect](../decision/framing-effect.md) — how information is presented shapes judgment
-- [Recency Bias](../decision/recency-bias.md) — first vs last information dominance
+- [Availability Heuristic](availability-heuristic.md) - both bias judgment through fast, low-effort mental shortcuts
+- [Loss Aversion](../decision/loss-aversion.md) - anchors often distort how people evaluate gains and losses in decisions
 
 ---
 

@@ -70,9 +70,8 @@ Child cleans room (behavior) → praise (positive reinforcement) → room-cleani
 
 ## Related Models
 
-- [Habit Loop](habit-loop.md) — habit loop is the cognitive expression of operant conditioning
-- [Dopamine & Reward Prediction](../emotional/dopamine-reward-prediction.md) — the neurological mechanism
-- [Loss Aversion](../decision/loss-aversion.md) — punishment effects are stronger than reward effects
+- [Habit Loop](habit-loop.md) - repeated reinforcement turns conditioned behavior into automatic routines
+- [Loss Aversion](../decision/loss-aversion.md) - punishment often carries more behavioral weight than reward
 
 ---
 
