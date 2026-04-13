@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Growth Mindset"
+category: developmental
+model_tags: [mindset, learning, ability, effort, development]
+origin: "Carol Dweck, 2006"
+summary: "A growth mindset is the belief that ability can be developed through effort, strategy, and feedback, which changes how people respond to challenge, failure, and learning."
+---
+
 # Growth Mindset
 
 **Category:** developmental

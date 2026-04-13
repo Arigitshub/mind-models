@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Negativity Bias"
+category: emotional
+model_tags: [emotion, bias, threat, attention, memory]
+origin: "Paul Rozin & Edward Royzman, 2001"
+summary: "Negativity bias is the tendency for negative events, cues, and emotions to command more attention, carry more weight, and persist longer than positive ones."
+---
+
 # Negativity Bias
 
 **Category:** emotional

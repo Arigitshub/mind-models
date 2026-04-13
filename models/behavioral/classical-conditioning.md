@@ -1,3 +1,11 @@
+---
+layout: model
+title: "Classical Conditioning"
+category: behavioral
+model_tags: [conditioning, association, learning, stimulus, behavior]
+origin: "Ivan Pavlov, 1897"
+summary: "Classical conditioning is learning by association, where a previously neutral cue comes to trigger a response after repeated pairing with a meaningful stimulus."
+---
 # Classical Conditioning
 
 **Category:** behavioral

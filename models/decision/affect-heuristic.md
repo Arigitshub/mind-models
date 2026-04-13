@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Affect Heuristic"
+category: decision
+model_tags: [emotion, risk, judgment, intuition, valuation]
+origin: "Paul Slovic, Melissa Finucane, Ellen Peters, & Donald MacGregor, 2002"
+summary: "The affect heuristic is the tendency to let immediate positive or negative feelings stand in for slower analysis when judging risks, benefits, and choices."
+---
+
 # Affect Heuristic
 
 **Category:** decision

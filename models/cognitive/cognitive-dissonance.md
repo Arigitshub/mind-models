@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Cognitive Dissonance"
+category: cognitive
+model_tags: [belief, conflict, rationalization, motivation, consistency]
+origin: "Leon Festinger, 1957"
+summary: "The mental discomfort experienced when holding two contradictory beliefs, values, or behaviors simultaneously — driving the mind to resolve the tension by changing one of them."
+---
+
 # Cognitive Dissonance
 
 **Category:** cognitive

@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Dopamine Reward Prediction"
+category: emotional
+model_tags: [dopamine, reward, prediction, learning, motivation]
+origin: "Wolfram Schultz, 1997"
+summary: "Dopamine reward prediction describes how the brain updates motivation and learning based on the gap between expected reward and actual reward."
+---
+
 # Dopamine Reward Prediction
 
 **Category:** emotional

@@ -1,3 +1,12 @@
+---
+layout: model
+title: "In-Group Bias"
+category: social
+model_tags: [identity, bias, groups, favoritism, belonging]
+origin: "Henri Tajfel, 1970"
+summary: "In-group bias is the tendency to favor people perceived as part of one's own group in trust, evaluation, empathy, and resource allocation."
+---
+
 # In-Group Bias
 
 **Category:** social

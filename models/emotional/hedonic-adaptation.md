@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Hedonic Adaptation"
+category: emotional
+model_tags: [adaptation, happiness, emotion, baseline, change]
+origin: "Brickman & Campbell, 1971"
+summary: "Hedonic adaptation is the tendency for emotional reactions to gains and losses to fade over time as people return toward a relatively stable baseline of well-being."
+---
+
 # Hedonic Adaptation
 
 **Category:** emotional

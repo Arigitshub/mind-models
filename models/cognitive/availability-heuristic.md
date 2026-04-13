@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Availability Heuristic"
+category: cognitive
+model_tags: [memory, probability, risk, judgment, shortcut]
+origin: "Amos Tversky & Daniel Kahneman, 1973"
+summary: "Judging the likelihood of an event based on how easily an example comes to mind — rather than actual statistical frequency."
+---
+
 # Availability Heuristic
 
 **Category:** cognitive

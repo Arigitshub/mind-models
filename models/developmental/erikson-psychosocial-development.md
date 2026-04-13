@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Erikson's Psychosocial Development"
+category: developmental
+model_tags: [identity, lifespan, stages, development, socialization]
+origin: "Erik Erikson, 1950"
+summary: "Erikson's psychosocial development model describes human development as a series of life stages, each centered on a core psychological conflict whose resolution shapes later identity and relationships."
+---
+
 # Erikson's Psychosocial Development
 
 **Category:** developmental

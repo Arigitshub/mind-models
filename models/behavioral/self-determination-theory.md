@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Self-Determination Theory"
+category: behavioral
+model_tags: [motivation, autonomy, competence, belonging, behavior]
+origin: "Edward Deci & Richard Ryan, 1985"
+summary: "Self-determination theory explains how motivation becomes more sustainable and effective when the needs for autonomy, competence, and relatedness are supported."
+---
+
 # Self-Determination Theory
 
 **Category:** behavioral

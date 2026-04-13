@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Groupthink"
+category: social
+model_tags: [groups, consensus, conformity, decisions, pressure]
+origin: "Irving Janis, 1972"
+summary: "Groupthink is a failure mode where the desire for harmony and consensus suppresses dissent, critical evaluation, and realistic appraisal inside a decision-making group."
+---
+
 # Groupthink
 
 **Category:** social

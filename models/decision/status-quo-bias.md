@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Status Quo Bias"
+category: decision
+model_tags: [inertia, default, change, preference, risk]
+origin: "William Samuelson & Richard Zeckhauser, 1988"
+summary: "Status quo bias is the tendency to prefer the current state of affairs, defaults, or existing arrangements even when alternatives may be objectively better."
+---
+
 # Status Quo Bias
 
 **Category:** decision

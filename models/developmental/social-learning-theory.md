@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Social Learning Theory"
+category: developmental
+model_tags: [learning, imitation, modeling, development, observation]
+origin: "Albert Bandura, 1977"
+summary: "Social learning theory explains how people develop behavior and expectations by observing others, modeling what is seen, and updating based on consequences without needing direct trial-and-error for every lesson."
+---
+
 # Social Learning Theory
 
 **Category:** developmental

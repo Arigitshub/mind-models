@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Habit Loop"
+category: behavioral
+model_tags: [habit, routine, reward, cue, behavior-change]
+origin: "Charles Duhigg (popularized), based on MIT basal ganglia research, 1990s–2012"
+summary: "Habits are formed and maintained through a three-part neurological loop: cue → routine → reward — and can be changed by keeping the cue and reward while swapping the routine."
+---
+
 # Habit Loop
 
 **Category:** behavioral

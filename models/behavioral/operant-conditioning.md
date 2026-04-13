@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Operant Conditioning"
+category: behavioral
+model_tags: [reward, punishment, reinforcement, learning, behavior-change]
+origin: "B.F. Skinner, 1938"
+summary: "Behavior is shaped by its consequences — behaviors followed by rewards increase in frequency; behaviors followed by punishments decrease. The schedule of reinforcement determines how robust the behavior becomes."
+---
+
 # Operant Conditioning
 
 **Category:** behavioral

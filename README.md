@@ -67,7 +67,9 @@ The same command runs in GitHub Actions on every push and pull request.
 To refresh the generated library page and JSON search index after adding or editing models:
 
 ```bash
+python scripts/sync_front_matter.py
 python scripts/build_index.py
+python scripts/export_tabular.py
 ```
 
 Generated outputs:
@@ -77,6 +79,8 @@ Generated outputs:
 - `search-index.json` - lightweight search document used by the browser UI
 - `models.json` - normalized full export with sections and related links
 - `model-chunks.json` and `model-chunks.jsonl` - chunked exports for embeddings, retrieval, and indexing pipelines
+- `exports/*.csv` - tabular exports for spreadsheets, notebooks, and ingestion pipelines
+- `exports/*.parquet` - generated when a parquet engine is available in the local Python environment
 
 Published docs:
 
@@ -87,6 +91,7 @@ Published docs:
 - [Search Index](search-index.json)
 - [Models Export](models.json)
 - [Chunk Export](model-chunks.json)
+- [Tabular Exports](exports/)
 
 ---
 

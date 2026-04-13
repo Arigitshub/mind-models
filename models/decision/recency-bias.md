@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Recency Bias"
+category: decision
+model_tags: [memory, timing, judgment, trend, forecasting]
+origin: "Hermann Ebbinghaus, 1885; later decision and finance literature"
+summary: "Recency bias is the tendency to overweight the most recent information or experiences when judging patterns, making forecasts, or choosing what to do next."
+---
+
 # Recency Bias
 
 **Category:** decision

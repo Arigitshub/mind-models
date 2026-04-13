@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Attribution Theory"
+category: emotional
+model_tags: [attribution, emotion, explanation, success, failure]
+origin: "Fritz Heider, 1958; Bernard Weiner, 1970s"
+summary: "Attribution theory explains how people interpret the causes of events, and how those explanations shape emotion, motivation, and future behavior."
+---
+
 # Attribution Theory
 
 **Category:** emotional

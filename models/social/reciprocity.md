@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Reciprocity"
+category: social
+model_tags: [reciprocity, obligation, exchange, influence, cooperation]
+origin: "Alvin Gouldner, 1960; Robert Cialdini, 1984"
+summary: "Reciprocity is the social rule that receiving value, help, or concession creates pressure to return something in kind, making exchange and influence more likely."
+---
+
 # Reciprocity
 
 **Category:** social

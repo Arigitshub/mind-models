@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Conformity"
+category: social
+model_tags: [conformity, pressure, groups, norms, influence]
+origin: "Solomon Asch, 1951"
+summary: "Conformity is the tendency to align beliefs or behavior with group norms, either to fit in socially or because the group is treated as a source of information."
+---
+
 # Conformity
 
 **Category:** social

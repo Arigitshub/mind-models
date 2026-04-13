@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Loss Aversion"
+category: decision
+model_tags: [risk, loss, gain, prospect-theory, decision-making]
+origin: "Daniel Kahneman & Amos Tversky, 1979"
+summary: "Losses feel approximately twice as painful as equivalent gains feel good — causing people to make irrational decisions to avoid loss, even when the expected value favors accepting it."
+---
+
 # Loss Aversion
 
 **Category:** decision

@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Halo Effect"
+category: cognitive
+model_tags: [perception, judgment, bias, reputation, generalization]
+origin: "Edward Thorndike, 1920"
+summary: "The halo effect occurs when one positive trait or impression causes people to assume unrelated positive qualities, distorting overall judgment."
+---
+
 # Halo Effect
 
 **Category:** cognitive

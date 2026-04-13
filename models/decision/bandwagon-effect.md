@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Bandwagon Effect"
+category: decision
+model_tags: [popularity, conformity, adoption, trend, social-influence]
+origin: "Harvey Leibenstein, 1950"
+summary: "The bandwagon effect is the tendency to adopt beliefs, products, or behaviors because many other people appear to be adopting them."
+---
+
 # Bandwagon Effect
 
 **Category:** decision

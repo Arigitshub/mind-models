@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Piaget's Cognitive Development"
+category: developmental
+model_tags: [development, learning, stages, cognition, childhood]
+origin: "Jean Piaget, 1936"
+summary: "Piaget's cognitive development model describes how children's thinking changes through qualitatively different stages as they mature and interact with the world."
+---
+
 # Piaget's Cognitive Development
 
 **Category:** developmental

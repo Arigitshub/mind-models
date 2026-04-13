@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Imposter Syndrome"
+category: emotional
+model_tags: [self-doubt, competence, achievement, anxiety, identity]
+origin: "Pauline Clance & Suzanne Imes, 1978"
+summary: "A persistent internal experience of feeling like a fraud — believing one's success is due to luck or deception rather than genuine ability, despite objective evidence of competence."
+---
+
 # Imposter Syndrome
 
 **Category:** emotional

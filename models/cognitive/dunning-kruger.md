@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Dunning-Kruger Effect"
+category: cognitive
+model_tags: [competence, confidence, metacognition, learning, self-assessment]
+origin: "David Dunning & Justin Kruger, 1999"
+summary: "People with low competence in a domain overestimate their ability, while highly competent people underestimate theirs — because the skills needed to evaluate performance are the same skills required to perform."
+---
+
 # Dunning-Kruger Effect
 
 **Category:** cognitive

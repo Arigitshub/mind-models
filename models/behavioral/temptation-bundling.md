@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Temptation Bundling"
+category: behavioral
+model_tags: [motivation, habit, reward, self-control, commitment]
+origin: "Katherine Milkman, Julia Minson, & Kevin Volpp, 2014"
+summary: "Temptation bundling pairs an immediately rewarding activity with a beneficial but effortful behavior so the reward helps pull the desired behavior into action."
+---
+
 # Temptation Bundling
 
 **Category:** behavioral

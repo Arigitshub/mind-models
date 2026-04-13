@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="model-detail">
+  <header class="hero hero-compact">
+    <p class="eyebrow">Model Spec</p>
+    <h1>{{ page.title }}</h1>
+    <p class="hero-copy">{{ page.summary }}</p>
+    <div class="tag-row">
+      <span class="tag">{{ page.category }}</span>
+      {% for tag in page.model_tags %}
+      <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    <p class="meta-line"><strong>Origin:</strong> {{ page.origin }}</p>
+  </header>
+
+  <div class="surface-card prose-card">
+    {{ content }}
+  </div>
+</article>

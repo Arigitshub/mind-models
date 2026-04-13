@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Anchoring Effect"
+category: cognitive
+model_tags: [judgment, numbers, negotiation, estimation, first-impression]
+origin: "Amos Tversky & Daniel Kahneman, 1974"
+summary: "The tendency to rely heavily on the first piece of information encountered (the \"anchor\") when making decisions or estimates — subsequent judgments adjust from the anchor but rarely far enough."
+---
+
 # Anchoring Effect
 
 **Category:** cognitive

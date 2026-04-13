@@ -1,8 +1,8 @@
 [
   {
-    "chunk_id": "anchoring-effect::summary",
-    "model_id": "anchoring-effect",
-    "name": "Anchoring Effect",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/anchoring-effect.md",
     "section": "Summary",
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "chunk_id": "anchoring-effect::mechanism",
-    "model_id": "anchoring-effect",
-    "name": "Anchoring Effect",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/anchoring-effect.md",
     "section": "Mechanism",
@@ -32,9 +32,9 @@
     ]
   },
   {
-    "chunk_id": "anchoring-effect::triggers",
-    "model_id": "anchoring-effect",
-    "name": "Anchoring Effect",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/anchoring-effect.md",
     "section": "Triggers",
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "chunk_id": "anchoring-effect::effects",
-    "model_id": "anchoring-effect",
-    "name": "Anchoring Effect",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/anchoring-effect.md",
     "section": "Effects",
@@ -64,9 +64,9 @@
     ]
   },
   {
-    "chunk_id": "anchoring-effect::examples",
-    "model_id": "anchoring-effect",
-    "name": "Anchoring Effect",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/anchoring-effect.md",
     "section": "Examples",
@@ -80,9 +80,9 @@
     ]
   },
   {
-    "chunk_id": "anchoring-effect::counters",
-    "model_id": "anchoring-effect",
-    "name": "Anchoring Effect",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/anchoring-effect.md",
     "section": "Counters",
@@ -96,9 +96,9 @@
     ]
   },
   {
-    "chunk_id": "anchoring-effect::references",
-    "model_id": "anchoring-effect",
-    "name": "Anchoring Effect",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/anchoring-effect.md",
     "section": "References",
@@ -112,9 +112,9 @@
     ]
   },
   {
-    "chunk_id": "availability-heuristic::summary",
-    "model_id": "availability-heuristic",
-    "name": "Availability Heuristic",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/availability-heuristic.md",
     "section": "Summary",
@@ -128,9 +128,9 @@
     ]
   },
   {
-    "chunk_id": "availability-heuristic::mechanism",
-    "model_id": "availability-heuristic",
-    "name": "Availability Heuristic",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/availability-heuristic.md",
     "section": "Mechanism",
@@ -144,9 +144,9 @@
     ]
   },
   {
-    "chunk_id": "availability-heuristic::triggers",
-    "model_id": "availability-heuristic",
-    "name": "Availability Heuristic",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/availability-heuristic.md",
     "section": "Triggers",
@@ -160,9 +160,9 @@
     ]
   },
   {
-    "chunk_id": "availability-heuristic::effects",
-    "model_id": "availability-heuristic",
-    "name": "Availability Heuristic",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/availability-heuristic.md",
     "section": "Effects",
@@ -176,9 +176,9 @@
     ]
   },
   {
-    "chunk_id": "availability-heuristic::examples",
-    "model_id": "availability-heuristic",
-    "name": "Availability Heuristic",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/availability-heuristic.md",
     "section": "Examples",
@@ -192,9 +192,9 @@
     ]
   },
   {
-    "chunk_id": "availability-heuristic::counters",
-    "model_id": "availability-heuristic",
-    "name": "Availability Heuristic",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/availability-heuristic.md",
     "section": "Counters",
@@ -208,9 +208,9 @@
     ]
   },
   {
-    "chunk_id": "availability-heuristic::references",
-    "model_id": "availability-heuristic",
-    "name": "Availability Heuristic",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/availability-heuristic.md",
     "section": "References",
@@ -224,9 +224,9 @@
     ]
   },
   {
-    "chunk_id": "cognitive-dissonance::summary",
-    "model_id": "cognitive-dissonance",
-    "name": "Cognitive Dissonance",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/cognitive-dissonance.md",
     "section": "Summary",
@@ -240,9 +240,9 @@
     ]
   },
   {
-    "chunk_id": "cognitive-dissonance::mechanism",
-    "model_id": "cognitive-dissonance",
-    "name": "Cognitive Dissonance",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/cognitive-dissonance.md",
     "section": "Mechanism",
@@ -256,9 +256,9 @@
     ]
   },
   {
-    "chunk_id": "cognitive-dissonance::triggers",
-    "model_id": "cognitive-dissonance",
-    "name": "Cognitive Dissonance",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/cognitive-dissonance.md",
     "section": "Triggers",
@@ -272,9 +272,9 @@
     ]
   },
   {
-    "chunk_id": "cognitive-dissonance::effects",
-    "model_id": "cognitive-dissonance",
-    "name": "Cognitive Dissonance",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/cognitive-dissonance.md",
     "section": "Effects",
@@ -288,9 +288,9 @@
     ]
   },
   {
-    "chunk_id": "cognitive-dissonance::examples",
-    "model_id": "cognitive-dissonance",
-    "name": "Cognitive Dissonance",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/cognitive-dissonance.md",
     "section": "Examples",
@@ -304,9 +304,9 @@
     ]
   },
   {
-    "chunk_id": "cognitive-dissonance::counters",
-    "model_id": "cognitive-dissonance",
-    "name": "Cognitive Dissonance",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/cognitive-dissonance.md",
     "section": "Counters",
@@ -320,9 +320,9 @@
     ]
   },
   {
-    "chunk_id": "cognitive-dissonance::references",
-    "model_id": "cognitive-dissonance",
-    "name": "Cognitive Dissonance",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/cognitive-dissonance.md",
     "section": "References",
@@ -336,9 +336,9 @@
     ]
   },
   {
-    "chunk_id": "confirmation-bias::summary",
-    "model_id": "confirmation-bias",
-    "name": "Confirmation Bias",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/confirmation-bias.md",
     "section": "Summary",
@@ -352,9 +352,9 @@
     ]
   },
   {
-    "chunk_id": "confirmation-bias::mechanism",
-    "model_id": "confirmation-bias",
-    "name": "Confirmation Bias",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/confirmation-bias.md",
     "section": "Mechanism",
@@ -368,9 +368,9 @@
     ]
   },
   {
-    "chunk_id": "confirmation-bias::triggers",
-    "model_id": "confirmation-bias",
-    "name": "Confirmation Bias",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/confirmation-bias.md",
     "section": "Triggers",
@@ -384,9 +384,9 @@
     ]
   },
   {
-    "chunk_id": "confirmation-bias::effects",
-    "model_id": "confirmation-bias",
-    "name": "Confirmation Bias",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/confirmation-bias.md",
     "section": "Effects",
@@ -400,9 +400,9 @@
     ]
   },
   {
-    "chunk_id": "confirmation-bias::examples",
-    "model_id": "confirmation-bias",
-    "name": "Confirmation Bias",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/confirmation-bias.md",
     "section": "Examples",
@@ -416,9 +416,9 @@
     ]
   },
   {
-    "chunk_id": "confirmation-bias::counters",
-    "model_id": "confirmation-bias",
-    "name": "Confirmation Bias",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/confirmation-bias.md",
     "section": "Counters",
@@ -432,9 +432,9 @@
     ]
   },
   {
-    "chunk_id": "confirmation-bias::references",
-    "model_id": "confirmation-bias",
-    "name": "Confirmation Bias",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/confirmation-bias.md",
     "section": "References",
@@ -448,9 +448,9 @@
     ]
   },
   {
-    "chunk_id": "dunning-kruger-effect::summary",
-    "model_id": "dunning-kruger-effect",
-    "name": "Dunning-Kruger Effect",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/dunning-kruger.md",
     "section": "Summary",
@@ -464,9 +464,9 @@
     ]
   },
   {
-    "chunk_id": "dunning-kruger-effect::mechanism",
-    "model_id": "dunning-kruger-effect",
-    "name": "Dunning-Kruger Effect",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/dunning-kruger.md",
     "section": "Mechanism",
@@ -480,9 +480,9 @@
     ]
   },
   {
-    "chunk_id": "dunning-kruger-effect::triggers",
-    "model_id": "dunning-kruger-effect",
-    "name": "Dunning-Kruger Effect",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/dunning-kruger.md",
     "section": "Triggers",
@@ -496,9 +496,9 @@
     ]
   },
   {
-    "chunk_id": "dunning-kruger-effect::effects",
-    "model_id": "dunning-kruger-effect",
-    "name": "Dunning-Kruger Effect",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/dunning-kruger.md",
     "section": "Effects",
@@ -512,9 +512,9 @@
     ]
   },
   {
-    "chunk_id": "dunning-kruger-effect::examples",
-    "model_id": "dunning-kruger-effect",
-    "name": "Dunning-Kruger Effect",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/dunning-kruger.md",
     "section": "Examples",
@@ -528,9 +528,9 @@
     ]
   },
   {
-    "chunk_id": "dunning-kruger-effect::counters",
-    "model_id": "dunning-kruger-effect",
-    "name": "Dunning-Kruger Effect",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/dunning-kruger.md",
     "section": "Counters",
@@ -544,9 +544,9 @@
     ]
   },
   {
-    "chunk_id": "dunning-kruger-effect::references",
-    "model_id": "dunning-kruger-effect",
-    "name": "Dunning-Kruger Effect",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/dunning-kruger.md",
     "section": "References",
@@ -560,9 +560,9 @@
     ]
   },
   {
-    "chunk_id": "halo-effect::summary",
-    "model_id": "halo-effect",
-    "name": "Halo Effect",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/halo-effect.md",
     "section": "Summary",
@@ -576,9 +576,9 @@
     ]
   },
   {
-    "chunk_id": "halo-effect::mechanism",
-    "model_id": "halo-effect",
-    "name": "Halo Effect",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/halo-effect.md",
     "section": "Mechanism",
@@ -592,9 +592,9 @@
     ]
   },
   {
-    "chunk_id": "halo-effect::triggers",
-    "model_id": "halo-effect",
-    "name": "Halo Effect",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/halo-effect.md",
     "section": "Triggers",
@@ -608,9 +608,9 @@
     ]
   },
   {
-    "chunk_id": "halo-effect::effects",
-    "model_id": "halo-effect",
-    "name": "Halo Effect",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/halo-effect.md",
     "section": "Effects",
@@ -624,9 +624,9 @@
     ]
   },
   {
-    "chunk_id": "halo-effect::examples",
-    "model_id": "halo-effect",
-    "name": "Halo Effect",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/halo-effect.md",
     "section": "Examples",
@@ -640,9 +640,9 @@
     ]
   },
   {
-    "chunk_id": "halo-effect::counters",
-    "model_id": "halo-effect",
-    "name": "Halo Effect",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/halo-effect.md",
     "section": "Counters",
@@ -656,9 +656,9 @@
     ]
   },
   {
-    "chunk_id": "halo-effect::references",
-    "model_id": "halo-effect",
-    "name": "Halo Effect",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/halo-effect.md",
     "section": "References",
@@ -672,9 +672,9 @@
     ]
   },
   {
-    "chunk_id": "metacognition::summary",
-    "model_id": "metacognition",
-    "name": "Metacognition",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/metacognition.md",
     "section": "Summary",
@@ -688,9 +688,9 @@
     ]
   },
   {
-    "chunk_id": "metacognition::mechanism",
-    "model_id": "metacognition",
-    "name": "Metacognition",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/metacognition.md",
     "section": "Mechanism",
@@ -704,9 +704,9 @@
     ]
   },
   {
-    "chunk_id": "metacognition::triggers",
-    "model_id": "metacognition",
-    "name": "Metacognition",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/metacognition.md",
     "section": "Triggers",
@@ -720,9 +720,9 @@
     ]
   },
   {
-    "chunk_id": "metacognition::effects",
-    "model_id": "metacognition",
-    "name": "Metacognition",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/metacognition.md",
     "section": "Effects",
@@ -736,9 +736,9 @@
     ]
   },
   {
-    "chunk_id": "metacognition::examples",
-    "model_id": "metacognition",
-    "name": "Metacognition",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/metacognition.md",
     "section": "Examples",
@@ -752,9 +752,9 @@
     ]
   },
   {
-    "chunk_id": "metacognition::counters",
-    "model_id": "metacognition",
-    "name": "Metacognition",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/metacognition.md",
     "section": "Counters",
@@ -768,9 +768,9 @@
     ]
   },
   {
-    "chunk_id": "metacognition::references",
-    "model_id": "metacognition",
-    "name": "Metacognition",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "cognitive",
     "path": "models/cognitive/metacognition.md",
     "section": "References",
@@ -784,9 +784,9 @@
     ]
   },
   {
-    "chunk_id": "classical-conditioning::summary",
-    "model_id": "classical-conditioning",
-    "name": "Classical Conditioning",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/classical-conditioning.md",
     "section": "Summary",
@@ -800,9 +800,9 @@
     ]
   },
   {
-    "chunk_id": "classical-conditioning::mechanism",
-    "model_id": "classical-conditioning",
-    "name": "Classical Conditioning",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/classical-conditioning.md",
     "section": "Mechanism",
@@ -816,9 +816,9 @@
     ]
   },
   {
-    "chunk_id": "classical-conditioning::triggers",
-    "model_id": "classical-conditioning",
-    "name": "Classical Conditioning",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/classical-conditioning.md",
     "section": "Triggers",
@@ -832,9 +832,9 @@
     ]
   },
   {
-    "chunk_id": "classical-conditioning::effects",
-    "model_id": "classical-conditioning",
-    "name": "Classical Conditioning",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/classical-conditioning.md",
     "section": "Effects",
@@ -848,9 +848,9 @@
     ]
   },
   {
-    "chunk_id": "classical-conditioning::examples",
-    "model_id": "classical-conditioning",
-    "name": "Classical Conditioning",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/classical-conditioning.md",
     "section": "Examples",
@@ -864,9 +864,9 @@
     ]
   },
   {
-    "chunk_id": "classical-conditioning::counters",
-    "model_id": "classical-conditioning",
-    "name": "Classical Conditioning",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/classical-conditioning.md",
     "section": "Counters",
@@ -880,9 +880,9 @@
     ]
   },
   {
-    "chunk_id": "classical-conditioning::references",
-    "model_id": "classical-conditioning",
-    "name": "Classical Conditioning",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/classical-conditioning.md",
     "section": "References",
@@ -896,9 +896,9 @@
     ]
   },
   {
-    "chunk_id": "habit-loop::summary",
-    "model_id": "habit-loop",
-    "name": "Habit Loop",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/habit-loop.md",
     "section": "Summary",
@@ -912,9 +912,9 @@
     ]
   },
   {
-    "chunk_id": "habit-loop::mechanism",
-    "model_id": "habit-loop",
-    "name": "Habit Loop",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/habit-loop.md",
     "section": "Mechanism",
@@ -928,9 +928,9 @@
     ]
   },
   {
-    "chunk_id": "habit-loop::triggers",
-    "model_id": "habit-loop",
-    "name": "Habit Loop",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/habit-loop.md",
     "section": "Triggers",
@@ -944,9 +944,9 @@
     ]
   },
   {
-    "chunk_id": "habit-loop::effects",
-    "model_id": "habit-loop",
-    "name": "Habit Loop",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/habit-loop.md",
     "section": "Effects",
@@ -960,9 +960,9 @@
     ]
   },
   {
-    "chunk_id": "habit-loop::examples",
-    "model_id": "habit-loop",
-    "name": "Habit Loop",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/habit-loop.md",
     "section": "Examples",
@@ -976,9 +976,9 @@
     ]
   },
   {
-    "chunk_id": "habit-loop::counters-application",
-    "model_id": "habit-loop",
-    "name": "Habit Loop",
+    "chunk_id": "::counters-application",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/habit-loop.md",
     "section": "Counters / Application",
@@ -992,9 +992,9 @@
     ]
   },
   {
-    "chunk_id": "habit-loop::references",
-    "model_id": "habit-loop",
-    "name": "Habit Loop",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/habit-loop.md",
     "section": "References",
@@ -1008,9 +1008,9 @@
     ]
   },
   {
-    "chunk_id": "operant-conditioning::summary",
-    "model_id": "operant-conditioning",
-    "name": "Operant Conditioning",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/operant-conditioning.md",
     "section": "Summary",
@@ -1024,9 +1024,9 @@
     ]
   },
   {
-    "chunk_id": "operant-conditioning::mechanism",
-    "model_id": "operant-conditioning",
-    "name": "Operant Conditioning",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/operant-conditioning.md",
     "section": "Mechanism",
@@ -1040,9 +1040,9 @@
     ]
   },
   {
-    "chunk_id": "operant-conditioning::triggers",
-    "model_id": "operant-conditioning",
-    "name": "Operant Conditioning",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/operant-conditioning.md",
     "section": "Triggers",
@@ -1056,9 +1056,9 @@
     ]
   },
   {
-    "chunk_id": "operant-conditioning::effects",
-    "model_id": "operant-conditioning",
-    "name": "Operant Conditioning",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/operant-conditioning.md",
     "section": "Effects",
@@ -1072,9 +1072,9 @@
     ]
   },
   {
-    "chunk_id": "operant-conditioning::examples",
-    "model_id": "operant-conditioning",
-    "name": "Operant Conditioning",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/operant-conditioning.md",
     "section": "Examples",
@@ -1088,9 +1088,9 @@
     ]
   },
   {
-    "chunk_id": "operant-conditioning::counters-application",
-    "model_id": "operant-conditioning",
-    "name": "Operant Conditioning",
+    "chunk_id": "::counters-application",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/operant-conditioning.md",
     "section": "Counters / Application",
@@ -1104,9 +1104,9 @@
     ]
   },
   {
-    "chunk_id": "operant-conditioning::references",
-    "model_id": "operant-conditioning",
-    "name": "Operant Conditioning",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/operant-conditioning.md",
     "section": "References",
@@ -1120,9 +1120,9 @@
     ]
   },
   {
-    "chunk_id": "self-determination-theory::summary",
-    "model_id": "self-determination-theory",
-    "name": "Self-Determination Theory",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-determination-theory.md",
     "section": "Summary",
@@ -1136,9 +1136,9 @@
     ]
   },
   {
-    "chunk_id": "self-determination-theory::mechanism",
-    "model_id": "self-determination-theory",
-    "name": "Self-Determination Theory",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-determination-theory.md",
     "section": "Mechanism",
@@ -1152,9 +1152,9 @@
     ]
   },
   {
-    "chunk_id": "self-determination-theory::triggers",
-    "model_id": "self-determination-theory",
-    "name": "Self-Determination Theory",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-determination-theory.md",
     "section": "Triggers",
@@ -1168,9 +1168,9 @@
     ]
   },
   {
-    "chunk_id": "self-determination-theory::effects",
-    "model_id": "self-determination-theory",
-    "name": "Self-Determination Theory",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-determination-theory.md",
     "section": "Effects",
@@ -1184,9 +1184,9 @@
     ]
   },
   {
-    "chunk_id": "self-determination-theory::examples",
-    "model_id": "self-determination-theory",
-    "name": "Self-Determination Theory",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-determination-theory.md",
     "section": "Examples",
@@ -1200,9 +1200,9 @@
     ]
   },
   {
-    "chunk_id": "self-determination-theory::counters",
-    "model_id": "self-determination-theory",
-    "name": "Self-Determination Theory",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-determination-theory.md",
     "section": "Counters",
@@ -1216,9 +1216,9 @@
     ]
   },
   {
-    "chunk_id": "self-determination-theory::references",
-    "model_id": "self-determination-theory",
-    "name": "Self-Determination Theory",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-determination-theory.md",
     "section": "References",
@@ -1232,9 +1232,9 @@
     ]
   },
   {
-    "chunk_id": "self-perception-theory::summary",
-    "model_id": "self-perception-theory",
-    "name": "Self-Perception Theory",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-perception-theory.md",
     "section": "Summary",
@@ -1248,9 +1248,9 @@
     ]
   },
   {
-    "chunk_id": "self-perception-theory::mechanism",
-    "model_id": "self-perception-theory",
-    "name": "Self-Perception Theory",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-perception-theory.md",
     "section": "Mechanism",
@@ -1264,9 +1264,9 @@
     ]
   },
   {
-    "chunk_id": "self-perception-theory::triggers",
-    "model_id": "self-perception-theory",
-    "name": "Self-Perception Theory",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-perception-theory.md",
     "section": "Triggers",
@@ -1280,9 +1280,9 @@
     ]
   },
   {
-    "chunk_id": "self-perception-theory::effects",
-    "model_id": "self-perception-theory",
-    "name": "Self-Perception Theory",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-perception-theory.md",
     "section": "Effects",
@@ -1296,9 +1296,9 @@
     ]
   },
   {
-    "chunk_id": "self-perception-theory::examples",
-    "model_id": "self-perception-theory",
-    "name": "Self-Perception Theory",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-perception-theory.md",
     "section": "Examples",
@@ -1312,9 +1312,9 @@
     ]
   },
   {
-    "chunk_id": "self-perception-theory::counters",
-    "model_id": "self-perception-theory",
-    "name": "Self-Perception Theory",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-perception-theory.md",
     "section": "Counters",
@@ -1328,9 +1328,9 @@
     ]
   },
   {
-    "chunk_id": "self-perception-theory::references",
-    "model_id": "self-perception-theory",
-    "name": "Self-Perception Theory",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/self-perception-theory.md",
     "section": "References",
@@ -1344,9 +1344,9 @@
     ]
   },
   {
-    "chunk_id": "temptation-bundling::summary",
-    "model_id": "temptation-bundling",
-    "name": "Temptation Bundling",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/temptation-bundling.md",
     "section": "Summary",
@@ -1360,9 +1360,9 @@
     ]
   },
   {
-    "chunk_id": "temptation-bundling::mechanism",
-    "model_id": "temptation-bundling",
-    "name": "Temptation Bundling",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/temptation-bundling.md",
     "section": "Mechanism",
@@ -1376,9 +1376,9 @@
     ]
   },
   {
-    "chunk_id": "temptation-bundling::triggers",
-    "model_id": "temptation-bundling",
-    "name": "Temptation Bundling",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/temptation-bundling.md",
     "section": "Triggers",
@@ -1392,9 +1392,9 @@
     ]
   },
   {
-    "chunk_id": "temptation-bundling::effects",
-    "model_id": "temptation-bundling",
-    "name": "Temptation Bundling",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/temptation-bundling.md",
     "section": "Effects",
@@ -1408,9 +1408,9 @@
     ]
   },
   {
-    "chunk_id": "temptation-bundling::examples",
-    "model_id": "temptation-bundling",
-    "name": "Temptation Bundling",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/temptation-bundling.md",
     "section": "Examples",
@@ -1424,9 +1424,9 @@
     ]
   },
   {
-    "chunk_id": "temptation-bundling::counters",
-    "model_id": "temptation-bundling",
-    "name": "Temptation Bundling",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/temptation-bundling.md",
     "section": "Counters",
@@ -1440,9 +1440,9 @@
     ]
   },
   {
-    "chunk_id": "temptation-bundling::references",
-    "model_id": "temptation-bundling",
-    "name": "Temptation Bundling",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "behavioral",
     "path": "models/behavioral/temptation-bundling.md",
     "section": "References",
@@ -1456,9 +1456,9 @@
     ]
   },
   {
-    "chunk_id": "authority-bias::summary",
-    "model_id": "authority-bias",
-    "name": "Authority Bias",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/authority-bias.md",
     "section": "Summary",
@@ -1472,9 +1472,9 @@
     ]
   },
   {
-    "chunk_id": "authority-bias::mechanism",
-    "model_id": "authority-bias",
-    "name": "Authority Bias",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/authority-bias.md",
     "section": "Mechanism",
@@ -1488,9 +1488,9 @@
     ]
   },
   {
-    "chunk_id": "authority-bias::triggers",
-    "model_id": "authority-bias",
-    "name": "Authority Bias",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/authority-bias.md",
     "section": "Triggers",
@@ -1504,9 +1504,9 @@
     ]
   },
   {
-    "chunk_id": "authority-bias::effects",
-    "model_id": "authority-bias",
-    "name": "Authority Bias",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/authority-bias.md",
     "section": "Effects",
@@ -1520,9 +1520,9 @@
     ]
   },
   {
-    "chunk_id": "authority-bias::examples",
-    "model_id": "authority-bias",
-    "name": "Authority Bias",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/authority-bias.md",
     "section": "Examples",
@@ -1536,9 +1536,9 @@
     ]
   },
   {
-    "chunk_id": "authority-bias::counters",
-    "model_id": "authority-bias",
-    "name": "Authority Bias",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/authority-bias.md",
     "section": "Counters",
@@ -1552,9 +1552,9 @@
     ]
   },
   {
-    "chunk_id": "authority-bias::references",
-    "model_id": "authority-bias",
-    "name": "Authority Bias",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/authority-bias.md",
     "section": "References",
@@ -1568,9 +1568,9 @@
     ]
   },
   {
-    "chunk_id": "conformity::summary",
-    "model_id": "conformity",
-    "name": "Conformity",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/conformity.md",
     "section": "Summary",
@@ -1584,9 +1584,9 @@
     ]
   },
   {
-    "chunk_id": "conformity::mechanism",
-    "model_id": "conformity",
-    "name": "Conformity",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/conformity.md",
     "section": "Mechanism",
@@ -1600,9 +1600,9 @@
     ]
   },
   {
-    "chunk_id": "conformity::triggers",
-    "model_id": "conformity",
-    "name": "Conformity",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/conformity.md",
     "section": "Triggers",
@@ -1616,9 +1616,9 @@
     ]
   },
   {
-    "chunk_id": "conformity::effects",
-    "model_id": "conformity",
-    "name": "Conformity",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/conformity.md",
     "section": "Effects",
@@ -1632,9 +1632,9 @@
     ]
   },
   {
-    "chunk_id": "conformity::examples",
-    "model_id": "conformity",
-    "name": "Conformity",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/conformity.md",
     "section": "Examples",
@@ -1648,9 +1648,9 @@
     ]
   },
   {
-    "chunk_id": "conformity::counters",
-    "model_id": "conformity",
-    "name": "Conformity",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/conformity.md",
     "section": "Counters",
@@ -1664,9 +1664,9 @@
     ]
   },
   {
-    "chunk_id": "conformity::references",
-    "model_id": "conformity",
-    "name": "Conformity",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/conformity.md",
     "section": "References",
@@ -1680,9 +1680,9 @@
     ]
   },
   {
-    "chunk_id": "diffusion-of-responsibility::summary",
-    "model_id": "diffusion-of-responsibility",
-    "name": "Diffusion of Responsibility",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/diffusion-of-responsibility.md",
     "section": "Summary",
@@ -1696,9 +1696,9 @@
     ]
   },
   {
-    "chunk_id": "diffusion-of-responsibility::mechanism",
-    "model_id": "diffusion-of-responsibility",
-    "name": "Diffusion of Responsibility",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/diffusion-of-responsibility.md",
     "section": "Mechanism",
@@ -1712,9 +1712,9 @@
     ]
   },
   {
-    "chunk_id": "diffusion-of-responsibility::triggers",
-    "model_id": "diffusion-of-responsibility",
-    "name": "Diffusion of Responsibility",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/diffusion-of-responsibility.md",
     "section": "Triggers",
@@ -1728,9 +1728,9 @@
     ]
   },
   {
-    "chunk_id": "diffusion-of-responsibility::effects",
-    "model_id": "diffusion-of-responsibility",
-    "name": "Diffusion of Responsibility",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/diffusion-of-responsibility.md",
     "section": "Effects",
@@ -1744,9 +1744,9 @@
     ]
   },
   {
-    "chunk_id": "diffusion-of-responsibility::examples",
-    "model_id": "diffusion-of-responsibility",
-    "name": "Diffusion of Responsibility",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/diffusion-of-responsibility.md",
     "section": "Examples",
@@ -1760,9 +1760,9 @@
     ]
   },
   {
-    "chunk_id": "diffusion-of-responsibility::counters",
-    "model_id": "diffusion-of-responsibility",
-    "name": "Diffusion of Responsibility",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/diffusion-of-responsibility.md",
     "section": "Counters",
@@ -1776,9 +1776,9 @@
     ]
   },
   {
-    "chunk_id": "diffusion-of-responsibility::references",
-    "model_id": "diffusion-of-responsibility",
-    "name": "Diffusion of Responsibility",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/diffusion-of-responsibility.md",
     "section": "References",
@@ -1792,9 +1792,9 @@
     ]
   },
   {
-    "chunk_id": "groupthink::summary",
-    "model_id": "groupthink",
-    "name": "Groupthink",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/groupthink.md",
     "section": "Summary",
@@ -1808,9 +1808,9 @@
     ]
   },
   {
-    "chunk_id": "groupthink::mechanism",
-    "model_id": "groupthink",
-    "name": "Groupthink",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/groupthink.md",
     "section": "Mechanism",
@@ -1824,9 +1824,9 @@
     ]
   },
   {
-    "chunk_id": "groupthink::triggers",
-    "model_id": "groupthink",
-    "name": "Groupthink",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/groupthink.md",
     "section": "Triggers",
@@ -1840,9 +1840,9 @@
     ]
   },
   {
-    "chunk_id": "groupthink::effects",
-    "model_id": "groupthink",
-    "name": "Groupthink",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/groupthink.md",
     "section": "Effects",
@@ -1856,9 +1856,9 @@
     ]
   },
   {
-    "chunk_id": "groupthink::examples",
-    "model_id": "groupthink",
-    "name": "Groupthink",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/groupthink.md",
     "section": "Examples",
@@ -1872,9 +1872,9 @@
     ]
   },
   {
-    "chunk_id": "groupthink::counters",
-    "model_id": "groupthink",
-    "name": "Groupthink",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/groupthink.md",
     "section": "Counters",
@@ -1888,9 +1888,9 @@
     ]
   },
   {
-    "chunk_id": "groupthink::references",
-    "model_id": "groupthink",
-    "name": "Groupthink",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/groupthink.md",
     "section": "References",
@@ -1904,9 +1904,9 @@
     ]
   },
   {
-    "chunk_id": "in-group-bias::summary",
-    "model_id": "in-group-bias",
-    "name": "In-Group Bias",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/in-group-bias.md",
     "section": "Summary",
@@ -1920,9 +1920,9 @@
     ]
   },
   {
-    "chunk_id": "in-group-bias::mechanism",
-    "model_id": "in-group-bias",
-    "name": "In-Group Bias",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/in-group-bias.md",
     "section": "Mechanism",
@@ -1936,9 +1936,9 @@
     ]
   },
   {
-    "chunk_id": "in-group-bias::triggers",
-    "model_id": "in-group-bias",
-    "name": "In-Group Bias",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/in-group-bias.md",
     "section": "Triggers",
@@ -1952,9 +1952,9 @@
     ]
   },
   {
-    "chunk_id": "in-group-bias::effects",
-    "model_id": "in-group-bias",
-    "name": "In-Group Bias",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/in-group-bias.md",
     "section": "Effects",
@@ -1968,9 +1968,9 @@
     ]
   },
   {
-    "chunk_id": "in-group-bias::examples",
-    "model_id": "in-group-bias",
-    "name": "In-Group Bias",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/in-group-bias.md",
     "section": "Examples",
@@ -1984,9 +1984,9 @@
     ]
   },
   {
-    "chunk_id": "in-group-bias::counters",
-    "model_id": "in-group-bias",
-    "name": "In-Group Bias",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/in-group-bias.md",
     "section": "Counters",
@@ -2000,9 +2000,9 @@
     ]
   },
   {
-    "chunk_id": "in-group-bias::references",
-    "model_id": "in-group-bias",
-    "name": "In-Group Bias",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/in-group-bias.md",
     "section": "References",
@@ -2016,9 +2016,9 @@
     ]
   },
   {
-    "chunk_id": "reciprocity::summary",
-    "model_id": "reciprocity",
-    "name": "Reciprocity",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/reciprocity.md",
     "section": "Summary",
@@ -2032,9 +2032,9 @@
     ]
   },
   {
-    "chunk_id": "reciprocity::mechanism",
-    "model_id": "reciprocity",
-    "name": "Reciprocity",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/reciprocity.md",
     "section": "Mechanism",
@@ -2048,9 +2048,9 @@
     ]
   },
   {
-    "chunk_id": "reciprocity::triggers",
-    "model_id": "reciprocity",
-    "name": "Reciprocity",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/reciprocity.md",
     "section": "Triggers",
@@ -2064,9 +2064,9 @@
     ]
   },
   {
-    "chunk_id": "reciprocity::effects",
-    "model_id": "reciprocity",
-    "name": "Reciprocity",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/reciprocity.md",
     "section": "Effects",
@@ -2080,9 +2080,9 @@
     ]
   },
   {
-    "chunk_id": "reciprocity::examples",
-    "model_id": "reciprocity",
-    "name": "Reciprocity",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/reciprocity.md",
     "section": "Examples",
@@ -2096,9 +2096,9 @@
     ]
   },
   {
-    "chunk_id": "reciprocity::counters",
-    "model_id": "reciprocity",
-    "name": "Reciprocity",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/reciprocity.md",
     "section": "Counters",
@@ -2112,9 +2112,9 @@
     ]
   },
   {
-    "chunk_id": "reciprocity::references",
-    "model_id": "reciprocity",
-    "name": "Reciprocity",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/reciprocity.md",
     "section": "References",
@@ -2128,9 +2128,9 @@
     ]
   },
   {
-    "chunk_id": "social-proof::summary",
-    "model_id": "social-proof",
-    "name": "Social Proof",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/social-proof.md",
     "section": "Summary",
@@ -2144,9 +2144,9 @@
     ]
   },
   {
-    "chunk_id": "social-proof::mechanism",
-    "model_id": "social-proof",
-    "name": "Social Proof",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/social-proof.md",
     "section": "Mechanism",
@@ -2160,9 +2160,9 @@
     ]
   },
   {
-    "chunk_id": "social-proof::triggers",
-    "model_id": "social-proof",
-    "name": "Social Proof",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/social-proof.md",
     "section": "Triggers",
@@ -2176,9 +2176,9 @@
     ]
   },
   {
-    "chunk_id": "social-proof::effects",
-    "model_id": "social-proof",
-    "name": "Social Proof",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/social-proof.md",
     "section": "Effects",
@@ -2192,9 +2192,9 @@
     ]
   },
   {
-    "chunk_id": "social-proof::examples",
-    "model_id": "social-proof",
-    "name": "Social Proof",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/social-proof.md",
     "section": "Examples",
@@ -2208,9 +2208,9 @@
     ]
   },
   {
-    "chunk_id": "social-proof::counters",
-    "model_id": "social-proof",
-    "name": "Social Proof",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/social-proof.md",
     "section": "Counters",
@@ -2224,9 +2224,9 @@
     ]
   },
   {
-    "chunk_id": "social-proof::references",
-    "model_id": "social-proof",
-    "name": "Social Proof",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "social",
     "path": "models/social/social-proof.md",
     "section": "References",
@@ -2240,9 +2240,9 @@
     ]
   },
   {
-    "chunk_id": "attribution-theory::summary",
-    "model_id": "attribution-theory",
-    "name": "Attribution Theory",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/attribution-theory.md",
     "section": "Summary",
@@ -2256,9 +2256,9 @@
     ]
   },
   {
-    "chunk_id": "attribution-theory::mechanism",
-    "model_id": "attribution-theory",
-    "name": "Attribution Theory",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/attribution-theory.md",
     "section": "Mechanism",
@@ -2272,9 +2272,9 @@
     ]
   },
   {
-    "chunk_id": "attribution-theory::triggers",
-    "model_id": "attribution-theory",
-    "name": "Attribution Theory",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/attribution-theory.md",
     "section": "Triggers",
@@ -2288,9 +2288,9 @@
     ]
   },
   {
-    "chunk_id": "attribution-theory::effects",
-    "model_id": "attribution-theory",
-    "name": "Attribution Theory",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/attribution-theory.md",
     "section": "Effects",
@@ -2304,9 +2304,9 @@
     ]
   },
   {
-    "chunk_id": "attribution-theory::examples",
-    "model_id": "attribution-theory",
-    "name": "Attribution Theory",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/attribution-theory.md",
     "section": "Examples",
@@ -2320,9 +2320,9 @@
     ]
   },
   {
-    "chunk_id": "attribution-theory::counters",
-    "model_id": "attribution-theory",
-    "name": "Attribution Theory",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/attribution-theory.md",
     "section": "Counters",
@@ -2336,9 +2336,9 @@
     ]
   },
   {
-    "chunk_id": "attribution-theory::references",
-    "model_id": "attribution-theory",
-    "name": "Attribution Theory",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/attribution-theory.md",
     "section": "References",
@@ -2352,9 +2352,9 @@
     ]
   },
   {
-    "chunk_id": "dopamine-reward-prediction::summary",
-    "model_id": "dopamine-reward-prediction",
-    "name": "Dopamine Reward Prediction",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/dopamine-reward-prediction.md",
     "section": "Summary",
@@ -2368,9 +2368,9 @@
     ]
   },
   {
-    "chunk_id": "dopamine-reward-prediction::mechanism",
-    "model_id": "dopamine-reward-prediction",
-    "name": "Dopamine Reward Prediction",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/dopamine-reward-prediction.md",
     "section": "Mechanism",
@@ -2384,9 +2384,9 @@
     ]
   },
   {
-    "chunk_id": "dopamine-reward-prediction::triggers",
-    "model_id": "dopamine-reward-prediction",
-    "name": "Dopamine Reward Prediction",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/dopamine-reward-prediction.md",
     "section": "Triggers",
@@ -2400,9 +2400,9 @@
     ]
   },
   {
-    "chunk_id": "dopamine-reward-prediction::effects",
-    "model_id": "dopamine-reward-prediction",
-    "name": "Dopamine Reward Prediction",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/dopamine-reward-prediction.md",
     "section": "Effects",
@@ -2416,9 +2416,9 @@
     ]
   },
   {
-    "chunk_id": "dopamine-reward-prediction::examples",
-    "model_id": "dopamine-reward-prediction",
-    "name": "Dopamine Reward Prediction",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/dopamine-reward-prediction.md",
     "section": "Examples",
@@ -2432,9 +2432,9 @@
     ]
   },
   {
-    "chunk_id": "dopamine-reward-prediction::counters",
-    "model_id": "dopamine-reward-prediction",
-    "name": "Dopamine Reward Prediction",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/dopamine-reward-prediction.md",
     "section": "Counters",
@@ -2448,9 +2448,9 @@
     ]
   },
   {
-    "chunk_id": "dopamine-reward-prediction::references",
-    "model_id": "dopamine-reward-prediction",
-    "name": "Dopamine Reward Prediction",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/dopamine-reward-prediction.md",
     "section": "References",
@@ -2464,9 +2464,9 @@
     ]
   },
   {
-    "chunk_id": "emotional-contagion::summary",
-    "model_id": "emotional-contagion",
-    "name": "Emotional Contagion",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/emotional-contagion.md",
     "section": "Summary",
@@ -2480,9 +2480,9 @@
     ]
   },
   {
-    "chunk_id": "emotional-contagion::mechanism",
-    "model_id": "emotional-contagion",
-    "name": "Emotional Contagion",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/emotional-contagion.md",
     "section": "Mechanism",
@@ -2496,9 +2496,9 @@
     ]
   },
   {
-    "chunk_id": "emotional-contagion::triggers",
-    "model_id": "emotional-contagion",
-    "name": "Emotional Contagion",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/emotional-contagion.md",
     "section": "Triggers",
@@ -2512,9 +2512,9 @@
     ]
   },
   {
-    "chunk_id": "emotional-contagion::effects",
-    "model_id": "emotional-contagion",
-    "name": "Emotional Contagion",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/emotional-contagion.md",
     "section": "Effects",
@@ -2528,9 +2528,9 @@
     ]
   },
   {
-    "chunk_id": "emotional-contagion::examples",
-    "model_id": "emotional-contagion",
-    "name": "Emotional Contagion",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/emotional-contagion.md",
     "section": "Examples",
@@ -2544,9 +2544,9 @@
     ]
   },
   {
-    "chunk_id": "emotional-contagion::counters",
-    "model_id": "emotional-contagion",
-    "name": "Emotional Contagion",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/emotional-contagion.md",
     "section": "Counters",
@@ -2560,9 +2560,9 @@
     ]
   },
   {
-    "chunk_id": "emotional-contagion::references",
-    "model_id": "emotional-contagion",
-    "name": "Emotional Contagion",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/emotional-contagion.md",
     "section": "References",
@@ -2576,9 +2576,9 @@
     ]
   },
   {
-    "chunk_id": "hedonic-adaptation::summary",
-    "model_id": "hedonic-adaptation",
-    "name": "Hedonic Adaptation",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/hedonic-adaptation.md",
     "section": "Summary",
@@ -2592,9 +2592,9 @@
     ]
   },
   {
-    "chunk_id": "hedonic-adaptation::mechanism",
-    "model_id": "hedonic-adaptation",
-    "name": "Hedonic Adaptation",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/hedonic-adaptation.md",
     "section": "Mechanism",
@@ -2608,9 +2608,9 @@
     ]
   },
   {
-    "chunk_id": "hedonic-adaptation::triggers",
-    "model_id": "hedonic-adaptation",
-    "name": "Hedonic Adaptation",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/hedonic-adaptation.md",
     "section": "Triggers",
@@ -2624,9 +2624,9 @@
     ]
   },
   {
-    "chunk_id": "hedonic-adaptation::effects",
-    "model_id": "hedonic-adaptation",
-    "name": "Hedonic Adaptation",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/hedonic-adaptation.md",
     "section": "Effects",
@@ -2640,9 +2640,9 @@
     ]
   },
   {
-    "chunk_id": "hedonic-adaptation::examples",
-    "model_id": "hedonic-adaptation",
-    "name": "Hedonic Adaptation",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/hedonic-adaptation.md",
     "section": "Examples",
@@ -2656,9 +2656,9 @@
     ]
   },
   {
-    "chunk_id": "hedonic-adaptation::counters",
-    "model_id": "hedonic-adaptation",
-    "name": "Hedonic Adaptation",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/hedonic-adaptation.md",
     "section": "Counters",
@@ -2672,9 +2672,9 @@
     ]
   },
   {
-    "chunk_id": "hedonic-adaptation::references",
-    "model_id": "hedonic-adaptation",
-    "name": "Hedonic Adaptation",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/hedonic-adaptation.md",
     "section": "References",
@@ -2688,9 +2688,9 @@
     ]
   },
   {
-    "chunk_id": "imposter-syndrome::summary",
-    "model_id": "imposter-syndrome",
-    "name": "Imposter Syndrome",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/imposter-syndrome.md",
     "section": "Summary",
@@ -2704,9 +2704,9 @@
     ]
   },
   {
-    "chunk_id": "imposter-syndrome::mechanism",
-    "model_id": "imposter-syndrome",
-    "name": "Imposter Syndrome",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/imposter-syndrome.md",
     "section": "Mechanism",
@@ -2720,9 +2720,9 @@
     ]
   },
   {
-    "chunk_id": "imposter-syndrome::triggers",
-    "model_id": "imposter-syndrome",
-    "name": "Imposter Syndrome",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/imposter-syndrome.md",
     "section": "Triggers",
@@ -2736,9 +2736,9 @@
     ]
   },
   {
-    "chunk_id": "imposter-syndrome::effects",
-    "model_id": "imposter-syndrome",
-    "name": "Imposter Syndrome",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/imposter-syndrome.md",
     "section": "Effects",
@@ -2752,9 +2752,9 @@
     ]
   },
   {
-    "chunk_id": "imposter-syndrome::examples",
-    "model_id": "imposter-syndrome",
-    "name": "Imposter Syndrome",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/imposter-syndrome.md",
     "section": "Examples",
@@ -2768,9 +2768,9 @@
     ]
   },
   {
-    "chunk_id": "imposter-syndrome::counters",
-    "model_id": "imposter-syndrome",
-    "name": "Imposter Syndrome",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/imposter-syndrome.md",
     "section": "Counters",
@@ -2784,9 +2784,9 @@
     ]
   },
   {
-    "chunk_id": "imposter-syndrome::references",
-    "model_id": "imposter-syndrome",
-    "name": "Imposter Syndrome",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/imposter-syndrome.md",
     "section": "References",
@@ -2800,9 +2800,9 @@
     ]
   },
   {
-    "chunk_id": "negativity-bias::summary",
-    "model_id": "negativity-bias",
-    "name": "Negativity Bias",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/negativity-bias.md",
     "section": "Summary",
@@ -2816,9 +2816,9 @@
     ]
   },
   {
-    "chunk_id": "negativity-bias::mechanism",
-    "model_id": "negativity-bias",
-    "name": "Negativity Bias",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/negativity-bias.md",
     "section": "Mechanism",
@@ -2832,9 +2832,9 @@
     ]
   },
   {
-    "chunk_id": "negativity-bias::triggers",
-    "model_id": "negativity-bias",
-    "name": "Negativity Bias",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/negativity-bias.md",
     "section": "Triggers",
@@ -2848,9 +2848,9 @@
     ]
   },
   {
-    "chunk_id": "negativity-bias::effects",
-    "model_id": "negativity-bias",
-    "name": "Negativity Bias",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/negativity-bias.md",
     "section": "Effects",
@@ -2864,9 +2864,9 @@
     ]
   },
   {
-    "chunk_id": "negativity-bias::examples",
-    "model_id": "negativity-bias",
-    "name": "Negativity Bias",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/negativity-bias.md",
     "section": "Examples",
@@ -2880,9 +2880,9 @@
     ]
   },
   {
-    "chunk_id": "negativity-bias::counters",
-    "model_id": "negativity-bias",
-    "name": "Negativity Bias",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/negativity-bias.md",
     "section": "Counters",
@@ -2896,9 +2896,9 @@
     ]
   },
   {
-    "chunk_id": "negativity-bias::references",
-    "model_id": "negativity-bias",
-    "name": "Negativity Bias",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "emotional",
     "path": "models/emotional/negativity-bias.md",
     "section": "References",
@@ -2912,9 +2912,9 @@
     ]
   },
   {
-    "chunk_id": "affect-heuristic::summary",
-    "model_id": "affect-heuristic",
-    "name": "Affect Heuristic",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/affect-heuristic.md",
     "section": "Summary",
@@ -2928,9 +2928,9 @@
     ]
   },
   {
-    "chunk_id": "affect-heuristic::mechanism",
-    "model_id": "affect-heuristic",
-    "name": "Affect Heuristic",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/affect-heuristic.md",
     "section": "Mechanism",
@@ -2944,9 +2944,9 @@
     ]
   },
   {
-    "chunk_id": "affect-heuristic::triggers",
-    "model_id": "affect-heuristic",
-    "name": "Affect Heuristic",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/affect-heuristic.md",
     "section": "Triggers",
@@ -2960,9 +2960,9 @@
     ]
   },
   {
-    "chunk_id": "affect-heuristic::effects",
-    "model_id": "affect-heuristic",
-    "name": "Affect Heuristic",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/affect-heuristic.md",
     "section": "Effects",
@@ -2976,9 +2976,9 @@
     ]
   },
   {
-    "chunk_id": "affect-heuristic::examples",
-    "model_id": "affect-heuristic",
-    "name": "Affect Heuristic",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/affect-heuristic.md",
     "section": "Examples",
@@ -2992,9 +2992,9 @@
     ]
   },
   {
-    "chunk_id": "affect-heuristic::counters",
-    "model_id": "affect-heuristic",
-    "name": "Affect Heuristic",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/affect-heuristic.md",
     "section": "Counters",
@@ -3008,9 +3008,9 @@
     ]
   },
   {
-    "chunk_id": "affect-heuristic::references",
-    "model_id": "affect-heuristic",
-    "name": "Affect Heuristic",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/affect-heuristic.md",
     "section": "References",
@@ -3024,9 +3024,9 @@
     ]
   },
   {
-    "chunk_id": "bandwagon-effect::summary",
-    "model_id": "bandwagon-effect",
-    "name": "Bandwagon Effect",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/bandwagon-effect.md",
     "section": "Summary",
@@ -3040,9 +3040,9 @@
     ]
   },
   {
-    "chunk_id": "bandwagon-effect::mechanism",
-    "model_id": "bandwagon-effect",
-    "name": "Bandwagon Effect",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/bandwagon-effect.md",
     "section": "Mechanism",
@@ -3056,9 +3056,9 @@
     ]
   },
   {
-    "chunk_id": "bandwagon-effect::triggers",
-    "model_id": "bandwagon-effect",
-    "name": "Bandwagon Effect",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/bandwagon-effect.md",
     "section": "Triggers",
@@ -3072,9 +3072,9 @@
     ]
   },
   {
-    "chunk_id": "bandwagon-effect::effects",
-    "model_id": "bandwagon-effect",
-    "name": "Bandwagon Effect",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/bandwagon-effect.md",
     "section": "Effects",
@@ -3088,9 +3088,9 @@
     ]
   },
   {
-    "chunk_id": "bandwagon-effect::examples",
-    "model_id": "bandwagon-effect",
-    "name": "Bandwagon Effect",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/bandwagon-effect.md",
     "section": "Examples",
@@ -3104,9 +3104,9 @@
     ]
   },
   {
-    "chunk_id": "bandwagon-effect::counters",
-    "model_id": "bandwagon-effect",
-    "name": "Bandwagon Effect",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/bandwagon-effect.md",
     "section": "Counters",
@@ -3120,9 +3120,9 @@
     ]
   },
   {
-    "chunk_id": "bandwagon-effect::references",
-    "model_id": "bandwagon-effect",
-    "name": "Bandwagon Effect",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/bandwagon-effect.md",
     "section": "References",
@@ -3136,9 +3136,9 @@
     ]
   },
   {
-    "chunk_id": "framing-effect::summary",
-    "model_id": "framing-effect",
-    "name": "Framing Effect",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/framing-effect.md",
     "section": "Summary",
@@ -3152,9 +3152,9 @@
     ]
   },
   {
-    "chunk_id": "framing-effect::mechanism",
-    "model_id": "framing-effect",
-    "name": "Framing Effect",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/framing-effect.md",
     "section": "Mechanism",
@@ -3168,9 +3168,9 @@
     ]
   },
   {
-    "chunk_id": "framing-effect::triggers",
-    "model_id": "framing-effect",
-    "name": "Framing Effect",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/framing-effect.md",
     "section": "Triggers",
@@ -3184,9 +3184,9 @@
     ]
   },
   {
-    "chunk_id": "framing-effect::effects",
-    "model_id": "framing-effect",
-    "name": "Framing Effect",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/framing-effect.md",
     "section": "Effects",
@@ -3200,9 +3200,9 @@
     ]
   },
   {
-    "chunk_id": "framing-effect::examples",
-    "model_id": "framing-effect",
-    "name": "Framing Effect",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/framing-effect.md",
     "section": "Examples",
@@ -3216,9 +3216,9 @@
     ]
   },
   {
-    "chunk_id": "framing-effect::counters",
-    "model_id": "framing-effect",
-    "name": "Framing Effect",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/framing-effect.md",
     "section": "Counters",
@@ -3232,9 +3232,9 @@
     ]
   },
   {
-    "chunk_id": "framing-effect::references",
-    "model_id": "framing-effect",
-    "name": "Framing Effect",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/framing-effect.md",
     "section": "References",
@@ -3248,9 +3248,9 @@
     ]
   },
   {
-    "chunk_id": "loss-aversion::summary",
-    "model_id": "loss-aversion",
-    "name": "Loss Aversion",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/loss-aversion.md",
     "section": "Summary",
@@ -3264,9 +3264,9 @@
     ]
   },
   {
-    "chunk_id": "loss-aversion::mechanism",
-    "model_id": "loss-aversion",
-    "name": "Loss Aversion",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/loss-aversion.md",
     "section": "Mechanism",
@@ -3280,9 +3280,9 @@
     ]
   },
   {
-    "chunk_id": "loss-aversion::triggers",
-    "model_id": "loss-aversion",
-    "name": "Loss Aversion",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/loss-aversion.md",
     "section": "Triggers",
@@ -3296,9 +3296,9 @@
     ]
   },
   {
-    "chunk_id": "loss-aversion::effects",
-    "model_id": "loss-aversion",
-    "name": "Loss Aversion",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/loss-aversion.md",
     "section": "Effects",
@@ -3312,9 +3312,9 @@
     ]
   },
   {
-    "chunk_id": "loss-aversion::examples",
-    "model_id": "loss-aversion",
-    "name": "Loss Aversion",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/loss-aversion.md",
     "section": "Examples",
@@ -3328,9 +3328,9 @@
     ]
   },
   {
-    "chunk_id": "loss-aversion::counters",
-    "model_id": "loss-aversion",
-    "name": "Loss Aversion",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/loss-aversion.md",
     "section": "Counters",
@@ -3344,9 +3344,9 @@
     ]
   },
   {
-    "chunk_id": "loss-aversion::references",
-    "model_id": "loss-aversion",
-    "name": "Loss Aversion",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/loss-aversion.md",
     "section": "References",
@@ -3360,9 +3360,9 @@
     ]
   },
   {
-    "chunk_id": "recency-bias::summary",
-    "model_id": "recency-bias",
-    "name": "Recency Bias",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/recency-bias.md",
     "section": "Summary",
@@ -3376,9 +3376,9 @@
     ]
   },
   {
-    "chunk_id": "recency-bias::mechanism",
-    "model_id": "recency-bias",
-    "name": "Recency Bias",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/recency-bias.md",
     "section": "Mechanism",
@@ -3392,9 +3392,9 @@
     ]
   },
   {
-    "chunk_id": "recency-bias::triggers",
-    "model_id": "recency-bias",
-    "name": "Recency Bias",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/recency-bias.md",
     "section": "Triggers",
@@ -3408,9 +3408,9 @@
     ]
   },
   {
-    "chunk_id": "recency-bias::effects",
-    "model_id": "recency-bias",
-    "name": "Recency Bias",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/recency-bias.md",
     "section": "Effects",
@@ -3424,9 +3424,9 @@
     ]
   },
   {
-    "chunk_id": "recency-bias::examples",
-    "model_id": "recency-bias",
-    "name": "Recency Bias",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/recency-bias.md",
     "section": "Examples",
@@ -3440,9 +3440,9 @@
     ]
   },
   {
-    "chunk_id": "recency-bias::counters",
-    "model_id": "recency-bias",
-    "name": "Recency Bias",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/recency-bias.md",
     "section": "Counters",
@@ -3456,9 +3456,9 @@
     ]
   },
   {
-    "chunk_id": "recency-bias::references",
-    "model_id": "recency-bias",
-    "name": "Recency Bias",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/recency-bias.md",
     "section": "References",
@@ -3472,9 +3472,9 @@
     ]
   },
   {
-    "chunk_id": "status-quo-bias::summary",
-    "model_id": "status-quo-bias",
-    "name": "Status Quo Bias",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/status-quo-bias.md",
     "section": "Summary",
@@ -3488,9 +3488,9 @@
     ]
   },
   {
-    "chunk_id": "status-quo-bias::mechanism",
-    "model_id": "status-quo-bias",
-    "name": "Status Quo Bias",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/status-quo-bias.md",
     "section": "Mechanism",
@@ -3504,9 +3504,9 @@
     ]
   },
   {
-    "chunk_id": "status-quo-bias::triggers",
-    "model_id": "status-quo-bias",
-    "name": "Status Quo Bias",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/status-quo-bias.md",
     "section": "Triggers",
@@ -3520,9 +3520,9 @@
     ]
   },
   {
-    "chunk_id": "status-quo-bias::effects",
-    "model_id": "status-quo-bias",
-    "name": "Status Quo Bias",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/status-quo-bias.md",
     "section": "Effects",
@@ -3536,9 +3536,9 @@
     ]
   },
   {
-    "chunk_id": "status-quo-bias::examples",
-    "model_id": "status-quo-bias",
-    "name": "Status Quo Bias",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/status-quo-bias.md",
     "section": "Examples",
@@ -3552,9 +3552,9 @@
     ]
   },
   {
-    "chunk_id": "status-quo-bias::counters",
-    "model_id": "status-quo-bias",
-    "name": "Status Quo Bias",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/status-quo-bias.md",
     "section": "Counters",
@@ -3568,9 +3568,9 @@
     ]
   },
   {
-    "chunk_id": "status-quo-bias::references",
-    "model_id": "status-quo-bias",
-    "name": "Status Quo Bias",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/status-quo-bias.md",
     "section": "References",
@@ -3584,9 +3584,9 @@
     ]
   },
   {
-    "chunk_id": "sunk-cost-fallacy::summary",
-    "model_id": "sunk-cost-fallacy",
-    "name": "Sunk Cost Fallacy",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/sunk-cost-fallacy.md",
     "section": "Summary",
@@ -3600,9 +3600,9 @@
     ]
   },
   {
-    "chunk_id": "sunk-cost-fallacy::mechanism",
-    "model_id": "sunk-cost-fallacy",
-    "name": "Sunk Cost Fallacy",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/sunk-cost-fallacy.md",
     "section": "Mechanism",
@@ -3616,9 +3616,9 @@
     ]
   },
   {
-    "chunk_id": "sunk-cost-fallacy::triggers",
-    "model_id": "sunk-cost-fallacy",
-    "name": "Sunk Cost Fallacy",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/sunk-cost-fallacy.md",
     "section": "Triggers",
@@ -3632,9 +3632,9 @@
     ]
   },
   {
-    "chunk_id": "sunk-cost-fallacy::effects",
-    "model_id": "sunk-cost-fallacy",
-    "name": "Sunk Cost Fallacy",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/sunk-cost-fallacy.md",
     "section": "Effects",
@@ -3648,9 +3648,9 @@
     ]
   },
   {
-    "chunk_id": "sunk-cost-fallacy::examples",
-    "model_id": "sunk-cost-fallacy",
-    "name": "Sunk Cost Fallacy",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/sunk-cost-fallacy.md",
     "section": "Examples",
@@ -3664,9 +3664,9 @@
     ]
   },
   {
-    "chunk_id": "sunk-cost-fallacy::counters",
-    "model_id": "sunk-cost-fallacy",
-    "name": "Sunk Cost Fallacy",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/sunk-cost-fallacy.md",
     "section": "Counters",
@@ -3680,9 +3680,9 @@
     ]
   },
   {
-    "chunk_id": "sunk-cost-fallacy::references",
-    "model_id": "sunk-cost-fallacy",
-    "name": "Sunk Cost Fallacy",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "decision",
     "path": "models/decision/sunk-cost-fallacy.md",
     "section": "References",
@@ -3696,9 +3696,9 @@
     ]
   },
   {
-    "chunk_id": "attachment-theory::summary",
-    "model_id": "attachment-theory",
-    "name": "Attachment Theory",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/attachment-theory.md",
     "section": "Summary",
@@ -3712,9 +3712,9 @@
     ]
   },
   {
-    "chunk_id": "attachment-theory::mechanism",
-    "model_id": "attachment-theory",
-    "name": "Attachment Theory",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/attachment-theory.md",
     "section": "Mechanism",
@@ -3728,9 +3728,9 @@
     ]
   },
   {
-    "chunk_id": "attachment-theory::triggers",
-    "model_id": "attachment-theory",
-    "name": "Attachment Theory",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/attachment-theory.md",
     "section": "Triggers",
@@ -3744,9 +3744,9 @@
     ]
   },
   {
-    "chunk_id": "attachment-theory::effects",
-    "model_id": "attachment-theory",
-    "name": "Attachment Theory",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/attachment-theory.md",
     "section": "Effects",
@@ -3760,9 +3760,9 @@
     ]
   },
   {
-    "chunk_id": "attachment-theory::examples",
-    "model_id": "attachment-theory",
-    "name": "Attachment Theory",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/attachment-theory.md",
     "section": "Examples",
@@ -3776,9 +3776,9 @@
     ]
   },
   {
-    "chunk_id": "attachment-theory::counters",
-    "model_id": "attachment-theory",
-    "name": "Attachment Theory",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/attachment-theory.md",
     "section": "Counters",
@@ -3792,9 +3792,9 @@
     ]
   },
   {
-    "chunk_id": "attachment-theory::references",
-    "model_id": "attachment-theory",
-    "name": "Attachment Theory",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/attachment-theory.md",
     "section": "References",
@@ -3808,9 +3808,9 @@
     ]
   },
   {
-    "chunk_id": "erikson-s-psychosocial-development::summary",
-    "model_id": "erikson-s-psychosocial-development",
-    "name": "Erikson's Psychosocial Development",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/erikson-psychosocial-development.md",
     "section": "Summary",
@@ -3824,9 +3824,9 @@
     ]
   },
   {
-    "chunk_id": "erikson-s-psychosocial-development::mechanism",
-    "model_id": "erikson-s-psychosocial-development",
-    "name": "Erikson's Psychosocial Development",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/erikson-psychosocial-development.md",
     "section": "Mechanism",
@@ -3840,9 +3840,9 @@
     ]
   },
   {
-    "chunk_id": "erikson-s-psychosocial-development::triggers",
-    "model_id": "erikson-s-psychosocial-development",
-    "name": "Erikson's Psychosocial Development",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/erikson-psychosocial-development.md",
     "section": "Triggers",
@@ -3856,9 +3856,9 @@
     ]
   },
   {
-    "chunk_id": "erikson-s-psychosocial-development::effects",
-    "model_id": "erikson-s-psychosocial-development",
-    "name": "Erikson's Psychosocial Development",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/erikson-psychosocial-development.md",
     "section": "Effects",
@@ -3872,9 +3872,9 @@
     ]
   },
   {
-    "chunk_id": "erikson-s-psychosocial-development::examples",
-    "model_id": "erikson-s-psychosocial-development",
-    "name": "Erikson's Psychosocial Development",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/erikson-psychosocial-development.md",
     "section": "Examples",
@@ -3888,9 +3888,9 @@
     ]
   },
   {
-    "chunk_id": "erikson-s-psychosocial-development::counters",
-    "model_id": "erikson-s-psychosocial-development",
-    "name": "Erikson's Psychosocial Development",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/erikson-psychosocial-development.md",
     "section": "Counters",
@@ -3904,9 +3904,9 @@
     ]
   },
   {
-    "chunk_id": "erikson-s-psychosocial-development::references",
-    "model_id": "erikson-s-psychosocial-development",
-    "name": "Erikson's Psychosocial Development",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/erikson-psychosocial-development.md",
     "section": "References",
@@ -3920,9 +3920,9 @@
     ]
   },
   {
-    "chunk_id": "growth-mindset::summary",
-    "model_id": "growth-mindset",
-    "name": "Growth Mindset",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/growth-mindset.md",
     "section": "Summary",
@@ -3936,9 +3936,9 @@
     ]
   },
   {
-    "chunk_id": "growth-mindset::mechanism",
-    "model_id": "growth-mindset",
-    "name": "Growth Mindset",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/growth-mindset.md",
     "section": "Mechanism",
@@ -3952,9 +3952,9 @@
     ]
   },
   {
-    "chunk_id": "growth-mindset::triggers",
-    "model_id": "growth-mindset",
-    "name": "Growth Mindset",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/growth-mindset.md",
     "section": "Triggers",
@@ -3968,9 +3968,9 @@
     ]
   },
   {
-    "chunk_id": "growth-mindset::effects",
-    "model_id": "growth-mindset",
-    "name": "Growth Mindset",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/growth-mindset.md",
     "section": "Effects",
@@ -3984,9 +3984,9 @@
     ]
   },
   {
-    "chunk_id": "growth-mindset::examples",
-    "model_id": "growth-mindset",
-    "name": "Growth Mindset",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/growth-mindset.md",
     "section": "Examples",
@@ -4000,9 +4000,9 @@
     ]
   },
   {
-    "chunk_id": "growth-mindset::counters",
-    "model_id": "growth-mindset",
-    "name": "Growth Mindset",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/growth-mindset.md",
     "section": "Counters",
@@ -4016,9 +4016,9 @@
     ]
   },
   {
-    "chunk_id": "growth-mindset::references",
-    "model_id": "growth-mindset",
-    "name": "Growth Mindset",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/growth-mindset.md",
     "section": "References",
@@ -4032,9 +4032,9 @@
     ]
   },
   {
-    "chunk_id": "piaget-s-cognitive-development::summary",
-    "model_id": "piaget-s-cognitive-development",
-    "name": "Piaget's Cognitive Development",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/piaget-cognitive-development.md",
     "section": "Summary",
@@ -4048,9 +4048,9 @@
     ]
   },
   {
-    "chunk_id": "piaget-s-cognitive-development::mechanism",
-    "model_id": "piaget-s-cognitive-development",
-    "name": "Piaget's Cognitive Development",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/piaget-cognitive-development.md",
     "section": "Mechanism",
@@ -4064,9 +4064,9 @@
     ]
   },
   {
-    "chunk_id": "piaget-s-cognitive-development::triggers",
-    "model_id": "piaget-s-cognitive-development",
-    "name": "Piaget's Cognitive Development",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/piaget-cognitive-development.md",
     "section": "Triggers",
@@ -4080,9 +4080,9 @@
     ]
   },
   {
-    "chunk_id": "piaget-s-cognitive-development::effects",
-    "model_id": "piaget-s-cognitive-development",
-    "name": "Piaget's Cognitive Development",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/piaget-cognitive-development.md",
     "section": "Effects",
@@ -4096,9 +4096,9 @@
     ]
   },
   {
-    "chunk_id": "piaget-s-cognitive-development::examples",
-    "model_id": "piaget-s-cognitive-development",
-    "name": "Piaget's Cognitive Development",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/piaget-cognitive-development.md",
     "section": "Examples",
@@ -4112,9 +4112,9 @@
     ]
   },
   {
-    "chunk_id": "piaget-s-cognitive-development::counters",
-    "model_id": "piaget-s-cognitive-development",
-    "name": "Piaget's Cognitive Development",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/piaget-cognitive-development.md",
     "section": "Counters",
@@ -4128,9 +4128,9 @@
     ]
   },
   {
-    "chunk_id": "piaget-s-cognitive-development::references",
-    "model_id": "piaget-s-cognitive-development",
-    "name": "Piaget's Cognitive Development",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/piaget-cognitive-development.md",
     "section": "References",
@@ -4144,9 +4144,9 @@
     ]
   },
   {
-    "chunk_id": "social-learning-theory::summary",
-    "model_id": "social-learning-theory",
-    "name": "Social Learning Theory",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/social-learning-theory.md",
     "section": "Summary",
@@ -4160,9 +4160,9 @@
     ]
   },
   {
-    "chunk_id": "social-learning-theory::mechanism",
-    "model_id": "social-learning-theory",
-    "name": "Social Learning Theory",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/social-learning-theory.md",
     "section": "Mechanism",
@@ -4176,9 +4176,9 @@
     ]
   },
   {
-    "chunk_id": "social-learning-theory::triggers",
-    "model_id": "social-learning-theory",
-    "name": "Social Learning Theory",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/social-learning-theory.md",
     "section": "Triggers",
@@ -4192,9 +4192,9 @@
     ]
   },
   {
-    "chunk_id": "social-learning-theory::effects",
-    "model_id": "social-learning-theory",
-    "name": "Social Learning Theory",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/social-learning-theory.md",
     "section": "Effects",
@@ -4208,9 +4208,9 @@
     ]
   },
   {
-    "chunk_id": "social-learning-theory::examples",
-    "model_id": "social-learning-theory",
-    "name": "Social Learning Theory",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/social-learning-theory.md",
     "section": "Examples",
@@ -4224,9 +4224,9 @@
     ]
   },
   {
-    "chunk_id": "social-learning-theory::counters",
-    "model_id": "social-learning-theory",
-    "name": "Social Learning Theory",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/social-learning-theory.md",
     "section": "Counters",
@@ -4240,9 +4240,9 @@
     ]
   },
   {
-    "chunk_id": "social-learning-theory::references",
-    "model_id": "social-learning-theory",
-    "name": "Social Learning Theory",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/social-learning-theory.md",
     "section": "References",
@@ -4256,9 +4256,9 @@
     ]
   },
   {
-    "chunk_id": "theory-of-mind::summary",
-    "model_id": "theory-of-mind",
-    "name": "Theory of Mind",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/theory-of-mind.md",
     "section": "Summary",
@@ -4272,9 +4272,9 @@
     ]
   },
   {
-    "chunk_id": "theory-of-mind::mechanism",
-    "model_id": "theory-of-mind",
-    "name": "Theory of Mind",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/theory-of-mind.md",
     "section": "Mechanism",
@@ -4288,9 +4288,9 @@
     ]
   },
   {
-    "chunk_id": "theory-of-mind::triggers",
-    "model_id": "theory-of-mind",
-    "name": "Theory of Mind",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/theory-of-mind.md",
     "section": "Triggers",
@@ -4304,9 +4304,9 @@
     ]
   },
   {
-    "chunk_id": "theory-of-mind::effects",
-    "model_id": "theory-of-mind",
-    "name": "Theory of Mind",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/theory-of-mind.md",
     "section": "Effects",
@@ -4320,9 +4320,9 @@
     ]
   },
   {
-    "chunk_id": "theory-of-mind::examples",
-    "model_id": "theory-of-mind",
-    "name": "Theory of Mind",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/theory-of-mind.md",
     "section": "Examples",
@@ -4336,9 +4336,9 @@
     ]
   },
   {
-    "chunk_id": "theory-of-mind::counters",
-    "model_id": "theory-of-mind",
-    "name": "Theory of Mind",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/theory-of-mind.md",
     "section": "Counters",
@@ -4352,9 +4352,9 @@
     ]
   },
   {
-    "chunk_id": "theory-of-mind::references",
-    "model_id": "theory-of-mind",
-    "name": "Theory of Mind",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/theory-of-mind.md",
     "section": "References",
@@ -4368,9 +4368,9 @@
     ]
   },
   {
-    "chunk_id": "zone-of-proximal-development::summary",
-    "model_id": "zone-of-proximal-development",
-    "name": "Zone of Proximal Development",
+    "chunk_id": "::summary",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/zone-of-proximal-development.md",
     "section": "Summary",
@@ -4384,9 +4384,9 @@
     ]
   },
   {
-    "chunk_id": "zone-of-proximal-development::mechanism",
-    "model_id": "zone-of-proximal-development",
-    "name": "Zone of Proximal Development",
+    "chunk_id": "::mechanism",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/zone-of-proximal-development.md",
     "section": "Mechanism",
@@ -4400,9 +4400,9 @@
     ]
   },
   {
-    "chunk_id": "zone-of-proximal-development::triggers",
-    "model_id": "zone-of-proximal-development",
-    "name": "Zone of Proximal Development",
+    "chunk_id": "::triggers",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/zone-of-proximal-development.md",
     "section": "Triggers",
@@ -4416,9 +4416,9 @@
     ]
   },
   {
-    "chunk_id": "zone-of-proximal-development::effects",
-    "model_id": "zone-of-proximal-development",
-    "name": "Zone of Proximal Development",
+    "chunk_id": "::effects",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/zone-of-proximal-development.md",
     "section": "Effects",
@@ -4432,9 +4432,9 @@
     ]
   },
   {
-    "chunk_id": "zone-of-proximal-development::examples",
-    "model_id": "zone-of-proximal-development",
-    "name": "Zone of Proximal Development",
+    "chunk_id": "::examples",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/zone-of-proximal-development.md",
     "section": "Examples",
@@ -4448,9 +4448,9 @@
     ]
   },
   {
-    "chunk_id": "zone-of-proximal-development::counters",
-    "model_id": "zone-of-proximal-development",
-    "name": "Zone of Proximal Development",
+    "chunk_id": "::counters",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/zone-of-proximal-development.md",
     "section": "Counters",
@@ -4464,9 +4464,9 @@
     ]
   },
   {
-    "chunk_id": "zone-of-proximal-development::references",
-    "model_id": "zone-of-proximal-development",
-    "name": "Zone of Proximal Development",
+    "chunk_id": "::references",
+    "model_id": "",
+    "name": "---",
     "category": "developmental",
     "path": "models/developmental/zone-of-proximal-development.md",
     "section": "References",

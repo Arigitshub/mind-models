@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Framing Effect"
+category: decision
+model_tags: [framing, choice, risk, language, decision-making]
+origin: "Amos Tversky & Daniel Kahneman, 1981"
+summary: "The framing effect is the tendency for logically equivalent choices to produce different decisions depending on whether they are presented as gains, losses, or other contextual narratives."
+---
+
 # Framing Effect
 
 **Category:** decision

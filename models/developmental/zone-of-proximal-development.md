@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Zone of Proximal Development"
+category: developmental
+model_tags: [learning, scaffolding, teaching, development, capability]
+origin: "Lev Vygotsky, 1934"
+summary: "The zone of proximal development describes the gap between what a learner can do alone and what they can do with guidance, making it a model for how support accelerates development."
+---
+
 # Zone of Proximal Development
 
 **Category:** developmental

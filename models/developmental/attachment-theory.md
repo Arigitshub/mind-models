@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Attachment Theory"
+category: developmental
+model_tags: [attachment, relationships, development, security, caregiving]
+origin: "John Bowlby, 1969; Mary Ainsworth, 1978"
+summary: "Attachment theory explains how early caregiver relationships shape internal expectations about safety, closeness, and regulation, influencing later relationships across development."
+---
+
 # Attachment Theory
 
 **Category:** developmental

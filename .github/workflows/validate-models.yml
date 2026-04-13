@@ -19,11 +19,20 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install export dependencies
+        run: pip install pandas
+
+      - name: Sync model front matter
+        run: python scripts/sync_front_matter.py
+
       - name: Validate model library
         run: python scripts/validate_models.py
 
       - name: Rebuild generated index
         run: python scripts/build_index.py
 
+      - name: Build tabular exports
+        run: python scripts/export_tabular.py
+
       - name: Ensure generated artifacts are committed
-        run: git diff --exit-code -- library.md search-index.json models.json model-chunks.json model-chunks.jsonl categories
+        run: git diff --exit-code -- library.md search-index.json models.json model-chunks.json model-chunks.jsonl categories exports models .github

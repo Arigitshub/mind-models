@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Social Proof"
+category: social
+model_tags: [influence, conformity, behavior, uncertainty, persuasion]
+origin: "Robert Cialdini, 1984"
+summary: "People look to the behavior of others to determine the correct course of action — especially in ambiguous situations. The more people doing something, the more correct it appears."
+---
+
 # Social Proof
 
 **Category:** social

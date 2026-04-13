@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Diffusion of Responsibility"
+category: social
+model_tags: [responsibility, bystander, groups, inaction, social]
+origin: "John Darley & Bibb Latane, 1968"
+summary: "Diffusion of responsibility is the tendency for individual action to decrease when multiple people are present, because each person assumes someone else will act."
+---
+
 # Diffusion of Responsibility
 
 **Category:** social

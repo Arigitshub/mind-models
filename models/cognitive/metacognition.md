@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Metacognition"
+category: cognitive
+model_tags: [self-awareness, learning, thinking, regulation, accuracy]
+origin: "John Flavell, 1976"
+summary: "Thinking about one's own thinking — the ability to monitor, evaluate, and regulate cognitive processes, leading to more accurate self-assessment and better learning outcomes."
+---
+
 # Metacognition
 
 **Category:** cognitive

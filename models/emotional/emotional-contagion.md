@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Emotional Contagion"
+category: emotional
+model_tags: [emotion, contagion, empathy, groups, affect]
+origin: "Elaine Hatfield, John Cacioppo, & Richard Rapson, 1993"
+summary: "Emotional contagion is the spread of affect from one person or group to another through automatic mimicry, synchronization, and shared interpretation."
+---
+
 # Emotional Contagion
 
 **Category:** emotional

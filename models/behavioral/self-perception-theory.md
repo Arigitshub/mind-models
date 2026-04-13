@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Self-Perception Theory"
+category: behavioral
+model_tags: [identity, inference, attitude, behavior, self-observation]
+origin: "Daryl Bem, 1972"
+summary: "People infer their own attitudes and preferences by observing their behavior, especially when their internal state is ambiguous or weakly formed."
+---
+
 # Self-Perception Theory
 
 **Category:** behavioral

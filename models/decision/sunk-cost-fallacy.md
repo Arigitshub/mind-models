@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Sunk Cost Fallacy"
+category: decision
+model_tags: [escalation, commitment, loss, investment, persistence]
+origin: "Richard Thaler, 1980; Arkes & Blumer, 1985"
+summary: "The sunk cost fallacy is the tendency to continue a failing course of action because past time, money, or effort has already been invested and abandoning it would make the loss feel real."
+---
+
 # Sunk Cost Fallacy
 
 **Category:** decision

@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Confirmation Bias"
+category: cognitive
+model_tags: [belief, perception, search, reasoning, information]
+origin: "Peter Wason, 1960"
+summary: "The tendency to search for, interpret, and recall information in a way that confirms one's pre-existing beliefs while ignoring contradicting evidence."
+---
+
 # Confirmation Bias
 
 **Category:** cognitive

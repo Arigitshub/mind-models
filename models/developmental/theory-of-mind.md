@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Theory of Mind"
+category: developmental
+model_tags: [development, perspective, beliefs, social-cognition, learning]
+origin: "Premack & Woodruff, 1978; Wimmer & Perner, 1983"
+summary: "Theory of mind is the developmental capacity to understand that other people have beliefs, knowledge, intentions, and perspectives that can differ from one's own."
+---
+
 # Theory of Mind
 
 **Category:** developmental

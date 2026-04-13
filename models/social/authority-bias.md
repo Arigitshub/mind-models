@@ -1,3 +1,12 @@
+---
+layout: model
+title: "Authority Bias"
+category: social
+model_tags: [authority, compliance, trust, deference, influence]
+origin: "Stanley Milgram, 1963; Robert Cialdini, 1984"
+summary: "People tend to comply with or believe the directives and opinions of perceived authority figures — even when those directives conflict with personal judgment or ethics."
+---
+
 # Authority Bias
 
 **Category:** social
