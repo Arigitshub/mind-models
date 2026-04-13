@@ -4,7 +4,7 @@ title: Model Library
 
 # Model Library
 
-This page is generated from the validated model files in `models/`. It currently indexes **24** models.
+This page is generated from the validated model files in `models/`. It currently indexes **28** models.
 
 ## Quick Links
 
@@ -223,8 +223,38 @@ The sunk cost fallacy is the tendency to continue a failing course of action bec
 - Tags: `escalation`, `commitment`, `loss`, `investment`, `persistence`
 - Related: [Loss Aversion](models/decision/loss-aversion.md), [Cognitive Dissonance](models/cognitive/cognitive-dissonance.md), [Status Quo Bias](models/decision/status-quo-bias.md)
 
-## Developmental (0)
+## Developmental (4)
 
 How the mind changes over time through stages, learning, and identity development.
 
-No models published in this category yet.
+### [Erikson's Psychosocial Development](models/developmental/erikson-psychosocial-development.md)
+
+Erikson's psychosocial development model describes human development as a series of life stages, each centered on a core psychological conflict whose resolution shapes later identity and relationships.
+
+- Origin: Erik Erikson, 1950
+- Tags: `identity`, `lifespan`, `stages`, `development`, `socialization`
+- Related: [Imposter Syndrome](models/emotional/imposter-syndrome.md), [Piaget's Cognitive Development](models/developmental/piaget-cognitive-development.md), [Growth Mindset](models/developmental/growth-mindset.md)
+
+### [Growth Mindset](models/developmental/growth-mindset.md)
+
+A growth mindset is the belief that ability can be developed through effort, strategy, and feedback, which changes how people respond to challenge, failure, and learning.
+
+- Origin: Carol Dweck, 2006
+- Tags: `mindset`, `learning`, `ability`, `effort`, `development`
+- Related: [Zone of Proximal Development](models/developmental/zone-of-proximal-development.md), [Dunning-Kruger Effect](models/cognitive/dunning-kruger.md), [Imposter Syndrome](models/emotional/imposter-syndrome.md)
+
+### [Piaget's Cognitive Development](models/developmental/piaget-cognitive-development.md)
+
+Piaget's cognitive development model describes how children's thinking changes through qualitatively different stages as they mature and interact with the world.
+
+- Origin: Jean Piaget, 1936
+- Tags: `development`, `learning`, `stages`, `cognition`, `childhood`
+- Related: [Zone of Proximal Development](models/developmental/zone-of-proximal-development.md), [Metacognition](models/cognitive/metacognition.md), [Growth Mindset](models/developmental/growth-mindset.md)
+
+### [Zone of Proximal Development](models/developmental/zone-of-proximal-development.md)
+
+The zone of proximal development describes the gap between what a learner can do alone and what they can do with guidance, making it a model for how support accelerates development.
+
+- Origin: Lev Vygotsky, 1934
+- Tags: `learning`, `scaffolding`, `teaching`, `development`, `capability`
+- Related: [Piaget's Cognitive Development](models/developmental/piaget-cognitive-development.md), [Metacognition](models/cognitive/metacognition.md), [Habit Loop](models/behavioral/habit-loop.md)

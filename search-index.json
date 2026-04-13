@@ -870,5 +870,157 @@
       "Related Models",
       "References"
     ]
+  },
+  {
+    "name": "Erikson's Psychosocial Development",
+    "category": "developmental",
+    "origin": "Erik Erikson, 1950",
+    "tags": [
+      "identity",
+      "lifespan",
+      "stages",
+      "development",
+      "socialization"
+    ],
+    "summary": "Erikson's psychosocial development model describes human development as a series of life stages, each centered on a core psychological conflict whose resolution shapes later identity and relationships.",
+    "path": "models/developmental/erikson-psychosocial-development.md",
+    "related": [
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      },
+      {
+        "name": "Piaget's Cognitive Development",
+        "path": "models/developmental/piaget-cognitive-development.md"
+      },
+      {
+        "name": "Growth Mindset",
+        "path": "models/developmental/growth-mindset.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Growth Mindset",
+    "category": "developmental",
+    "origin": "Carol Dweck, 2006",
+    "tags": [
+      "mindset",
+      "learning",
+      "ability",
+      "effort",
+      "development"
+    ],
+    "summary": "A growth mindset is the belief that ability can be developed through effort, strategy, and feedback, which changes how people respond to challenge, failure, and learning.",
+    "path": "models/developmental/growth-mindset.md",
+    "related": [
+      {
+        "name": "Zone of Proximal Development",
+        "path": "models/developmental/zone-of-proximal-development.md"
+      },
+      {
+        "name": "Dunning-Kruger Effect",
+        "path": "models/cognitive/dunning-kruger.md"
+      },
+      {
+        "name": "Imposter Syndrome",
+        "path": "models/emotional/imposter-syndrome.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Piaget's Cognitive Development",
+    "category": "developmental",
+    "origin": "Jean Piaget, 1936",
+    "tags": [
+      "development",
+      "learning",
+      "stages",
+      "cognition",
+      "childhood"
+    ],
+    "summary": "Piaget's cognitive development model describes how children's thinking changes through qualitatively different stages as they mature and interact with the world.",
+    "path": "models/developmental/piaget-cognitive-development.md",
+    "related": [
+      {
+        "name": "Zone of Proximal Development",
+        "path": "models/developmental/zone-of-proximal-development.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      },
+      {
+        "name": "Growth Mindset",
+        "path": "models/developmental/growth-mindset.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "name": "Zone of Proximal Development",
+    "category": "developmental",
+    "origin": "Lev Vygotsky, 1934",
+    "tags": [
+      "learning",
+      "scaffolding",
+      "teaching",
+      "development",
+      "capability"
+    ],
+    "summary": "The zone of proximal development describes the gap between what a learner can do alone and what they can do with guidance, making it a model for how support accelerates development.",
+    "path": "models/developmental/zone-of-proximal-development.md",
+    "related": [
+      {
+        "name": "Piaget's Cognitive Development",
+        "path": "models/developmental/piaget-cognitive-development.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      },
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      }
+    ],
+    "sections": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
   }
 ]
