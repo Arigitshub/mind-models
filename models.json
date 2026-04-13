@@ -324,6 +324,54 @@
     ]
   },
   {
+    "id": "classical-conditioning",
+    "name": "Classical Conditioning",
+    "category": "behavioral",
+    "origin": "Ivan Pavlov, 1897",
+    "tags": [
+      "conditioning",
+      "association",
+      "learning",
+      "stimulus",
+      "behavior"
+    ],
+    "summary": "Classical conditioning is learning by association, where a previously neutral cue comes to trigger a response after repeated pairing with a meaningful stimulus.",
+    "path": "models/behavioral/classical-conditioning.md",
+    "related": [
+      {
+        "name": "Operant Conditioning",
+        "path": "models/behavioral/operant-conditioning.md"
+      },
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      },
+      {
+        "name": "Emotional Contagion",
+        "path": "models/emotional/emotional-contagion.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Classical conditioning is learning by association, where a previously neutral cue comes to trigger a response after repeated pairing with a meaningful stimulus.",
+      "Mechanism": "1. An unconditioned stimulus naturally produces a response\n2. A neutral stimulus is repeatedly paired with that unconditioned stimulus\n3. The neutral stimulus becomes a conditioned stimulus\n4. The conditioned stimulus begins to trigger a conditioned response on its own\n5. Repetition strengthens the association until the cue reliably evokes the response",
+      "Triggers": "- Repeated pairing of cues and emotionally relevant events\n- Environments with predictable stimulus patterns\n- High-salience rewards, threats, or bodily responses\n- Contexts where cues appear just before meaningful outcomes",
+      "Effects": "- Automatic responses to previously neutral cues\n- Learned likes, dislikes, and anticipatory reactions\n- Environmental triggers for stress, craving, or comfort\n- Habit support through cue-linked expectation",
+      "Examples": "**Example 1 - Notification sound:**\nA person feels a small anticipatory jolt when hearing a phone chime because it has been repeatedly paired with rewarding messages.\n\n**Example 2 - Exam anxiety:**\nA classroom setting begins to trigger stress because it has been repeatedly paired with evaluation and pressure.\n\n**Example 3 - Brand association:**\nAdvertising pairs a product with attractive imagery and music until the product itself starts carrying the positive feeling.",
+      "Counters": "- Break cue-outcome pairings when trying to weaken conditioned responses\n- Re-pair old triggers with neutral or safer experiences\n- Identify whether a reaction is driven by current reality or learned association",
+      "References": "- Pavlov, I. P. (1927). *Conditioned Reflexes*. Oxford University Press.\n- Rescorla, R. A. (1988). Pavlovian conditioning: It's not what you think it is. *American Psychologist*, 43(3), 151-160."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
     "id": "habit-loop",
     "name": "Habit Loop",
     "category": "behavioral",
@@ -403,6 +451,54 @@
       "Effects",
       "Examples",
       "Counters / Application",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "self-determination-theory",
+    "name": "Self-Determination Theory",
+    "category": "behavioral",
+    "origin": "Edward Deci & Richard Ryan, 1985",
+    "tags": [
+      "motivation",
+      "autonomy",
+      "competence",
+      "belonging",
+      "behavior"
+    ],
+    "summary": "Self-determination theory explains how motivation becomes more sustainable and effective when the needs for autonomy, competence, and relatedness are supported.",
+    "path": "models/behavioral/self-determination-theory.md",
+    "related": [
+      {
+        "name": "Operant Conditioning",
+        "path": "models/behavioral/operant-conditioning.md"
+      },
+      {
+        "name": "Growth Mindset",
+        "path": "models/developmental/growth-mindset.md"
+      },
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Self-determination theory explains how motivation becomes more sustainable and effective when the needs for autonomy, competence, and relatedness are supported.",
+      "Mechanism": "1. People engage a task with some mix of external and internal motivation\n2. The environment either supports or frustrates autonomy, competence, and relatedness\n3. Supportive conditions help motivation become more internalized\n4. Internalized motivation improves persistence, learning, and well-being\n5. Controlling environments can produce compliance without deep engagement",
+      "Triggers": "- Work, school, or product environments that control versus empower users\n- Feedback systems that build or undermine competence\n- Social contexts that strengthen or weaken belonging\n- Goal structures that emphasize ownership versus pressure",
+      "Effects": "- Better persistence when motivation feels self-endorsed\n- Higher quality learning and engagement\n- Reduced burnout under autonomy-supportive conditions\n- Lower resilience when people act only from pressure or rewards",
+      "Examples": "**Example 1 - Classroom design:**\nA teacher offers meaningful choice and skill-building feedback, leading students to engage more deeply than under pure grading pressure.\n\n**Example 2 - Product onboarding:**\nA fitness app that emphasizes agency, progress, and community keeps users engaged longer than one based only on streak pressure.\n\n**Example 3 - Team management:**\nAn employee works harder on a project they helped shape than on one assigned with tight control and no explanation.",
+      "Counters": "- Do not confuse obedience with durable motivation\n- Increase choice, skill feedback, and belonging cues in behavior-change systems\n- Audit incentives that undermine intrinsic motivation by becoming too controlling",
+      "References": "- Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.\n- Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist*, 55(1), 68-78."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
       "Related Models",
       "References"
     ]
@@ -596,6 +692,54 @@
     ]
   },
   {
+    "id": "diffusion-of-responsibility",
+    "name": "Diffusion of Responsibility",
+    "category": "social",
+    "origin": "John Darley & Bibb Latane, 1968",
+    "tags": [
+      "responsibility",
+      "bystander",
+      "groups",
+      "inaction",
+      "social"
+    ],
+    "summary": "Diffusion of responsibility is the tendency for individual action to decrease when multiple people are present, because each person assumes someone else will act.",
+    "path": "models/social/diffusion-of-responsibility.md",
+    "related": [
+      {
+        "name": "Conformity",
+        "path": "models/social/conformity.md"
+      },
+      {
+        "name": "Groupthink",
+        "path": "models/social/groupthink.md"
+      },
+      {
+        "name": "Social Proof",
+        "path": "models/social/social-proof.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Diffusion of responsibility is the tendency for individual action to decrease when multiple people are present, because each person assumes someone else will act.",
+      "Mechanism": "1. A situation appears to require intervention or ownership\n2. Multiple observers are aware of the same situation\n3. Responsibility feels distributed across the group\n4. Each person waits for someone else to move first\n5. Inaction by others becomes a signal that action may not be necessary\n6. Collective passivity emerges from individually deferred responsibility",
+      "Triggers": "- Public emergencies with many witnesses\n- Group tasks with ambiguous ownership\n- Large teams where accountability is diffuse\n- Situations where nobody is explicitly assigned to respond",
+      "Effects": "- Slower intervention in emergencies\n- Missed ownership in teams and organizations\n- Moral disengagement through shared passivity\n- Escalation of small problems because no one claims them early",
+      "Examples": "**Example 1 - Bystander street incident:**\nPeople hesitate to intervene because they assume someone else nearby will call for help.\n\n**Example 2 - Shared inbox:**\nCritical requests sit unanswered because each teammate assumes another person will respond.\n\n**Example 3 - Production bug:**\nA visible issue persists because ownership is spread across multiple teams and no one takes the first step.",
+      "Counters": "- Assign explicit ownership in group settings\n- In emergencies, address one person directly rather than appealing to the crowd\n- Treat visible inaction as a risk signal, not proof that action is unnecessary",
+      "References": "- Darley, J. M., & Latane, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. *Journal of Personality and Social Psychology*, 8(4), 377-383.\n- Latane, B., & Nida, S. (1981). Ten years of research on group size and helping. *Psychological Bulletin*, 89(2), 308-324."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
     "id": "groupthink",
     "name": "Groupthink",
     "category": "social",
@@ -631,6 +775,54 @@
       "Examples": "**Example 1 - Executive meeting:**\nA leadership team converges too quickly on an acquisition because no one wants to be the lone skeptic in front of the CEO.\n\n**Example 2 - Product launch:**\nA team ignores repeated QA concerns because momentum and optimism have become part of the group's identity.\n\n**Example 3 - Policy failure:**\nOfficials filter out contrary intelligence because agreement inside the inner circle feels more reassuring than uncertainty.",
       "Counters": "- Assign explicit dissent roles in major decisions\n- Gather independent judgments before discussion\n- Bring in outside reviewers with no stake in group cohesion",
       "References": "- Janis, I. L. (1972). *Victims of Groupthink*. Houghton Mifflin.\n- Whyte, G. (1998). Recasting Janis's groupthink model: The key role of collective efficacy in decision fiascoes. *Organizational Behavior and Human Decision Processes*, 73(2-3), 185-209."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "in-group-bias",
+    "name": "In-Group Bias",
+    "category": "social",
+    "origin": "Henri Tajfel, 1970",
+    "tags": [
+      "identity",
+      "bias",
+      "groups",
+      "favoritism",
+      "belonging"
+    ],
+    "summary": "In-group bias is the tendency to favor people perceived as part of one's own group in trust, evaluation, empathy, and resource allocation.",
+    "path": "models/social/in-group-bias.md",
+    "related": [
+      {
+        "name": "Conformity",
+        "path": "models/social/conformity.md"
+      },
+      {
+        "name": "Confirmation Bias",
+        "path": "models/cognitive/confirmation-bias.md"
+      },
+      {
+        "name": "Groupthink",
+        "path": "models/social/groupthink.md"
+      }
+    ],
+    "sections": {
+      "Summary": "In-group bias is the tendency to favor people perceived as part of one's own group in trust, evaluation, empathy, and resource allocation.",
+      "Mechanism": "1. People categorize themselves and others into groups\n2. Group membership becomes tied to identity and belonging\n3. Positive traits and trust are assigned more readily to the in-group\n4. Ambiguous behavior is interpreted more charitably for insiders than outsiders\n5. Favoritism reinforces group boundaries and loyalty",
+      "Triggers": "- Salient team, political, cultural, or organizational identities\n- Competition for status or resources\n- Ambiguous information about others' motives\n- Environments where group belonging is rewarded",
+      "Effects": "- Preferential trust and cooperation with insiders\n- Biased evaluation of people and ideas\n- Stronger polarization between groups\n- Uneven empathy and fairness judgments",
+      "Examples": "**Example 1 - Hiring discussion:**\nA team interprets a candidate from a familiar background as a better cultural fit despite similar evidence from another candidate.\n\n**Example 2 - Product debate:**\nEmployees defend their own department's proposal more charitably than an equally strong proposal from another team.\n\n**Example 3 - Online communities:**\nUsers excuse bad behavior from their own side while condemning the same behavior from an opposing group.",
+      "Counters": "- Evaluate arguments and people against explicit criteria rather than group identity\n- Increase shared goals that reduce zero-sum group framing\n- Use cross-group review and accountability in important decisions",
+      "References": "- Tajfel, H. (1970). Experiments in intergroup discrimination. *Scientific American*, 223(5), 96-102.\n- Brewer, M. B. (1979). In-group bias in the minimal intergroup situation. *Psychological Bulletin*, 86(2), 307-324."
     },
     "section_names": [
       "Summary",
@@ -867,6 +1059,54 @@
       "Examples": "**Example 1 - Team standup:**\nOne visibly stressed manager can make the whole room more tense before any facts are discussed.\n\n**Example 2 - Viral outrage:**\nRepeated exposure to angry posts increases a user's own anger even before they engage analytically with the issue.\n\n**Example 3 - Customer service floor:**\nOne upbeat agent can lift the energy of nearby coworkers and improve overall tone.",
       "Counters": "- Slow emotional spread with deliberate pauses and lower-intensity signaling\n- Avoid treating a contagious group mood as objective evidence\n- Use calm procedural structure during tense group decisions",
       "References": "- Hatfield, E., Cacioppo, J. T., & Rapson, R. L. (1993). Emotional contagion. *Current Directions in Psychological Science*, 2(3), 96-100.\n- Barsade, S. G. (2002). The ripple effect: Emotional contagion and its influence on group behavior. *Administrative Science Quarterly*, 47(4), 644-675."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "hedonic-adaptation",
+    "name": "Hedonic Adaptation",
+    "category": "emotional",
+    "origin": "Brickman & Campbell, 1971",
+    "tags": [
+      "adaptation",
+      "happiness",
+      "emotion",
+      "baseline",
+      "change"
+    ],
+    "summary": "Hedonic adaptation is the tendency for emotional reactions to gains and losses to fade over time as people return toward a relatively stable baseline of well-being.",
+    "path": "models/emotional/hedonic-adaptation.md",
+    "related": [
+      {
+        "name": "Negativity Bias",
+        "path": "models/emotional/negativity-bias.md"
+      },
+      {
+        "name": "Loss Aversion",
+        "path": "models/decision/loss-aversion.md"
+      },
+      {
+        "name": "Habit Loop",
+        "path": "models/behavioral/habit-loop.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Hedonic adaptation is the tendency for emotional reactions to gains and losses to fade over time as people return toward a relatively stable baseline of well-being.",
+      "Mechanism": "1. A positive or negative life change occurs\n2. Emotion shifts sharply in response to the event\n3. Attention and novelty are initially high\n4. Over time the new condition becomes normal\n5. Emotional intensity declines as baseline expectations reset",
+      "Triggers": "- Major purchases, promotions, achievements, or setbacks\n- Lifestyle upgrades that quickly become routine\n- Repeated exposure to previously exciting conditions\n- Comparisons that continually update what feels normal",
+      "Effects": "- Lasting satisfaction from external gains is often weaker than expected\n- People chase repeated upgrades for diminishing returns\n- Losses can feel permanently devastating in the short term but soften over time\n- Well-being depends partly on how quickly baselines reset",
+      "Examples": "**Example 1 - New salary:**\nA raise feels transformative at first, then becomes the new normal within months.\n\n**Example 2 - New device:**\nA purchase that felt exciting quickly becomes background infrastructure once novelty fades.\n\n**Example 3 - Social milestone:**\nRecognition initially boosts mood, but the emotional lift weakens as expectations rise.",
+      "Counters": "- Avoid assuming large external changes will produce permanent emotional payoff\n- Use gratitude and variety to slow adaptation\n- Invest more in systems and relationships than in novelty-driven upgrades",
+      "References": "- Brickman, P., & Campbell, D. T. (1971). Hedonic relativism and planning the good society. In M. H. Appley (Ed.), *Adaptation-Level Theory* (pp. 287-302). Academic Press.\n- Frederick, S., & Loewenstein, G. (1999). Hedonic adaptation. In D. Kahneman, E. Diener, & N. Schwarz (Eds.), *Well-Being* (pp. 302-329). Russell Sage Foundation."
     },
     "section_names": [
       "Summary",
@@ -1531,6 +1771,54 @@
       "Examples": "**Example 1 - Classroom norms:**\nStudents copy how respected classmates respond to teachers, not just what rules say.\n\n**Example 2 - Aggression modeling:**\nChildren exposed to rewarded aggressive behavior become more likely to reproduce it.\n\n**Example 3 - Junior onboarding:**\nA new employee learns team behavior mainly by watching what senior staff actually do, not by reading the handbook.",
       "Counters": "- Audit the models and incentives learners are exposed to\n- Pair instruction with visible examples of the desired behavior\n- Do not assume stated values matter if modeled behavior contradicts them",
       "References": "- Bandura, A. (1977). *Social Learning Theory*. Prentice Hall.\n- Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. *Journal of Abnormal and Social Psychology*, 63(3), 575-582."
+    },
+    "section_names": [
+      "Summary",
+      "Mechanism",
+      "Triggers",
+      "Effects",
+      "Examples",
+      "Counters",
+      "Related Models",
+      "References"
+    ]
+  },
+  {
+    "id": "theory-of-mind",
+    "name": "Theory of Mind",
+    "category": "developmental",
+    "origin": "Premack & Woodruff, 1978; Wimmer & Perner, 1983",
+    "tags": [
+      "development",
+      "perspective",
+      "beliefs",
+      "social-cognition",
+      "learning"
+    ],
+    "summary": "Theory of mind is the developmental capacity to understand that other people have beliefs, knowledge, intentions, and perspectives that can differ from one's own.",
+    "path": "models/developmental/theory-of-mind.md",
+    "related": [
+      {
+        "name": "Social Learning Theory",
+        "path": "models/developmental/social-learning-theory.md"
+      },
+      {
+        "name": "Attachment Theory",
+        "path": "models/developmental/attachment-theory.md"
+      },
+      {
+        "name": "Metacognition",
+        "path": "models/cognitive/metacognition.md"
+      }
+    ],
+    "sections": {
+      "Summary": "Theory of mind is the developmental capacity to understand that other people have beliefs, knowledge, intentions, and perspectives that can differ from one's own.",
+      "Mechanism": "1. The child begins with limited differentiation between self and other perspectives\n2. Social interaction provides repeated evidence that others know and believe different things\n3. Perspective-taking capacity becomes more explicit and flexible\n4. The child starts reasoning about false beliefs, hidden knowledge, and intention\n5. More advanced social prediction and communication become possible",
+      "Triggers": "- Social play involving deception, guessing, or hidden information\n- Conversations about what different people know or think\n- Developmental stages where false-belief tasks become tractable\n- Caregiver explanation of motives and perspectives",
+      "Effects": "- Better empathy and social prediction\n- Improved communication and teaching\n- Greater ability to understand deception and misunderstanding\n- More sophisticated interpretation of motives and beliefs",
+      "Examples": "**Example 1 - False-belief task:**\nA child begins to understand that another person will search where they last saw an object, not where the child now knows it is.\n\n**Example 2 - Classroom explanation:**\nA student realizes a peer is confused because they lack information, not because they are irrational.\n\n**Example 3 - Team communication:**\nAn adult communicator anticipates what the audience knows and explains accordingly.",
+      "Counters": "- Do not assume perspective-taking ability is fully developed just because language is advanced\n- Make hidden assumptions explicit in teaching and collaboration\n- Use questions that surface what other people currently know, not just what they should know",
+      "References": "- Premack, D., & Woodruff, G. (1978). Does the chimpanzee have a theory of mind? *Behavioral and Brain Sciences*, 1(4), 515-526.\n- Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of wrong beliefs in young children's understanding of deception. *Cognition*, 13(1), 103-128."
     },
     "section_names": [
       "Summary",

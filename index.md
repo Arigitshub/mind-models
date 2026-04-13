@@ -15,7 +15,7 @@ title: mind-models
 
 <section class="stats-grid">
   <article class="stat-card">
-    <p class="stat-value">34</p>
+    <p class="stat-value">40</p>
     <p class="stat-label">Total Models</p>
   </article>
   <article class="stat-card">
@@ -23,7 +23,7 @@ title: mind-models
     <p class="stat-label">Categories</p>
   </article>
   <article class="stat-card">
-    <p class="stat-value">3</p>
+    <p class="stat-value">5</p>
     <p class="stat-label">Generated Artifacts</p>
   </article>
   <article class="stat-card">
@@ -48,8 +48,16 @@ title: mind-models
     <p>Use the normalized export for agents, scripts, embeddings, indexing, or downstream tooling.</p>
   </article>
   <article class="surface-card">
+    <h3><a href="{{ '/model-chunks.json' | relative_url }}">Chunk Export</a></h3>
+    <p>Use chunk-level records when you need embeddings-ready text units instead of whole-model documents.</p>
+  </article>
+  <article class="surface-card">
     <h3><a href="{{ '/spec/schema.md' | relative_url }}">Schema</a></h3>
     <p>See the markdown contract that every model file follows across the repository.</p>
+  </article>
+  <article class="surface-card">
+    <h3><a href="{{ '/categories/cognitive' | relative_url }}">Category Pages</a></h3>
+    <p>Browse each category as its own landing page with focused summaries and direct links.</p>
   </article>
 </div>
 

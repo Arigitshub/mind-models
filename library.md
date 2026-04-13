@@ -5,10 +5,11 @@ title: Model Library
 <section class="hero hero-compact">
   <p class="eyebrow">Generated Library</p>
   <h1>Model Library</h1>
-  <p class="hero-copy">A validated catalog of <strong>34 models</strong> spanning cognitive, behavioral, social, emotional, decision, and developmental frameworks.</p>
+  <p class="hero-copy">A validated catalog of <strong>40 models</strong> spanning cognitive, behavioral, social, emotional, decision, and developmental frameworks.</p>
   <div class="hero-actions">
     <a class="button button-primary" href="{{ '/search' | relative_url }}">Search Models</a>
     <a class="button button-secondary" href="{{ '/models.json' | relative_url }}">Download models.json</a>
+    <a class="button button-secondary" href="{{ '/model-chunks.json' | relative_url }}">Chunk Export</a>
   </div>
 </section>
 
@@ -18,15 +19,15 @@ title: Model Library
     <p class="stat-label">Cognitive</p>
   </article>
   <article class="stat-card">
-    <p class="stat-value">4</p>
+    <p class="stat-value">6</p>
     <p class="stat-label">Behavioral</p>
   </article>
   <article class="stat-card">
-    <p class="stat-value">5</p>
+    <p class="stat-value">7</p>
     <p class="stat-label">Social</p>
   </article>
   <article class="stat-card">
-    <p class="stat-value">5</p>
+    <p class="stat-value">6</p>
     <p class="stat-label">Emotional</p>
   </article>
   <article class="stat-card">
@@ -34,7 +35,7 @@ title: Model Library
     <p class="stat-label">Decision</p>
   </article>
   <article class="stat-card">
-    <p class="stat-value">6</p>
+    <p class="stat-value">7</p>
     <p class="stat-label">Developmental</p>
   </article>
 </section>
@@ -42,6 +43,8 @@ title: Model Library
 ## Cognitive (7)
 
 Biases, perception, memory, reasoning, and self-monitoring.
+
+[Open category page]({{ '/categories/cognitive' | relative_url }})
 
 <div class="card-grid">
   <article class="model-card">
@@ -102,11 +105,21 @@ Biases, perception, memory, reasoning, and self-monitoring.
   </article>
 </div>
 
-## Behavioral (4)
+## Behavioral (6)
 
 Habits, conditioning, reinforcement, motivation, and learned behavior.
 
+[Open category page]({{ '/categories/behavioral' | relative_url }})
+
 <div class="card-grid">
+  <article class="model-card">
+    <p class="model-card-category">behavioral</p>
+    <h3><a href="{{ '/models/behavioral/classical-conditioning.md' | relative_url }}">Classical Conditioning</a></h3>
+    <p>Classical conditioning is learning by association, where a previously neutral cue comes to trigger a response after repeated pairing with a meaningful stimulus.</p>
+    <p class="meta-line"><strong>Origin:</strong> Ivan Pavlov, 1897</p>
+    <div class="tag-row"><span class="tag">conditioning</span> <span class="tag">association</span> <span class="tag">learning</span> <span class="tag">stimulus</span> <span class="tag">behavior</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/behavioral/operant-conditioning.md' | relative_url }}">Operant Conditioning</a>, <a href="{{ '/models/behavioral/habit-loop.md' | relative_url }}">Habit Loop</a>, <a href="{{ '/models/emotional/emotional-contagion.md' | relative_url }}">Emotional Contagion</a></p>
+  </article>
   <article class="model-card">
     <p class="model-card-category">behavioral</p>
     <h3><a href="{{ '/models/behavioral/habit-loop.md' | relative_url }}">Habit Loop</a></h3>
@@ -122,6 +135,14 @@ Habits, conditioning, reinforcement, motivation, and learned behavior.
     <p class="meta-line"><strong>Origin:</strong> B.F. Skinner, 1938</p>
     <div class="tag-row"><span class="tag">reward</span> <span class="tag">punishment</span> <span class="tag">reinforcement</span> <span class="tag">learning</span> <span class="tag">behavior-change</span></div>
     <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/behavioral/habit-loop.md' | relative_url }}">Habit Loop</a>, <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">behavioral</p>
+    <h3><a href="{{ '/models/behavioral/self-determination-theory.md' | relative_url }}">Self-Determination Theory</a></h3>
+    <p>Self-determination theory explains how motivation becomes more sustainable and effective when the needs for autonomy, competence, and relatedness are supported.</p>
+    <p class="meta-line"><strong>Origin:</strong> Edward Deci & Richard Ryan, 1985</p>
+    <div class="tag-row"><span class="tag">motivation</span> <span class="tag">autonomy</span> <span class="tag">competence</span> <span class="tag">belonging</span> <span class="tag">behavior</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/behavioral/operant-conditioning.md' | relative_url }}">Operant Conditioning</a>, <a href="{{ '/models/developmental/growth-mindset.md' | relative_url }}">Growth Mindset</a>, <a href="{{ '/models/behavioral/habit-loop.md' | relative_url }}">Habit Loop</a></p>
   </article>
   <article class="model-card">
     <p class="model-card-category">behavioral</p>
@@ -141,9 +162,11 @@ Habits, conditioning, reinforcement, motivation, and learned behavior.
   </article>
 </div>
 
-## Social (5)
+## Social (7)
 
 Influence, conformity, authority, and group-driven behavior.
+
+[Open category page]({{ '/categories/social' | relative_url }})
 
 <div class="card-grid">
   <article class="model-card">
@@ -164,11 +187,27 @@ Influence, conformity, authority, and group-driven behavior.
   </article>
   <article class="model-card">
     <p class="model-card-category">social</p>
+    <h3><a href="{{ '/models/social/diffusion-of-responsibility.md' | relative_url }}">Diffusion of Responsibility</a></h3>
+    <p>Diffusion of responsibility is the tendency for individual action to decrease when multiple people are present, because each person assumes someone else will act.</p>
+    <p class="meta-line"><strong>Origin:</strong> John Darley & Bibb Latane, 1968</p>
+    <div class="tag-row"><span class="tag">responsibility</span> <span class="tag">bystander</span> <span class="tag">groups</span> <span class="tag">inaction</span> <span class="tag">social</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/social/conformity.md' | relative_url }}">Conformity</a>, <a href="{{ '/models/social/groupthink.md' | relative_url }}">Groupthink</a>, <a href="{{ '/models/social/social-proof.md' | relative_url }}">Social Proof</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">social</p>
     <h3><a href="{{ '/models/social/groupthink.md' | relative_url }}">Groupthink</a></h3>
     <p>Groupthink is a failure mode where the desire for harmony and consensus suppresses dissent, critical evaluation, and realistic appraisal inside a decision-making group.</p>
     <p class="meta-line"><strong>Origin:</strong> Irving Janis, 1972</p>
     <div class="tag-row"><span class="tag">groups</span> <span class="tag">consensus</span> <span class="tag">conformity</span> <span class="tag">decisions</span> <span class="tag">pressure</span></div>
     <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/social/conformity.md' | relative_url }}">Conformity</a>, <a href="{{ '/models/social/authority-bias.md' | relative_url }}">Authority Bias</a>, <a href="{{ '/models/cognitive/confirmation-bias.md' | relative_url }}">Confirmation Bias</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">social</p>
+    <h3><a href="{{ '/models/social/in-group-bias.md' | relative_url }}">In-Group Bias</a></h3>
+    <p>In-group bias is the tendency to favor people perceived as part of one's own group in trust, evaluation, empathy, and resource allocation.</p>
+    <p class="meta-line"><strong>Origin:</strong> Henri Tajfel, 1970</p>
+    <div class="tag-row"><span class="tag">identity</span> <span class="tag">bias</span> <span class="tag">groups</span> <span class="tag">favoritism</span> <span class="tag">belonging</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/social/conformity.md' | relative_url }}">Conformity</a>, <a href="{{ '/models/cognitive/confirmation-bias.md' | relative_url }}">Confirmation Bias</a>, <a href="{{ '/models/social/groupthink.md' | relative_url }}">Groupthink</a></p>
   </article>
   <article class="model-card">
     <p class="model-card-category">social</p>
@@ -188,9 +227,11 @@ Influence, conformity, authority, and group-driven behavior.
   </article>
 </div>
 
-## Emotional (5)
+## Emotional (6)
 
 Emotion regulation, affective learning, and self-evaluative states.
+
+[Open category page]({{ '/categories/emotional' | relative_url }})
 
 <div class="card-grid">
   <article class="model-card">
@@ -219,6 +260,14 @@ Emotion regulation, affective learning, and self-evaluative states.
   </article>
   <article class="model-card">
     <p class="model-card-category">emotional</p>
+    <h3><a href="{{ '/models/emotional/hedonic-adaptation.md' | relative_url }}">Hedonic Adaptation</a></h3>
+    <p>Hedonic adaptation is the tendency for emotional reactions to gains and losses to fade over time as people return toward a relatively stable baseline of well-being.</p>
+    <p class="meta-line"><strong>Origin:</strong> Brickman & Campbell, 1971</p>
+    <div class="tag-row"><span class="tag">adaptation</span> <span class="tag">happiness</span> <span class="tag">emotion</span> <span class="tag">baseline</span> <span class="tag">change</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/emotional/negativity-bias.md' | relative_url }}">Negativity Bias</a>, <a href="{{ '/models/decision/loss-aversion.md' | relative_url }}">Loss Aversion</a>, <a href="{{ '/models/behavioral/habit-loop.md' | relative_url }}">Habit Loop</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">emotional</p>
     <h3><a href="{{ '/models/emotional/imposter-syndrome.md' | relative_url }}">Imposter Syndrome</a></h3>
     <p>A persistent internal experience of feeling like a fraud — believing one's success is due to luck or deception rather than genuine ability, despite objective evidence of competence.</p>
     <p class="meta-line"><strong>Origin:</strong> Pauline Clance & Suzanne Imes, 1978</p>
@@ -238,6 +287,8 @@ Emotion regulation, affective learning, and self-evaluative states.
 ## Decision (7)
 
 Choice under uncertainty, framing, loss, and forecasting.
+
+[Open category page]({{ '/categories/decision' | relative_url }})
 
 <div class="card-grid">
   <article class="model-card">
@@ -298,9 +349,11 @@ Choice under uncertainty, framing, loss, and forecasting.
   </article>
 </div>
 
-## Developmental (6)
+## Developmental (7)
 
 How the mind changes over time through stages, learning, and identity development.
+
+[Open category page]({{ '/categories/developmental' | relative_url }})
 
 <div class="card-grid">
   <article class="model-card">
@@ -342,6 +395,14 @@ How the mind changes over time through stages, learning, and identity developmen
     <p class="meta-line"><strong>Origin:</strong> Albert Bandura, 1977</p>
     <div class="tag-row"><span class="tag">learning</span> <span class="tag">imitation</span> <span class="tag">modeling</span> <span class="tag">development</span> <span class="tag">observation</span></div>
     <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/developmental/zone-of-proximal-development.md' | relative_url }}">Zone of Proximal Development</a>, <a href="{{ '/models/social/conformity.md' | relative_url }}">Conformity</a>, <a href="{{ '/models/behavioral/operant-conditioning.md' | relative_url }}">Operant Conditioning</a></p>
+  </article>
+  <article class="model-card">
+    <p class="model-card-category">developmental</p>
+    <h3><a href="{{ '/models/developmental/theory-of-mind.md' | relative_url }}">Theory of Mind</a></h3>
+    <p>Theory of mind is the developmental capacity to understand that other people have beliefs, knowledge, intentions, and perspectives that can differ from one's own.</p>
+    <p class="meta-line"><strong>Origin:</strong> Premack & Woodruff, 1978; Wimmer & Perner, 1983</p>
+    <div class="tag-row"><span class="tag">development</span> <span class="tag">perspective</span> <span class="tag">beliefs</span> <span class="tag">social-cognition</span> <span class="tag">learning</span></div>
+    <p class="meta-line"><strong>Related:</strong> <a href="{{ '/models/developmental/social-learning-theory.md' | relative_url }}">Social Learning Theory</a>, <a href="{{ '/models/developmental/attachment-theory.md' | relative_url }}">Attachment Theory</a>, <a href="{{ '/models/cognitive/metacognition.md' | relative_url }}">Metacognition</a></p>
   </article>
   <article class="model-card">
     <p class="model-card-category">developmental</p>

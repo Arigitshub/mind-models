@@ -16,7 +16,8 @@ title: Search
     <p class="lede">Try terms like <code>groupthink</code>, <code>reward</code>, <code>developmental</code>, <code>Bandura</code>, or <code>identity</code>.</p>
     <input id="search-box" type="search" placeholder="Search by model, tag, category, or concept" style="width: 100%; padding: 0.75rem 1rem; font-size: 1rem; border: 1px solid #c7d2da; border-radius: 0.75rem; margin: 1rem 0;" />
     <p id="search-status">Loading search index...</p>
-    <p><a href="{{ '/models.json' | relative_url }}">Need structured data instead?</a></p>
+    <p><a href="{{ '/models.json' | relative_url }}">Whole-model export</a></p>
+    <p><a href="{{ '/model-chunks.json' | relative_url }}">Chunk export for embeddings</a></p>
   </aside>
   <section class="surface-card">
     <div id="search-results" class="search-results"></div>
