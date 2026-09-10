@@ -68,6 +68,8 @@ Putting gym shoes by the door (cue engineering) → workout (routine) → endorp
 - **Build a habit:** make the cue obvious, the routine easy, and the reward immediate
 - **Keystone habits:** identify high-leverage routines whose change cascades into others (sleep, exercise, journaling)
 
+For a concrete task-initiation exercise, the maintainer's free [Pause90 guide](https://arigitshub.github.io/pause90-privacy-page/make-a-task-smaller.html?src=partner) demonstrates how to reduce a large task to one visible action. It is a general-wellness planning tool, not evidence for the Habit Loop model.
+
 ---
 
 ## Related Models
