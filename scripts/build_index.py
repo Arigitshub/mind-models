@@ -17,6 +17,7 @@ CHUNKS_JSONL = ROOT / "model-chunks.jsonl"
 
 FIELD_PATTERN = re.compile(r"^\*\*(Category|Origin|Tags):\*\*\s*(.+?)\s*$", re.MULTILINE)
 SECTION_PATTERN = re.compile(r"^##\s+(.+?)\s*$", re.MULTILINE)
+TITLE_PATTERN = re.compile(r"^#\s+(.+?)\s*$", re.MULTILINE)
 LINK_PATTERN = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 
 CATEGORY_DESCRIPTIONS = {
