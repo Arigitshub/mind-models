@@ -57,9 +57,9 @@ How the mind changes over time. Includes learning models, identity formation, an
 | `triggers` | ✅ | What activates this model |
 | `examples` | ✅ | 2–3 concrete real-world examples |
 | `effects` | ✅ | What outcomes does this model produce |
-| `counters` | ⬜ | How to reduce or override this model |
-| `related` | ⬜ | Links to other models in this repo |
-| `references` | ⬜ | Academic or primary sources |
+| `counters` | ✅ | How to reduce, override, or work with this model |
+| `related` | ✅ | Links to other models in this repo |
+| `references` | ✅ | Academic or primary sources; provenance, not a uniform evidence grade |
 
 ---
 
@@ -78,4 +78,5 @@ How the mind changes over time. Includes learning models, identity formation, an
 | v0.1 | Initial schema + 6 cognitive models |
 | v0.2 | Behavioral + social categories |
 | v0.3 | Emotional + decision + developmental |
-| v1.0 | Full 30+ model library, spec complete |
+| v1.0 | Full 30+ model library, generated exports, search, and Pages site |
+| v1.1 | Agent-ready identity hardening + integration contract |

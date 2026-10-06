@@ -65,7 +65,7 @@ Description of example.
 
 ## Counters
 
-*(Optional)* How to reduce, override, or work with this model:
+Required. How to reduce, override, or work with this model:
 
 - Counter A
 - Counter B
