@@ -1,7 +1,7 @@
 [
   {
-    "id": "",
-    "name": "---",
+    "id": "anchoring-effect",
+    "name": "Anchoring Effect",
     "category": "cognitive",
     "origin": "Amos Tversky & Daniel Kahneman, 1974",
     "tags": [
@@ -24,8 +24,9 @@
       }
     ],
     "keywords": [
-      "---",
+      "anchoring",
       "cognitive",
+      "effect",
       "estimation",
       "first-impression",
       "judgment",
@@ -34,8 +35,8 @@
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "availability-heuristic",
+    "name": "Availability Heuristic",
     "category": "cognitive",
     "origin": "Amos Tversky & Daniel Kahneman, 1973",
     "tags": [
@@ -58,8 +59,9 @@
       }
     ],
     "keywords": [
-      "---",
+      "availability",
       "cognitive",
+      "heuristic",
       "judgment",
       "memory",
       "probability",
@@ -68,8 +70,8 @@
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "cognitive-dissonance",
+    "name": "Cognitive Dissonance",
     "category": "cognitive",
     "origin": "Leon Festinger, 1957",
     "tags": [
@@ -92,18 +94,18 @@
       }
     ],
     "keywords": [
-      "---",
       "belief",
       "cognitive",
       "conflict",
       "consistency",
+      "dissonance",
       "motivation",
       "rationalization"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "confirmation-bias",
+    "name": "Confirmation Bias",
     "category": "cognitive",
     "origin": "Peter Wason, 1960",
     "tags": [
@@ -130,9 +132,10 @@
       }
     ],
     "keywords": [
-      "---",
       "belief",
+      "bias",
       "cognitive",
+      "confirmation",
       "information",
       "perception",
       "reasoning",
@@ -140,8 +143,8 @@
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "dunning-kruger-effect",
+    "name": "Dunning-Kruger Effect",
     "category": "cognitive",
     "origin": "David Dunning & Justin Kruger, 1999",
     "tags": [
@@ -168,18 +171,19 @@
       }
     ],
     "keywords": [
-      "---",
       "cognitive",
       "competence",
       "confidence",
+      "dunning-kruger",
+      "effect",
       "learning",
       "metacognition",
       "self-assessment"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "halo-effect",
+    "name": "Halo Effect",
     "category": "cognitive",
     "origin": "Edward Thorndike, 1920",
     "tags": [
@@ -206,18 +210,19 @@
       }
     ],
     "keywords": [
-      "---",
       "bias",
       "cognitive",
+      "effect",
       "generalization",
+      "halo",
       "judgment",
       "perception",
       "reputation"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "metacognition",
+    "name": "Metacognition",
     "category": "cognitive",
     "origin": "John Flavell, 1976",
     "tags": [
@@ -244,18 +249,18 @@
       }
     ],
     "keywords": [
-      "---",
       "accuracy",
       "cognitive",
       "learning",
+      "metacognition",
       "regulation",
       "self-awareness",
       "thinking"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "classical-conditioning",
+    "name": "Classical Conditioning",
     "category": "behavioral",
     "origin": "Ivan Pavlov, 1897",
     "tags": [
@@ -282,18 +287,18 @@
       }
     ],
     "keywords": [
-      "---",
       "association",
       "behavior",
       "behavioral",
+      "classical",
       "conditioning",
       "learning",
       "stimulus"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "habit-loop",
+    "name": "Habit Loop",
     "category": "behavioral",
     "origin": "Charles Duhigg (popularized), based on MIT basal ganglia research, 1990s–2012",
     "tags": [
@@ -312,18 +317,18 @@
       }
     ],
     "keywords": [
-      "---",
       "behavior-change",
       "behavioral",
       "cue",
       "habit",
+      "loop",
       "reward",
       "routine"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "operant-conditioning",
+    "name": "Operant Conditioning",
     "category": "behavioral",
     "origin": "B.F. Skinner, 1938",
     "tags": [
@@ -346,18 +351,19 @@
       }
     ],
     "keywords": [
-      "---",
       "behavior-change",
       "behavioral",
+      "conditioning",
       "learning",
+      "operant",
       "punishment",
       "reinforcement",
       "reward"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "self-determination-theory",
+    "name": "Self-Determination Theory",
     "category": "behavioral",
     "origin": "Edward Deci & Richard Ryan, 1985",
     "tags": [
@@ -384,18 +390,19 @@
       }
     ],
     "keywords": [
-      "---",
       "autonomy",
       "behavior",
       "behavioral",
       "belonging",
       "competence",
-      "motivation"
+      "motivation",
+      "self-determination",
+      "theory"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "self-perception-theory",
+    "name": "Self-Perception Theory",
     "category": "behavioral",
     "origin": "Daryl Bem, 1972",
     "tags": [
@@ -422,18 +429,19 @@
       }
     ],
     "keywords": [
-      "---",
       "attitude",
       "behavior",
       "behavioral",
       "identity",
       "inference",
-      "self-observation"
+      "self-observation",
+      "self-perception",
+      "theory"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "temptation-bundling",
+    "name": "Temptation Bundling",
     "category": "behavioral",
     "origin": "Katherine Milkman, Julia Minson, & Kevin Volpp, 2014",
     "tags": [
@@ -460,18 +468,19 @@
       }
     ],
     "keywords": [
-      "---",
       "behavioral",
+      "bundling",
       "commitment",
       "habit",
       "motivation",
       "reward",
-      "self-control"
+      "self-control",
+      "temptation"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "authority-bias",
+    "name": "Authority Bias",
     "category": "social",
     "origin": "Stanley Milgram, 1963; Robert Cialdini, 1984",
     "tags": [
@@ -494,8 +503,8 @@
       }
     ],
     "keywords": [
-      "---",
       "authority",
+      "bias",
       "compliance",
       "deference",
       "influence",
@@ -504,8 +513,8 @@
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "conformity",
+    "name": "Conformity",
     "category": "social",
     "origin": "Solomon Asch, 1951",
     "tags": [
@@ -532,7 +541,6 @@
       }
     ],
     "keywords": [
-      "---",
       "conformity",
       "groups",
       "influence",
@@ -542,8 +550,8 @@
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "diffusion-of-responsibility",
+    "name": "Diffusion of Responsibility",
     "category": "social",
     "origin": "John Darley & Bibb Latane, 1968",
     "tags": [
@@ -570,17 +578,18 @@
       }
     ],
     "keywords": [
-      "---",
       "bystander",
+      "diffusion",
       "groups",
       "inaction",
+      "of",
       "responsibility",
       "social"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "groupthink",
+    "name": "Groupthink",
     "category": "social",
     "origin": "Irving Janis, 1972",
     "tags": [
@@ -607,18 +616,18 @@
       }
     ],
     "keywords": [
-      "---",
       "conformity",
       "consensus",
       "decisions",
       "groups",
+      "groupthink",
       "pressure",
       "social"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "in-group-bias",
+    "name": "In-Group Bias",
     "category": "social",
     "origin": "Henri Tajfel, 1970",
     "tags": [
@@ -645,18 +654,18 @@
       }
     ],
     "keywords": [
-      "---",
       "belonging",
       "bias",
       "favoritism",
       "groups",
       "identity",
+      "in-group",
       "social"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "reciprocity",
+    "name": "Reciprocity",
     "category": "social",
     "origin": "Alvin Gouldner, 1960; Robert Cialdini, 1984",
     "tags": [
@@ -683,7 +692,6 @@
       }
     ],
     "keywords": [
-      "---",
       "cooperation",
       "exchange",
       "influence",
@@ -693,8 +701,8 @@
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "social-proof",
+    "name": "Social Proof",
     "category": "social",
     "origin": "Robert Cialdini, 1984",
     "tags": [
@@ -717,18 +725,18 @@
       }
     ],
     "keywords": [
-      "---",
       "behavior",
       "conformity",
       "influence",
       "persuasion",
+      "proof",
       "social",
       "uncertainty"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "attribution-theory",
+    "name": "Attribution Theory",
     "category": "emotional",
     "origin": "Fritz Heider, 1958; Bernard Weiner, 1970s",
     "tags": [
@@ -755,18 +763,18 @@
       }
     ],
     "keywords": [
-      "---",
       "attribution",
       "emotion",
       "emotional",
       "explanation",
       "failure",
-      "success"
+      "success",
+      "theory"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "dopamine-reward-prediction",
+    "name": "Dopamine Reward Prediction",
     "category": "emotional",
     "origin": "Wolfram Schultz, 1997",
     "tags": [
@@ -793,7 +801,6 @@
       }
     ],
     "keywords": [
-      "---",
       "dopamine",
       "emotional",
       "learning",
@@ -803,8 +810,8 @@
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "emotional-contagion",
+    "name": "Emotional Contagion",
     "category": "emotional",
     "origin": "Elaine Hatfield, John Cacioppo, & Richard Rapson, 1993",
     "tags": [
@@ -831,7 +838,6 @@
       }
     ],
     "keywords": [
-      "---",
       "affect",
       "contagion",
       "emotion",
@@ -841,8 +847,8 @@
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "hedonic-adaptation",
+    "name": "Hedonic Adaptation",
     "category": "emotional",
     "origin": "Brickman & Campbell, 1971",
     "tags": [
@@ -869,18 +875,18 @@
       }
     ],
     "keywords": [
-      "---",
       "adaptation",
       "baseline",
       "change",
       "emotion",
       "emotional",
-      "happiness"
+      "happiness",
+      "hedonic"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "imposter-syndrome",
+    "name": "Imposter Syndrome",
     "category": "emotional",
     "origin": "Pauline Clance & Suzanne Imes, 1978",
     "tags": [
@@ -903,18 +909,19 @@
       }
     ],
     "keywords": [
-      "---",
       "achievement",
       "anxiety",
       "competence",
       "emotional",
       "identity",
-      "self-doubt"
+      "imposter",
+      "self-doubt",
+      "syndrome"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "negativity-bias",
+    "name": "Negativity Bias",
     "category": "emotional",
     "origin": "Paul Rozin & Edward Royzman, 2001",
     "tags": [
@@ -941,18 +948,18 @@
       }
     ],
     "keywords": [
-      "---",
       "attention",
       "bias",
       "emotion",
       "emotional",
       "memory",
+      "negativity",
       "threat"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "affect-heuristic",
+    "name": "Affect Heuristic",
     "category": "decision",
     "origin": "Paul Slovic, Melissa Finucane, Ellen Peters, & Donald MacGregor, 2002",
     "tags": [
@@ -979,9 +986,10 @@
       }
     ],
     "keywords": [
-      "---",
+      "affect",
       "decision",
       "emotion",
+      "heuristic",
       "intuition",
       "judgment",
       "risk",
@@ -989,8 +997,8 @@
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "bandwagon-effect",
+    "name": "Bandwagon Effect",
     "category": "decision",
     "origin": "Harvey Leibenstein, 1950",
     "tags": [
@@ -1017,18 +1025,19 @@
       }
     ],
     "keywords": [
-      "---",
       "adoption",
+      "bandwagon",
       "conformity",
       "decision",
+      "effect",
       "popularity",
       "social-influence",
       "trend"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "framing-effect",
+    "name": "Framing Effect",
     "category": "decision",
     "origin": "Amos Tversky & Daniel Kahneman, 1981",
     "tags": [
@@ -1055,18 +1064,18 @@
       }
     ],
     "keywords": [
-      "---",
       "choice",
       "decision",
       "decision-making",
+      "effect",
       "framing",
       "language",
       "risk"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "loss-aversion",
+    "name": "Loss Aversion",
     "category": "decision",
     "origin": "Daniel Kahneman & Amos Tversky, 1979",
     "tags": [
@@ -1089,7 +1098,7 @@
       }
     ],
     "keywords": [
-      "---",
+      "aversion",
       "decision",
       "decision-making",
       "gain",
@@ -1099,8 +1108,8 @@
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "recency-bias",
+    "name": "Recency Bias",
     "category": "decision",
     "origin": "Hermann Ebbinghaus, 1885; later decision and finance literature",
     "tags": [
@@ -1127,18 +1136,19 @@
       }
     ],
     "keywords": [
-      "---",
+      "bias",
       "decision",
       "forecasting",
       "judgment",
       "memory",
+      "recency",
       "timing",
       "trend"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "status-quo-bias",
+    "name": "Status Quo Bias",
     "category": "decision",
     "origin": "William Samuelson & Richard Zeckhauser, 1988",
     "tags": [
@@ -1165,18 +1175,20 @@
       }
     ],
     "keywords": [
-      "---",
+      "bias",
       "change",
       "decision",
       "default",
       "inertia",
       "preference",
-      "risk"
+      "quo",
+      "risk",
+      "status"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "sunk-cost-fallacy",
+    "name": "Sunk Cost Fallacy",
     "category": "decision",
     "origin": "Richard Thaler, 1980; Arkes & Blumer, 1985",
     "tags": [
@@ -1203,18 +1215,20 @@
       }
     ],
     "keywords": [
-      "---",
       "commitment",
+      "cost",
       "decision",
       "escalation",
+      "fallacy",
       "investment",
       "loss",
-      "persistence"
+      "persistence",
+      "sunk"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "attachment-theory",
+    "name": "Attachment Theory",
     "category": "developmental",
     "origin": "John Bowlby, 1969; Mary Ainsworth, 1978",
     "tags": [
@@ -1241,18 +1255,18 @@
       }
     ],
     "keywords": [
-      "---",
       "attachment",
       "caregiving",
       "development",
       "developmental",
       "relationships",
-      "security"
+      "security",
+      "theory"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "erikson-s-psychosocial-development",
+    "name": "Erikson's Psychosocial Development",
     "category": "developmental",
     "origin": "Erik Erikson, 1950",
     "tags": [
@@ -1279,18 +1293,19 @@
       }
     ],
     "keywords": [
-      "---",
       "development",
       "developmental",
+      "erikson's",
       "identity",
       "lifespan",
+      "psychosocial",
       "socialization",
       "stages"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "growth-mindset",
+    "name": "Growth Mindset",
     "category": "developmental",
     "origin": "Carol Dweck, 2006",
     "tags": [
@@ -1317,18 +1332,18 @@
       }
     ],
     "keywords": [
-      "---",
       "ability",
       "development",
       "developmental",
       "effort",
+      "growth",
       "learning",
       "mindset"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "piaget-s-cognitive-development",
+    "name": "Piaget's Cognitive Development",
     "category": "developmental",
     "origin": "Jean Piaget, 1936",
     "tags": [
@@ -1355,18 +1370,19 @@
       }
     ],
     "keywords": [
-      "---",
       "childhood",
       "cognition",
+      "cognitive",
       "development",
       "developmental",
       "learning",
+      "piaget's",
       "stages"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "social-learning-theory",
+    "name": "Social Learning Theory",
     "category": "developmental",
     "origin": "Albert Bandura, 1977",
     "tags": [
@@ -1393,18 +1409,19 @@
       }
     ],
     "keywords": [
-      "---",
       "development",
       "developmental",
       "imitation",
       "learning",
       "modeling",
-      "observation"
+      "observation",
+      "social",
+      "theory"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "theory-of-mind",
+    "name": "Theory of Mind",
     "category": "developmental",
     "origin": "Premack & Woodruff, 1978; Wimmer & Perner, 1983",
     "tags": [
@@ -1431,18 +1448,20 @@
       }
     ],
     "keywords": [
-      "---",
       "beliefs",
       "development",
       "developmental",
       "learning",
+      "mind",
+      "of",
       "perspective",
-      "social-cognition"
+      "social-cognition",
+      "theory"
     ]
   },
   {
-    "id": "",
-    "name": "---",
+    "id": "zone-of-proximal-development",
+    "name": "Zone of Proximal Development",
     "category": "developmental",
     "origin": "Lev Vygotsky, 1934",
     "tags": [
@@ -1469,13 +1488,15 @@
       }
     ],
     "keywords": [
-      "---",
       "capability",
       "development",
       "developmental",
       "learning",
+      "of",
+      "proximal",
       "scaffolding",
-      "teaching"
+      "teaching",
+      "zone"
     ]
   }
 ]
