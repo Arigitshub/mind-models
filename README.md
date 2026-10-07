@@ -92,13 +92,25 @@ Published docs:
 - [Models Export](models.json)
 - [Chunk Export](model-chunks.json)
 - [Tabular Exports](exports/)
+- [Agent Guide](AGENTS.md)
+
+## Use with AI agents
+
+Start with [AGENTS.md](AGENTS.md). The shortest integration path is:
+
+- Use `models.json` when the agent needs complete model records.
+- Use `model-chunks.jsonl` for retrieval/RAG pipelines.
+- Preserve each model's `path` so answers can point back to the human-readable source.
+- Treat the `References` section as provenance, not as a blanket claim that every model has equal empirical support.
+
+The library is a descriptive knowledge layer. It is not a diagnostic system and should not be used to infer a person's mental-health condition from behavior.
 
 ---
 
 ## Use Cases
 
 - Build AI agents that understand human psychology
-- Train models on behavioral patterns
+- Ground AI agents and retrieval systems in a consistent behavioral vocabulary
 - Design better UX, products, or teams
 - Study and teach psychology systematically
 - Extend with your own models via PR

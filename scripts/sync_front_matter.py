@@ -39,6 +39,7 @@ def format_front_matter(title: str, category: str, tags: list[str], origin: str,
         f'summary: "{summary.replace(chr(34), chr(92) + chr(34))}"',
         "---",
         "",
+        "",
     ]
     return "\n".join(lines)
 

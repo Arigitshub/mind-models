@@ -69,6 +69,10 @@ title: mind-models
     <h3><a href="{{ '/exports/models.csv' | relative_url }}">Tabular Exports</a></h3>
     <p>Pull the library into spreadsheets, notebooks, or bulk ingestion flows using generated CSV outputs.</p>
   </article>
+  <article class="surface-card">
+    <h3><a href="{{ '/AGENTS.md' | relative_url }}">Agent Guide</a></h3>
+    <p>Give ChatGPT, Claude, Gemini, coding agents, or RAG pipelines one explicit contract for selecting, citing, and applying the library.</p>
+  </article>
 </div>
 
 ## Explore by Category
@@ -109,6 +113,8 @@ title: mind-models
 ## Coverage
 
 <p class="lede">The library now spans cognitive biases, conditioning loops, social influence, affective dynamics, decision frameworks, and developmental models. It is intentionally broad enough to support research, teaching, product work, and agent-oriented reasoning.</p>
+
+> **Evidence note:** references provide provenance for each model, but the library does not currently assign a uniform evidence-strength grade. Use it as a structured reference layer, not as a diagnostic authority.
 
 ## What You Can Do With It
 

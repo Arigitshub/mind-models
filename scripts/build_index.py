@@ -17,6 +17,7 @@ CHUNKS_JSONL = ROOT / "model-chunks.jsonl"
 
 FIELD_PATTERN = re.compile(r"^\*\*(Category|Origin|Tags):\*\*\s*(.+?)\s*$", re.MULTILINE)
 SECTION_PATTERN = re.compile(r"^##\s+(.+?)\s*$", re.MULTILINE)
+TITLE_PATTERN = re.compile(r"^#\s+(.+?)\s*$", re.MULTILINE)
 LINK_PATTERN = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 
 CATEGORY_DESCRIPTIONS = {
@@ -58,7 +59,10 @@ def split_sections(text: str) -> dict[str, str]:
 def parse_model(path: Path) -> dict:
     text = path.read_text(encoding="utf-8")
     fields = {name: value.strip() for name, value in FIELD_PATTERN.findall(text)}
-    title = text.splitlines()[0].lstrip("# ").strip()
+    title_match = TITLE_PATTERN.search(text)
+    if not title_match:
+        raise ValueError(f"missing H1 model title: {path.relative_to(ROOT)}")
+    title = title_match.group(1).strip()
     sections = split_sections(text)
     category = fields.get("Category", path.parent.name)
     relative_path = path.relative_to(ROOT).as_posix()
@@ -279,6 +283,10 @@ def main() -> None:
         [parse_model(path) for path in MODELS_DIR.rglob("*.md")],
         key=lambda item: (CATEGORY_ORDER.index(item["category"]), item["name"]),
     )
+    model_ids = [model["id"] for model in models]
+    if any(not model_id for model_id in model_ids) or len(set(model_ids)) != len(model_ids):
+        raise ValueError("model ids must be non-empty and unique")
+
     search_index = build_search_index(models)
     chunks = build_chunks(models)
     CATEGORIES_DIR.mkdir(exist_ok=True)
